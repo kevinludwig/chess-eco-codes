@@ -458,5 +458,70 @@ module.exports = [
         code: "A12",
         name: "English, Caro-Kann defensive system, Bogolyubov variation",
         moves: "1. c4 c6 2. Nf3 d5 3. b3 Bg4"
+    },
+    {
+        code: "A13",
+        name: "English opening",
+        moves: "1. c4 e6"
+    },
+    {
+        code: "A13",
+        name: "English, Romanishin gambit",
+        moves: "1. c4 e6 2. Nf3 Nf6 3. g3 a6 4. Bg2 b5"
+    },
+    {
+        code: "A13",
+        name: "English opening, Agincourt variation",
+        moves: "1. c4 e6 2. Nf3 d5"
+    },
+    {
+        code: "A13",
+        name: "English, Wimpey system",
+        moves: "1. c4 e6 2. Nf3 d5 3. b3 Nf6 4. Bb2 c5 5. e3"
+    },
+    {
+        code: "A13",
+        name: "English opening, Agincourt variation",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3"
+    },
+    {
+        code: "A13",
+        name: "English, Kurajica defence",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3 c6"
+    },
+    {
+        code: "A13",
+        name: "English, Neo-Catalan",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3 Nf6"
+    },
+    {
+        code: "A13",
+        name: "English, Neo-Catalan accepted",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 dxc4"
+    },
+    {
+        code: "A14",
+        name: "English, Neo-Catalan declined",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. O-O"
+    },
+    {
+        code: "A14",
+        name: "English, Symmetrical, Keres defence",
+        moves: "1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 Be7 5. O-O c5 6. cxd5 Nxd5 7. Nc3 Nc6"
+    },
+    {
+        code: "A15",
+        name: "English, 1...Nf6 (Anglo-Indian defense)",
+        moves: "1. c4 Nf6"
+    },
+    {
+        code: "A15",
+        name: "English orang-utan",
+        moves: "1. c4 Nf6 2. b4"
+    },
+    {
+        code: "A15",
+        name: "English opening",
+        moves: "1. c4 Nf6 2. Nf3"
     }
 ];
