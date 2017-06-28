@@ -388,5 +388,75 @@ module.exports = [
         code: "A09",
         name: "Reti accepted, Keres variation",
         moves: "1. Nf3 d5 2. c4 dxc4 3. e3 Be6"
+    },
+    {
+        code: "A10",
+        name: "English opening",
+        moves: "1. c4"
+    },
+    {
+        code: "A10",
+        name: "English opening",
+        moves: "1. c4 g6"
+    },
+    {
+        code: "A10",
+        name: "English, Adorjan defence",
+        moves: "1. c4 g6 2. e4 e5"
+    },
+    {
+        code: "A10",
+        name: "English, Jaenisch gambit",
+        moves: "1. c4 b5"
+    },
+    {
+        code: "A10",
+        name: "English, Anglo-Dutch defense",
+        moves: "1. c4 f5"
+    },
+    {
+        code: "A11",
+        name: "English, Caro-Kann defensive system",
+        moves: "1. c4 c6"
+    },
+    {
+        code: "A12",
+        name: "English, Caro-Kann defensive system",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3"
+    },
+    {
+        code: "A12",
+        name: "English, Torre defensive system",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. g3 Bg4"
+    },
+    {
+        code: "A12",
+        name: "English, London defensive system",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. g3 Bf5"
+    },
+    {
+        code: "A12",
+        name: "English, Caro-Kann defensive system",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. Bb2"
+    },
+    {
+        code: "A12",
+        name: "English, Bled variation",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. Bb2 g6"
+    },
+    {
+        code: "A12",
+        name: "English, New York (London) defensive system",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Bf5"
+    },
+    {
+        code: "A12",
+        name: "English, Capablanca's variation",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Nf6 4. Bb2 Bg4"
+    },
+    {
+        code: "A12",
+        name: "English, Caro-Kann defensive system, Bogolyubov variation",
+        moves: "1. c4 c6 2. Nf3 d5 3. b3 Bg4"
     }
 ];
