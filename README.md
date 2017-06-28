@@ -9,7 +9,7 @@ Lookup ECO codes from FEN. This is a work in progress.
 ```
 const eco = require('chess-eco-codes');
 
-const data = eco('rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq - 0 1');
+const data = eco('rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1');
 console.log(data);
 
 ```

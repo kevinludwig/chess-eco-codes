@@ -1,0 +1,344 @@
+{
+  "rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1": {
+    "code": "A00",
+    "name": "Polish Opening",
+    "moves": "1. b4",
+    "fen": "rnbqkbnr/pppppppp/8/8/1P6/8/P1PPPPPP/RNBQKBNR b KQkq b3 0 1"
+  },
+  "rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 1 2": {
+    "code": "A00",
+    "name": "Polish, Tuebingen variation",
+    "moves": "1. b4 Nh6",
+    "fen": "rnbqkb1r/pppppppp/7n/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 1 2"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "A00",
+    "name": "Polish, Outflank variation",
+    "moves": "1. b4 c6",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/1P6/8/P1PPPPPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Benko's opening",
+    "moves": "1. g3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/6P1/PPPPPP1P/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq h6 0 2": {
+    "code": "A00",
+    "name": "Lasker simul special",
+    "moves": "1. g3 h5",
+    "fen": "rnbqkbnr/ppppppp1/8/7p/8/6P1/PPPPPP1P/RNBQKBNR w KQkq h6 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 1 2": {
+    "code": "A00",
+    "name": "Benko's opening, reversed Alekhine",
+    "moves": "g3 e5 2. Nf3",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/5NP1/PPPPPP1P/RNBQKB1R b KQkq - 1 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1": {
+    "code": "A00",
+    "name": "Grob's Attack",
+    "moves": "1. g4",
+    "fen": "rnbqkbnr/pppppppp/8/8/6P1/8/PPPPPP1P/RNBQKBNR b KQkq g3 0 1"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq - 0 3": {
+    "code": "A00",
+    "name": "Grob, spike attack",
+    "moves": "1. g4 d5 2. Bg2 c6 3. g5",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p2P1/8/8/PPPPPPBP/RNBQK1NR b KQkq - 0 3"
+  },
+  "rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq c3 0 3": {
+    "code": "A00",
+    "name": "Grob, Fritz gambit",
+    "moves": "1. g4 d5 2. Bg2 Bxg4 3. c4",
+    "fen": "rn1qkbnr/ppp1pppp/8/3p4/2P3b1/8/PP1PPPBP/RNBQK1NR b KQkq c3 0 3"
+  },
+  "rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4": {
+    "code": "A00",
+    "name": "Grob, Romford counter-gambit",
+    "moves": "1. g4 d5 2. Bg2 Bxg4 3. c4 d4",
+    "fen": "rn1qkbnr/ppp1pppp/8/8/2Pp2b1/8/PP1PPPBP/RNBQK1NR w KQkq - 0 4"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Clemenz (Mead's, Basman's or de Klerk's) opening",
+    "moves": "1. h3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/7P/PPPPPPP1/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/P6P/1PPPPPP1/RNBQKBNR b KQkq - 0 2": {
+    "code": "A00",
+    "name": "Global opening",
+    "moves": "1. h3 e5 2. a3",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/P6P/1PPPPPP1/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1": {
+    "code": "A00",
+    "name": "Amar (Paris) opening",
+    "moves": "1. Nh3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/7N/PPPPPPPP/RNBQKB1R b KQkq - 1 1"
+  },
+  "rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQK2R w KQkq - 0 5": {
+    "code": "A00",
+    "name": "Amar gambit",
+    "moves": "1. Nh3 d5 2. g3 e5 3. f4 Bxh3 4. Bxh3 exf4",
+    "fen": "rn1qkbnr/ppp2ppp/8/3p4/5p2/6PB/PPPPP2P/RNBQK2R w KQkq - 0 5"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1": {
+    "code": "A00",
+    "name": "Dunst (Sleipner, Heinrichsen) opening",
+    "moves": "1. Nc3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/2N5/PPPPPPPP/R1BQKBNR b KQkq - 1 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/2N5/PPPPPPPP/R1BQKBNR w KQkq e6 0 2": {
+    "code": "A00",
+    "name": "Dunst (Sleipner,Heinrichsen) opening",
+    "moves": "1. Nc3 e5",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/2N5/PPPPPPPP/R1BQKBNR w KQkq e6 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR b KQkq - 0 2": {
+    "code": "A00",
+    "name": "Battambang opening",
+    "moves": "1. Nc3 e5 2. a3",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/P1N5/1PPPPPPP/R1BQKBNR b KQkq - 0 2"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4": {
+    "code": "A00",
+    "name": "Novosibirsk opening",
+    "moves": "1. Nc3 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qh4",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/8/7Q/2N5/PPP1PPPP/R1B1KBNR b KQkq - 2 4"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Anderssen's opening",
+    "moves": "1. a3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/P7/1PPPPPPP/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1": {
+    "code": "A00",
+    "name": "Ware (Meadow Hay) opening",
+    "moves": "1. a4",
+    "fen": "rnbqkbnr/pppppppp/8/8/P7/8/1PPPPPPP/RNBQKBNR b KQkq a3 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq h3 0 2": {
+    "code": "A00",
+    "name": "Crab opening",
+    "moves": "1. a4 e5 2. h4",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/P6P/8/1PPPPPP1/RNBQKBNR b KQkq h3 0 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Saragossa opening",
+    "moves": "1. c3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/2P5/PP1PPPPP/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Mieses opening",
+    "moves": "1. d3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/3P4/PPP1PPPP/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPP1PPPP/RNBQKBNR w KQkq e6 0 2": {
+    "code": "A00",
+    "name": "Mieses opening",
+    "moves": "1. d3 e5",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPP1PPPP/RNBQKBNR w KQkq e6 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq - 1 2": {
+    "code": "A00",
+    "name": "Valencia opening",
+    "moves": "1. d3 e5 2. Nd2",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/3P4/PPPNPPPP/R1BQKBNR b KQkq - 1 2"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq - 0 3": {
+    "code": "A00",
+    "name": "Venezolana opening",
+    "moves": "1. d3 c5 2. Nc3 Nc6 3. g3",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/8/2NP2P1/PPP1PP1P/R1BQKBNR b KQkq - 0 3"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Van't Kruijs opening",
+    "moves": "1. e3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/4P3/PPPP1PPP/RNBQKBNR b KQkq - 0 1"
+  },
+  "r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq - 1 5": {
+    "code": "A00",
+    "name": "Amsterdam attack",
+    "moves": "1. e3 e5 2. c4 d6 3. Nc3 Nc6 4. b3 Nf6",
+    "fen": "r1bqkb1r/ppp2ppp/2np1n2/4p3/2P5/1PN1P3/P2P1PPP/R1BQKBNR w KQkq - 1 5"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A00",
+    "name": "Gedult's opening",
+    "moves": "1. f3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/5P2/PPPPP1PP/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2": {
+    "code": "A00",
+    "name": "Hammerschlag (Fried fox/Pork chop opening)",
+    "moves": "1. f3 e5 2. Kf2",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/5P2/PPPPPKPP/RNBQ1BNR b kq - 1 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq h3 0 1": {
+    "code": "A00",
+    "name": "Anti-Borg (Desprez) opening",
+    "moves": "1. h4",
+    "fen": "rnbqkbnr/pppppppp/8/8/7P/8/PPPPPPP1/RNBQKBNR b KQkq h3 0 1"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq - 1 1": {
+    "code": "A00",
+    "name": "Durkin's attack",
+    "moves": "1. Na3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/N7/PPPPPPPP/R1BQKBNR b KQkq - 1 1"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack",
+    "moves": "1. b3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/1P6/P1PPPPPP/RNBQKBNR b KQkq - 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq e6 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, modern variation",
+    "moves": "1. b3 e5",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/8/1P6/P1PPPPPP/RNBQKBNR w KQkq e6 0 2"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 1 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, Indian variation",
+    "moves": "1. b3 Nf6",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 1 2"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/8/1P6/P1PPPPPP/RNBQKBNR w KQkq d6 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, classical variation",
+    "moves": "1. b3 d5",
+    "fen": "rnbqkbnr/ppp1pppp/8/3p4/8/1P6/P1PPPPPP/RNBQKBNR w KQkq d6 0 2"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq c6 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, English variation",
+    "moves": "1. b3 c5",
+    "fen": "rnbqkbnr/pp1ppppp/8/2p5/8/1P6/P1PPPPPP/RNBQKBNR w KQkq c6 0 2"
+  },
+  "rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq f6 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, Dutch variation",
+    "moves": "1. b3 f5",
+    "fen": "rnbqkbnr/ppppp1pp/8/5p2/8/1P6/P1PPPPPP/RNBQKBNR w KQkq f6 0 2"
+  },
+  "rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR w KQkq b6 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, Polish variation",
+    "moves": "1. b3 b5",
+    "fen": "rnbqkbnr/p1pppppp/8/1p6/8/1P6/P1PPPPPP/RNBQKBNR w KQkq b6 0 2"
+  },
+  "rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "A01",
+    "name": "Nimzovich-Larsen attack, symmetrical variation",
+    "moves": "1. b3 b6",
+    "fen": "rnbqkbnr/p1pppppp/1p6/8/8/1P6/P1PPPPPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq f3 0 1": {
+    "code": "A02",
+    "name": "Bird's opening",
+    "moves": "1. f4",
+    "fen": "rnbqkbnr/pppppppp/8/8/5P2/8/PPPPP1PP/RNBQKBNR b KQkq f3 0 1"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq e6 0 2": {
+    "code": "A02",
+    "name": "Bird, From gambit",
+    "moves": "1. f4 e5",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/5P2/8/PPPPP1PP/RNBQKBNR w KQkq e6 0 2"
+  },
+  "rnbqk1nr/ppp2p1p/3b4/6p1/8/5N2/PPPPP1PP/RNBQKB1R w KQkq g6 0 5": {
+    "code": "A02",
+    "name": "Bird, From gambit, Lasker variation",
+    "moves": "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5",
+    "fen": "rnbqk1nr/ppp2p1p/3b4/6p1/8/5N2/PPPPP1PP/RNBQKB1R w KQkq g6 0 5"
+  },
+  "rnbqk2r/ppp2ppp/3b3n/8/3P4/5N2/PPP1P1PP/RNBQKB1R b KQkq d3 0 5": {
+    "code": "A02",
+    "name": "Bird, From gambit, Lipke variation",
+    "moves": "1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4",
+    "fen": "rnbqk2r/ppp2ppp/3b3n/8/3P4/5N2/PPP1P1PP/RNBQKB1R b KQkq d3 0 5"
+  },
+  "rnbqkb1r/ppppp1pp/5n2/8/4pPP1/2N5/PPPP3P/R1BQKBNR b KQkq g3 0 4": {
+    "code": "A02",
+    "name": "Bird's opening, Swiss gambit",
+    "moves": "1. f4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/8/4pPP1/2N5/PPPP3P/R1BQKBNR b KQkq g3 0 4"
+  },
+  "rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR w KQkq g6 0 2": {
+    "code": "A02",
+    "name": "Bird, Hobbs gambit",
+    "moves": "1. f4 g5",
+    "fen": "rnbqkbnr/pppppp1p/8/6p1/5P2/8/PPPPP1PP/RNBQKBNR w KQkq g6 0 2"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq d6 0 2": {
+    "code": "A03",
+    "name": "Bird's opening",
+    "moves": "1. f4 d5",
+    "fen": "rnbqkbnr/ppp1pppp/8/3p4/5P2/8/PPPPP1PP/RNBQKBNR w KQkq d6 0 2"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq c3 0 2": {
+    "code": "A03",
+    "name": "Mujannah opening",
+    "moves": "1. f4 d5 2. c4",
+    "fen": "rnbqkbnr/ppp1pppp/8/3p4/2P2P2/8/PP1PP1PP/RNBQKBNR b KQkq c3 0 2"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR b KQkq e3 0 2": {
+    "code": "A03",
+    "name": "Bird's opening, Williams gambit",
+    "moves": "1. f4 d5 2. e4",
+    "fen": "rnbqkbnr/ppp1pppp/8/3p4/4PP2/8/PPPP2PP/RNBQKBNR b KQkq e3 0 2"
+  },
+  "rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq c6 0 4": {
+    "code": "A03",
+    "name": "Bird's opening, Lasker variation",
+    "moves": "1. f4 d5 2. Nf3 Nf6 3. e3 c5",
+    "fen": "rnbqkb1r/pp2pppp/5n2/2pp4/5P2/4PN2/PPPP2PP/RNBQKB1R w KQkq c6 0 4"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1": {
+    "code": "A04",
+    "name": "Reti opening",
+    "moves": "1. Nf3",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1"
+  },
+  "rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R w KQkq f6 0 2": {
+    "code": "A04",
+    "name": "Reti v Dutch",
+    "moves": "1. Nf3 f5",
+    "fen": "rnbqkbnr/ppppp1pp/8/5p2/8/5N2/PPPPPPPP/RNBQKB1R w KQkq f6 0 2"
+  },
+  "rnbqkbnr/ppppp1pp/8/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq e3 0 2": {
+    "code": "A04",
+    "name": "Reti, Pirc-Lisitsin gambit",
+    "moves": "1. Nf3 f5 2. e4",
+    "fen": "rnbqkbnr/ppppp1pp/8/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq e3 0 2"
+  },
+  "rnbqkb1r/ppppp1pp/5n2/5p2/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq e3 0 3": {
+    "code": "A04",
+    "name": "Reti, Lisitsin gambit deferred",
+    "moves": "1. Nf3 f5 2. d3 Nf6 3. e4",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/4P3/3P1N2/PPP2PPP/RNBQKB1R b KQkq e3 0 3"
+  },
+  "rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2": {
+    "code": "A04",
+    "name": "Reti opening",
+    "moves": "1. Nf3 d6",
+    "fen": "rnbqkbnr/ppp1pppp/3p4/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 0 2"
+  },
+  "rn1qkbnr/ppp1pppp/3p4/8/4P1b1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 3": {
+    "code": "A04",
+    "name": "Reti, Wade defence",
+    "moves": "1. Nf3 d6 2. e4 Bg4",
+    "fen": "rn1qkbnr/ppp1pppp/3p4/8/4P1b1/5N2/PPPP1PPP/RNBQKB1R w KQkq - 1 3"
+  },
+  "rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R w KQkq g6 0 2": {
+    "code": "A04",
+    "name": "Reti, Herrstroem gambit",
+    "moves": "1. Nf3 g5",
+    "fen": "rnbqkbnr/pppppp1p/8/6p1/8/5N2/PPPPPPPP/RNBQKB1R w KQkq g6 0 2"
+  }
+}
