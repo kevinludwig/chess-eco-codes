@@ -228,6 +228,61 @@ const eco = [
         code: "A02",
         name: "Bird, Hobbs gambit",
         moves: "1. f4 g5"
+    },
+    {
+        code: "A03",
+        name: "Bird's opening",
+        moves: "1. f4 d5"
+    },
+    {
+        code: "A03",
+        name: "Mujannah opening",
+        moves: "1. f4 d5 2. c4"
+    },
+    {
+        code: "A03",
+        name: "Bird's opening, Williams gambit",
+        moves: "1. f4 d5 2. e4"
+    },
+    {
+        code: "A03",
+        name: "Bird's opening, Lasker variation",
+        moves: "1. f4 d5 2. Nf3 Nf6 3. e3 c5"
+    },
+    {
+        code: "A04",
+        name: "Reti opening",
+        moves: "1. Nf3"
+    },
+    {
+        code: "A04",
+        name: "Reti v Dutch",
+        moves: "1. Nf3 f5"
+    },
+    {
+        code: "A04",
+        name: "Reti, Pirc-Lisitsin gambit",
+        moves: "1. Nf3 f5 2. e4"
+    },
+    {
+        code: "A04",
+        name: "Reti, Lisitsin gambit deferred",
+        moves: "1. Nf3 f5 2. d3 Nf6 3. e4"
+    },
+    {
+        code: "A04",
+        name: "Reti opening",
+        moves: "1. Nf3 d6"
+    },
+    {
+        code: "A04",
+        name: "Reti, Wade defence",
+        moves: "1. Nf3 d6 2. e4 Bg4"
+    },
+    {
+        code: "A04",
+        name: "Reti, Herrstroem gambit",
+        moves: "1. Nf3 g5"
     }
 ];
 
