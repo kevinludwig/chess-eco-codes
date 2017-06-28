@@ -608,5 +608,35 @@ module.exports = [
         code: "A20",
         name: "English, Nimzovich, Flohr variation",
         moves: "1. c4 e5 2. Nf3 e4"
+    },
+    {
+        code: "A21",
+        name: "English opening",
+        moves: "1. c4 e5 2. Nc3"
+    },
+    {
+        code: "A21",
+        name: "English, Troeger defence",
+        moves: "1. c4 e5 2. Nc3 d6 3. g3 Be6 4. Bg2 Nc6"
+    },
+    {
+        code: "A21",
+        name: "English, Keres variation",
+        moves: "1. c4 e5 2. Nc3 d6 3. g3 c6"
+    },
+    {
+        code: "A21",
+        name: "English opening",
+        moves: "1. c4 e5 2. Nc3 d6 3. Nf3"
+    },
+    {
+        code: "A21", 
+        name: "English, Smyslov defence",
+        moves: "1. c4 e5 2. Nc3 d6 3. Nf3 Bg4"
+    },
+    {
+        code: "A21",
+        name: "English, Kramnik-Shirov counterattack",
+        moves: "1. c4 e5 2. Nc3 Bb4"
     }
 ];

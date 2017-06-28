@@ -730,5 +730,41 @@
     "name": "English, Nimzovich, Flohr variation",
     "moves": "1. c4 e5 2. Nf3 e4",
     "fen": "rnbqkbnr/pppp1ppp/8/8/2P1p3/5N2/PP1PPPPP/RNBQKB1R w KQkq - 0 3"
+  },
+  "rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2": {
+    "code": "A21",
+    "name": "English opening",
+    "moves": "1. c4 e5 2. Nc3",
+    "fen": "rnbqkbnr/pppp1ppp/8/4p3/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2"
+  },
+  "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5": {
+    "code": "A21",
+    "name": "English, Troeger defence",
+    "moves": "1. c4 e5 2. Nc3 d6 3. g3 Be6 4. Bg2 Nc6",
+    "fen": "r2qkbnr/ppp2ppp/2npb3/4p3/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 3 5"
+  },
+  "rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4": {
+    "code": "A21",
+    "name": "English, Keres variation",
+    "moves": "1. c4 e5 2. Nc3 d6 3. g3 c6",
+    "fen": "rnbqkbnr/pp3ppp/2pp4/4p3/2P5/2N3P1/PP1PPP1P/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3": {
+    "code": "A21",
+    "name": "English opening",
+    "moves": "1. c4 e5 2. Nc3 d6 3. Nf3",
+    "fen": "rnbqkbnr/ppp2ppp/3p4/4p3/2P5/2N2N2/PP1PPPPP/R1BQKB1R b KQkq - 1 3"
+  },
+  "rn1qkbnr/ppp2ppp/3p4/4p3/2P3b1/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4": {
+    "code": "A21",
+    "name": "English, Smyslov defence",
+    "moves": "1. c4 e5 2. Nc3 d6 3. Nf3 Bg4",
+    "fen": "rn1qkbnr/ppp2ppp/3p4/4p3/2P3b1/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 2 4"
+  },
+  "rnbqk1nr/pppp1ppp/8/4p3/1bP5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3": {
+    "code": "A21",
+    "name": "English, Kramnik-Shirov counterattack",
+    "moves": "1. c4 e5 2. Nc3 Bb4",
+    "fen": "rnbqk1nr/pppp1ppp/8/4p3/1bP5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3"
   }
 }
