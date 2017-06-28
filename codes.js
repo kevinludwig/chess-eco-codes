@@ -523,5 +523,90 @@ module.exports = [
         code: "A15",
         name: "English opening",
         moves: "1. c4 Nf6 2. Nf3"
+    },
+    {
+        code: "A16",
+        name: "English opening",
+        moves: "1. c4 Nf6 2. Nc3"
+    },
+    {
+        code: "A16",
+        name: "English, Anglo-Gruenfeld defense",
+        moves: "1. c4 Nf6 2. Nc3 d5"
+    },
+    {
+        code: "A16",
+        name: "English, Anglo-Gruenfeld, Smyslov defense",
+        moves: "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nxc3"
+    },
+    {
+        code: "A16",
+        name: "English, Anglo-Gruenfeld, Czech defense",
+        moves: "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. g3 g6 5. Bg2 Nb6"
+    },
+    {
+        code: "A16",
+        name: "English, Anglo-Gruenfeld defense",
+        moves: "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3"
+    },
+    {
+        code: "A16",
+        name: "English, Anglo-Gruenfeld defense, Korchnoi variation",
+        moves: "1. c4 Nf6 2. Nc3 d5 3. cxd5 Nxd5 4. Nf3 g6 5. g3 Bg7 6. Bg2 e5"
+    },
+    {
+        code: "A17",
+        name: "English opening",
+        moves: "1. c4 Nf6 2. Nc3 e6"
+    },
+    {
+        code: "A17",
+        name: "English, Queens Indian formation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. Nf3 b6"
+    },
+    {
+        code: "A17",
+        name: "English, Queens Indian, Romanishin variation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. Nf3 b6 4. e4 Bb7 5. Bd3"
+    },
+    {
+        code: "A17",
+        name: "English, Nimzo-English opening",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. Nf3 Bb4"
+    },
+    {
+        code: "A18",
+        name: "English, Mikenas-Carls variation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. e4"
+    },
+    {
+        code: "A18",
+        name: "English, Mikenas-Carls, Flohr variation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5"
+    },
+    {
+        code: "A18",
+        name: "English, Mikenas-Carls, Kevitz variation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. e4 Nc6"
+    },
+    {
+        code: "A19",
+        name: "English, Mikenas-Carls, Sicilian variation",
+        moves: "1. c4 Nf6 2. Nc3 e6 3. e4 c5"
+    },
+    {
+        code: "A20",
+        name: "English opening",
+        moves: "1. c4 e5"
+    },
+    {
+        code: "A20",
+        name: "English, Nimzovich variation",
+        moves: "1. c4 e5 2. Nf3"
+    },
+    {
+        code: "A20",
+        name: "English, Nimzovich, Flohr variation",
+        moves: "1. c4 e5 2. Nf3 e4"
     }
 ];
