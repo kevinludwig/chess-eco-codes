@@ -1,0 +1,22 @@
+{
+  "name": "chess-eco-codes",
+  "version": "0.0.0",
+  "description": "FEN to ECO code mappings",
+  "keywords": ["chess", "eco codes"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinludwig/chess-eco-codes.git"
+  },
+  "engines": {"node": ">= 6.0.0"},
+  "scripts": {
+    "test": "mocha"
+  },
+  "main": "index.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
