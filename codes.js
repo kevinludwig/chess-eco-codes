@@ -283,5 +283,110 @@ module.exports = [
         code: "A04",
         name: "Reti, Herrstroem gambit",
         moves: "1. Nf3 g5"
+    },
+    {
+        code: "A05",
+        name: "Reti opening",
+        moves: "1. Nf3 Nf6"
+    },
+    {
+        code: "A05",
+        name: "Reti, King's Indian attack, Spassky's variation",
+        moves: "1. Nf3 Nf6 2. g3 b5"
+    },
+    {
+        code: "A05",
+        name: "Reti, King's Indian attack",
+        moves: "1. Nf3 Nf6 2. g3 g6"
+    },
+    {
+        code: "A05",
+        name: "Reti, King's Indian attack, Reti-Smyslov variation",
+        moves: "1. Nf3 Nf6 2. g3 g6 3. b4"
+    },
+    {
+        code: "A06",
+        name: "Reti opening",
+        moves: "1. Nf3 d5"
+    },
+    {
+        code: "A06",
+        name: "Reti, old Indian attack",
+        moves: "1. Nf3 d5 2. d3"
+    },
+    {
+        code: "A06",
+        name: "Santasiere's folly",
+        moves: "1. Nf3 d5 2. b4"
+    },
+    {
+        code: "A06",
+        name: "Tennison (Lemberg, Zukertort) gambit",
+        moves: "1. Nf3 d5 2. e4"
+    },
+    {
+        code: "A06",
+        name: "Reti, Nimzovich-Larsen attack",
+        moves: "1. Nf3 d5 2. b3"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack (Barcza system)",
+        moves: "1. Nf3 d5 2. g3"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack, Yugoslav variation",
+        moves: "1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Bg4"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack, Keres variation",
+        moves: "1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack",
+        moves: "1. Nf3 d5 2. g3 g6"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack, Pachman system",
+        moves: "1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. O-O e5 5. d3 Ne7"
+    },
+    {
+        code: "A07",
+        name: "Reti, King's Indian attack (with ...c5)",
+        moves: "1. Nf3 d5 2. g3 c5"
+    },
+    {
+        code: "A08",
+        name: "Reti, King's Indian attack",
+        moves: "1. Nf3 d5 2. g3 c5 3. Bg2"
+    },
+    {
+        code: "A08",
+        name: "Reti, King's Indian attack, French variation",
+        moves: "1. Nf3 d5 2. g3 c5 3. Bg2 Nc6 4. O-O e6 5. d3 Nf6 6. Nbd2 Be7 7. e4 O-O 8. Re1"
+    },
+    {
+        code: "A09",
+        name: "Reti opening",
+        moves: "1. Nf3 d5 2. c4"
+    },
+    {
+        code: "A09",
+        name: "Reti, advance variation",
+        moves: "1. Nf3 d5 2. c4 d4"
+    },
+    {
+        code: "A09",
+        name: "Reti accepted",
+        moves: "1. Nf3 d5 2. c4 dxc4"
+    },
+    {
+        code: "A09",
+        name: "Reti accepted, Keres variation",
+        moves: "1. Nf3 d5 2. c4 dxc4 3. e3 Be6"
     }
 ];
