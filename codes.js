@@ -1308,5 +1308,85 @@ module.exports = [
         code: "A59",
         name: "Benko gambit, main line",
         moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1 g6 9. g3 Bg7 10. Kg2 O-O 11. Nf3"
+    },
+    {
+        code: "A60",
+        name: "Benoni defence",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6"
+    },
+    {
+        code: "A61",
+        name: "Benoni defence",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6"
+    },
+    {   
+        code: "A61",
+        name: "Benoni, Uhlmann variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bg5"
+    },
+    {
+        code: "A61",
+        name: "Benoni, Nimzovich (knight's tour) variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2"
+    },
+    {
+        code: "A61",
+        name: "Benoni, fianchetto variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3"
+    },
+    {
+        code: "A62",
+        name: "Benoni, fianchetto variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O"
+    },
+    {
+        code: "A63",
+        name: "Benoni, fianchetto, 9...Nbd7",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O Nbd7"
+    },
+    {
+        code: "A64",
+        name: "Benoni, fianchetto, 11...Re8",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2 O-O 9. O-O Nbd7 10. Nd2 a6 11. a4 Re8"
+    },
+    {
+        code: "A65",
+        name: "Benoni, 6.e4",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4"
+    },
+    {
+        code: "A66",
+        name: "Benoni, pawn storm variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4"
+    },
+    {
+        code: "A66",
+        name: "Benoni, Mikenas variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. e5"
+    },
+    {
+        code: "A67",
+        name: "Benoni, Taimanov variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+"
+    },
+    {
+        code: "A68",
+        name: "Benoni, four pawns attack",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3 O-O"
+    },
+    {
+        code: "A69",
+        name: "Benoni, four pawns attack, main line",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3 O-O 9. Be2 Re8"
+    },
+    {
+        code: "A70",
+        name: "Benoni, classical with e4 and Nf3",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3"
+    },
+    {
+        code: "A70",
+        name: "Benoni, classical without 9.O-O",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2"
     }
 ];
