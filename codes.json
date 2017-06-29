@@ -1402,5 +1402,41 @@
     "name": "Budapest, Fajarowicz, Steiner variation",
     "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2",
     "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PPQ1PPPP/RNB1KBNR b KQkq - 2 4"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4": {
+    "code": "A52",
+    "name": "Budapest defence",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/8/PP2PPPP/RNBQKBNR w KQkq - 1 4"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4": {
+    "code": "A52",
+    "name": "Budapest, Adler variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P3n1/5N2/PP2PPPP/RNBQKB1R b KQkq - 2 4"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P2Bn1/8/PP2PPPP/RN1QKBNR b KQkq - 2 4": {
+    "code": "A52",
+    "name": "Budapest, Rubinstein variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P2Bn1/8/PP2PPPP/RN1QKBNR b KQkq - 2 4"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq e3 0 4": {
+    "code": "A52",
+    "name": "Budapest, Alekhine variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR b KQkq e3 0 4"
+  },
+  "rnbqkb1r/pppp1ppp/2n5/8/2P1PP2/8/PP4PP/RNBQKBNR w KQkq - 1 6": {
+    "code": "A52",
+    "name": "Budapest, Alekhine, Abonyi variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6",
+    "fen": "rnbqkb1r/pppp1ppp/2n5/8/2P1PP2/8/PP4PP/RNBQKBNR w KQkq - 1 6"
+  },
+  "rnbqkb1r/ppp2ppp/3p4/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR w KQkq - 0 5": {
+    "code": "A52",
+    "name": "Budapest, Alekhine variation, Balogh gambit",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6",
+    "fen": "rnbqkb1r/ppp2ppp/3p4/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR w KQkq - 0 5"
   }
 }

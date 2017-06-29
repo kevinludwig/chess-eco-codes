@@ -1168,5 +1168,35 @@ module.exports = [
         code: "A51",
         name: "Budapest, Fajarowicz, Steiner variation",
         moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2"
+    },
+    {
+        code: "A52",
+        name: "Budapest defence",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4"
+    },
+    {
+        code: "A52",
+        name: "Budapest, Adler variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3"
+    },
+    {
+        code: "A52",
+        name: "Budapest, Rubinstein variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Bf4"
+    },
+    {
+        code: "A52",
+        name: "Budapest, Alekhine variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4"
+    },
+    {
+        code: "A52",
+        name: "Budapest, Alekhine, Abonyi variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 Nxe5 5. f4 Nec6"
+    },
+    {
+        code: "A52",
+        name: "Budapest, Alekhine variation, Balogh gambit",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6"
     }
 ];
