@@ -1103,5 +1103,20 @@ module.exports = [
         code: "A46",
         name: "Doery defence",
         moves: "1. d4 Nf6 2. Nf3 Ne4"
+    },
+    {
+        code: "A47",
+        name: "Queen's Indian defence",
+        moves: "1. d4 Nf6 2. Nf3 b6"
+    },
+    {
+        code: "A47",
+        name: "Queen's Indian, Marienbad system",
+        moves: "1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5"
+    },
+    {
+        code: "A47",
+        name: "Queen's Indian, Marienbad system, Berg variation",
+        moves: "1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c4 cxd4 6. Qxd4"
     }
 ];
