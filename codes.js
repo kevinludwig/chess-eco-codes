@@ -858,5 +858,35 @@ module.exports = [
         code: "A36",
         name: "English, symmetrical, Botvinnik system",
         moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4"
+    },
+    {
+        code: "A37",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3"
+    },
+    {
+        code: "A37",
+        name: "English, symmetrical, Botvinnik system reversed",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 e5"
+    },
+    {
+        code: "A38",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6"
+    },
+    {
+        code: "A38",
+        name: "English, symmetrical, main line with d3",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. d3"
+    },
+    {
+        code: "A38",
+        name: "English, symmetrical, main line with b3",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. b3"
+    },
+    {
+        code: "A39",
+        name: "English, symmetrical, main line with d4",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. d4"
     }
 ];
