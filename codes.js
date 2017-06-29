@@ -1198,5 +1198,80 @@ module.exports = [
         code: "A52",
         name: "Budapest, Alekhine variation, Balogh gambit",
         moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6"
+    },
+    {
+        code: "A53",
+        name: "Old Indian defence",
+        moves: "1. d4 Nf6 2. c4 d6"
+    },
+    {
+        code: "A53",
+        name: "Old Indian, Janowski variation",
+        moves: "1. d4 Nf6 2. c4 d6 3. Nc3 Bf5"
+    },
+    {
+        code: "A54",
+        name: "Old Indian, Ukrainian variation",
+        moves: "1. d4 Nf6 2. c4 d6 3. Nc3 e5"
+    },
+    {
+        code: "A54",
+        name: "Old Indian, Dus-Khotimirsky variation",
+        moves: "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e3 Nbd7 5. Bd3"
+    },
+    {
+        code: "A54",
+        name: "Old Indian, Ukrainian variation, 4.Nf3",
+        moves: "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3"
+    },
+    {
+        code: "A55",
+        name: "Old Indian, main line",
+        moves: "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4"
+    },
+    {
+        code: "A56",
+        name: "Benoni defence",
+        moves: "1. d4 Nf6 2. c4 c5"
+    },
+    {
+        code: "A56",
+        name: "Benoni defence, Hromodka system",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 d6"
+    },
+    {
+        code: "A56",
+        name: "Vulture defence",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 Ne4"
+    },
+    {
+        code: "A56",
+        name: "Czech Benoni defence",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e5"
+    },
+    {
+        code: "A56",
+        name: "Czech Benoni, King's Indian system",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6"
+    },
+    {
+        code: "A57",
+        name: "Benko gambit",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5"
+    },
+    {
+        code: "A57",
+        name: "Benko gambit half accepted",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6"
+    },
+    {
+        code: "A57",
+        name: "Benko gambit, Zaitsev system",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3"
+    },
+    {
+        code: "A57",
+        name: "Benko gambit, Nescafe Frappe attack",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4"
     }
 ];

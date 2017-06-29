@@ -1438,5 +1438,95 @@
     "name": "Budapest, Alekhine variation, Balogh gambit",
     "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e4 d6",
     "fen": "rnbqkb1r/ppp2ppp/3p4/4P3/2P1P1n1/8/PP3PPP/RNBQKBNR w KQkq - 0 5"
+  },
+  "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "code": "A53",
+    "name": "Old Indian defence",
+    "moves": "1. d4 Nf6 2. c4 d6",
+    "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "A53",
+    "name": "Old Indian, Janowski variation",
+    "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 Bf5",
+    "fen": "rn1qkb1r/ppp1pppp/3p1n2/5b2/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq e6 0 4": {
+    "code": "A54",
+    "name": "Old Indian, Ukrainian variation",
+    "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 e5",
+    "fen": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq e6 0 4"
+  },
+  "r1bqkb1r/pppn1ppp/3p1n2/4p3/2PP4/2NBP3/PP3PPP/R1BQK1NR b KQkq - 2 5": {
+    "code": "A54",
+    "name": "Old Indian, Dus-Khotimirsky variation",
+    "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. e3 Nbd7 5. Bd3",
+    "fen": "r1bqkb1r/pppn1ppp/3p1n2/4p3/2PP4/2NBP3/PP3PPP/R1BQK1NR b KQkq - 2 5"
+  },
+  "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4": {
+    "code": "A54",
+    "name": "Old Indian, Ukrainian variation, 4.Nf3",
+    "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3",
+    "fen": "rnbqkb1r/ppp2ppp/3p1n2/4p3/2PP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 1 4"
+  },
+  "r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq e3 0 5": {
+    "code": "A55",
+    "name": "Old Indian, main line",
+    "moves": "1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4",
+    "fen": "r1bqkb1r/pppn1ppp/3p1n2/4p3/2PPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq e3 0 5"
+  },
+  "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq c6 0 3": {
+    "code": "A56",
+    "name": "Benoni defence",
+    "moves": "1. d4 Nf6 2. c4 c5",
+    "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2PP4/8/PP2PPPP/RNBQKBNR w KQkq c6 0 3"
+  },
+  "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "A56",
+    "name": "Benoni defence, Hromodka system",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 d6",
+    "fen": "rnbqkb1r/pp2pppp/3p1n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4": {
+    "code": "A56",
+    "name": "Vulture defence",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 Ne4",
+    "fen": "rnbqkb1r/pp1ppppp/8/2pP4/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4"
+  },
+  "rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq e6 0 4": {
+    "code": "A56",
+    "name": "Czech Benoni defence",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 e5",
+    "fen": "rnbqkb1r/pp1p1ppp/5n2/2pPp3/2P5/8/PP2PPPP/RNBQKBNR w KQkq e6 0 4"
+  },
+  "rnbqkb1r/pp3p1p/3p1np1/2pPp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6": {
+    "code": "A56",
+    "name": "Czech Benoni, King's Indian system",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6",
+    "fen": "rnbqkb1r/pp3p1p/3p1np1/2pPp3/2P1P3/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6"
+  },
+  "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4": {
+    "code": "A57",
+    "name": "Benko gambit",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5",
+    "fen": "rnbqkb1r/p2ppppp/5n2/1ppP4/2P5/8/PP2PPPP/RNBQKBNR w KQkq b6 0 4"
+  },
+  "rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5": {
+    "code": "A57",
+    "name": "Benko gambit half accepted",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6",
+    "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/8/PP2PPPP/RNBQKBNR w KQkq - 0 5"
+  },
+  "rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 5": {
+    "code": "A57",
+    "name": "Benko gambit, Zaitsev system",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3",
+    "fen": "rnbqkb1r/3ppppp/p4n2/1PpP4/8/2N5/PP2PPPP/R1BQKBNR b KQkq - 1 5"
+  },
+  "rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq - 1 8": {
+    "code": "A57",
+    "name": "Benko gambit, Nescafe Frappe attack",
+    "moves": "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4",
+    "fen": "rnbqkb1r/4pppp/3p1n2/1NpP4/1pB1P3/8/PP3PPP/R1BQK1NR b KQkq - 1 8"
   }
 }
