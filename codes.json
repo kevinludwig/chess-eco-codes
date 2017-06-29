@@ -1384,5 +1384,23 @@
     "name": "Queen's Indian accelerated",
     "moves": "1. d4 Nf6 2. c4 b6",
     "fen": "rnbqkb1r/p1pppppp/1p3n2/8/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq e6 0 3": {
+    "code": "A51",
+    "name": "Budapest defence declined",
+    "moves": "1. d4 Nf6 2. c4 e5",
+    "fen": "rnbqkb1r/pppp1ppp/5n2/4p3/2PP4/8/PP2PPPP/RNBQKBNR w KQkq e6 0 3"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4": {
+    "code": "A51",
+    "name": "Budapest, Fajarowicz variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PP2PPPP/RNBQKBNR w KQkq - 1 4"
+  },
+  "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PPQ1PPPP/RNB1KBNR b KQkq - 2 4": {
+    "code": "A51",
+    "name": "Budapest, Fajarowicz, Steiner variation",
+    "moves": "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2",
+    "fen": "rnbqkb1r/pppp1ppp/8/4P3/2P1n3/8/PPQ1PPPP/RNB1KBNR b KQkq - 2 4"
   }
 }

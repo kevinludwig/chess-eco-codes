@@ -1153,5 +1153,20 @@ module.exports = [
         code: "A50",
         name: "Queen's Indian accelerated",
         moves: "1. d4 Nf6 2. c4 b6"
+    },
+    {
+        code: "A51",
+        name: "Budapest defence declined",
+        moves: "1. d4 Nf6 2. c4 e5"
+    },
+    {
+        code: "A51",
+        name: "Budapest, Fajarowicz variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4"
+    },
+    {
+        code: "A51",
+        name: "Budapest, Fajarowicz, Steiner variation",
+        moves: "1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Qc2"
     }
 ];
