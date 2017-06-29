@@ -1240,5 +1240,59 @@
     "name": "Old Benoni, Schmid's system",
     "moves": "1. d4 c5 2. d5 d6 3. Nc3 g6",
     "fen": "rnbqkbnr/pp2pp1p/3p2p1/2pP4/8/2N5/PPP1PPPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3": {
+    "code": "A44",
+    "name": "Old Benoni defence",
+    "moves": "1. d4 c5 2. d5 e5",
+    "fen": "rnbqkbnr/pp1p1ppp/8/2pPp3/8/8/PPP1PPPP/RNBQKBNR w KQkq e6 0 3"
+  },
+  "rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "A44",
+    "name": "Semi-Benoni ('blockade variation')",
+    "moves": "1. d4 c5 2. d5 e5 3. e4 d6",
+    "fen": "rnbqkbnr/pp3ppp/3p4/2pPp3/4P3/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2": {
+    "code": "A45",
+    "name": "Queen's pawn game",
+    "moves": "1. d4 Nf6",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/8/PPP1PPPP/RNBQKBNR w KQkq - 1 2"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq g3 0 2": {
+    "code": "A45",
+    "name": "Queen's pawn, Bronstein gambit",
+    "moves": "1. d4 Nf6 2. g4",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/3P2P1/8/PPP1PP1P/RNBQKBNR b KQkq g3 0 2"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq f3 0 2": {
+    "code": "A45",
+    "name": "Canard opening",
+    "moves": "1. d4 Nf6 2. f4",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/3P1P2/8/PPP1P1PP/RNBQKBNR b KQkq f3 0 2"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/3P4/5P2/PPP1P1PP/RNBQKBNR b KQkq - 0 2": {
+    "code": "A45",
+    "name": "Paleface attack",
+    "moves": "1. d4 Nf6 2. f3",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/3P4/5P2/PPP1P1PP/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq e3 0 3": {
+    "code": "A45",
+    "name": "Blackmar-Diemer gambit",
+    "moves": "1. d4 Nf6 2. f3 d5 3. e4",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq e3 0 3"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq g3 0 3": {
+    "code": "A45",
+    "name": "Gedult attack",
+    "moves": "1. d4 Nf6 2. f3 d5 3. g4",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/3P2P1/5P2/PPP1P2P/RNBQKBNR b KQkq g3 0 3"
+  },
+  "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2": {
+    "code": "A45",
+    "name": "Trompowsky attack",
+    "moves": "1. d4 Nf6 2. Bg5",
+    "fen": "rnbqkb1r/pppppppp/5n2/6B1/3P4/8/PPP1PPPP/RN1QKBNR b KQkq - 2 2"
   }
 }

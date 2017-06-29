@@ -1033,5 +1033,50 @@ module.exports = [
         code: "A43",
         name: "Old Benoni, Schmid's system",
         moves: "1. d4 c5 2. d5 d6 3. Nc3 g6"
+    },
+    {
+        code: "A44",
+        name: "Old Benoni defence",
+        moves: "1. d4 c5 2. d5 e5"
+    },
+    {
+        code: "A44",
+        name: "Semi-Benoni ('blockade variation')",
+        moves: "1. d4 c5 2. d5 e5 3. e4 d6"
+    },
+    {
+        code: "A45",
+        name: "Queen's pawn game",
+        moves: "1. d4 Nf6"
+    },
+    {
+        code: "A45",
+        name: "Queen's pawn, Bronstein gambit",
+        moves: "1. d4 Nf6 2. g4"
+    },
+    {
+        code: "A45",
+        name: "Canard opening",
+        moves: "1. d4 Nf6 2. f4"
+    },
+    {
+        code: "A45",
+        name: "Paleface attack",
+        moves: "1. d4 Nf6 2. f3"
+    },
+    {
+        code: "A45",
+        name: "Blackmar-Diemer gambit",
+        moves: "1. d4 Nf6 2. f3 d5 3. e4"
+    },
+    {
+        code: "A45",
+        name: "Gedult attack",
+        moves: "1. d4 Nf6 2. f3 d5 3. g4"
+    },
+    {
+        code: "A45",
+        name: "Trompowsky attack",
+        moves: "1. d4 Nf6 2. Bg5"
     }
 ];
