@@ -638,5 +638,75 @@ module.exports = [
         code: "A21",
         name: "English, Kramnik-Shirov counterattack",
         moves: "1. c4 e5 2. Nc3 Bb4"
+    },
+    {
+        code: "A22",
+        name: "English opening",
+        moves: "1. c4 e5 2. Nc3 Nf6"
+    },
+    {
+        code: "A22",
+        name: "English, Bellon gambit",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. Nf3 e4 4. Ng5 b5"
+    },
+    {
+        code: "A22",
+        name: "English, Carls' Bremen system",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. g3"
+    },
+    {
+        code: "A22",
+        name: "English, Bremen, reverse dragon",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. g3 d5"
+    },
+    {
+        code: "A22",
+        name: "English, Bremen, Smyslov system",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. g3 Bb4"
+    },
+    {
+        code: "A23",
+        name: "English, Bremen system, Keres variation",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. g3 c6"
+    },
+    {
+        code: "A24",
+        name: "English, Bremen system with ...g6",
+        moves: "1. c4 e5 2. Nc3 Nf6 3. g3 g6"
+    },
+    {
+        code: "A25",
+        name: "English, Sicilian reversed",
+        moves: "1. c4 e5 2. Nc3 Nc6"
+    },
+    {
+        code: "A25",
+        name: "English, closed system",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7"
+    },
+    {
+        code: "A25",
+        name: "English, closed, Taimanov variation",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Nh6"
+    },
+    {
+        code: "A25",
+        name: "English, closed, Hort variation",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 d6 6. Nge2 Be6"
+    },
+    {
+        code: "A25",
+        name: "English, closed, 5.Rb1",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1"
+    },
+    {
+        code: "A25",
+        name: "English, closed, 5.Rb1 Taimanov variation",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Rb1 Nh6"
+    },
+    {
+        code: "A25",
+        name: "English, closed system (without ...d6)",
+        moves: "1. c4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3"
     }
 ];
