@@ -968,5 +968,70 @@ module.exports = [
         code: "A41",
         name: "Robatsch defence, Rossolimo variation",
         moves: "1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c4 Bg4"
+    },
+    {
+        code: "A42",
+        name: "Modern defence, Averbakh system",
+        moves: "1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4"
+    },
+    {
+        code: "A42",
+        name: "Pterodactyl defence",
+        moves: "1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 c5 5. Nf3 Qa5"
+    },
+    {
+        code: "A42",
+        name: "Modern defence, Averbakh system, Randspringer variation",
+        moves: "1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 f5"
+    },
+    {
+        code: "A42",
+        name: "Modern defence, Averbakh system, Kotov variation",
+        moves: "1. d4 d6 2. c4 g6 3. Nc3 Bg7 4. e4 Nc6"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni defence",
+        moves: "1. d4 c5"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni, Franco-Benoni defence",
+        moves: "1. d4 c5 2. d5 e6 3. e4"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni, Mujannah formation",
+        moves: "1. d4 c5 2. d5 f5"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni defence",
+        moves: "1. d4 c5 2. d5 Nf6"
+    },
+    {
+        code: "A43",
+        name: "Woozle defence",
+        moves: "1. d4 c5 2. d5 Nf6 3. Nc3 Qa5"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni defence",
+        moves: "1. d4 c5 2. d5 Nf6 3. Nf3"
+    },
+    {
+        code: "A43",
+        name: "Hawk (Habichd) defence",
+        moves: "1. d4 c5 2. d5 Nf6 3. Nf3 c4"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni defence",
+        moves: "1. d4 c5 2. d5 d6"
+    },
+    {
+        code: "A43",
+        name: "Old Benoni, Schmid's system",
+        moves: "1. d4 c5 2. d5 d6 3. Nc3 g6"
     }
 ];
