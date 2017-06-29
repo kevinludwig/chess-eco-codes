@@ -1273,5 +1273,40 @@ module.exports = [
         code: "A57",
         name: "Benko gambit, Nescafe Frappe attack",
         moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bc4"
+    },
+    {
+        code: "A58",
+        name: "Benko gambit accepted",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6"
+    },
+    {
+        code: "A58",
+        name: "Benko gambit, Nd2 variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. Nd2"
+    },
+    {
+        code: "A58",
+        name: "Benko gambit, fianchetto variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. Nf3 g6 8. g3"
+    },
+    {
+        code: "A59",
+        name: "Benko gambit, 7.e4",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4"
+    },
+    {
+        code: "A59",
+        name: "Benko gambit, Ne2 variation",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1 g6 9. Nge2"
+    },
+    {
+        code: "A59",
+        name: "Benko gambit",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1 g6 9. g3"
+    },
+    {
+        code: "A59",
+        name: "Benko gambit, main line",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 Bxa6 6. Nc3 d6 7. e4 Bxf1 8. Kxf1 g6 9. g3 Bg7 10. Kg2 O-O 11. Nf3"
     }
 ];
