@@ -1078,5 +1078,30 @@ module.exports = [
         code: "A45",
         name: "Trompowsky attack",
         moves: "1. d4 Nf6 2. Bg5"
+    },
+    {
+        code: "A46",
+        name: "Queen's pawn game",
+        moves: "1. d4 Nf6 2. Nf3"
+    },
+    {
+        code: "A46",
+        name: "Queen's pawn, Torre attack",
+        moves: "1. d4 Nf6 2. Nf3 e6 3. Bg5"
+    },
+    {
+        code: "A46",
+        name: "Queen's pawn, Torre attack, Wagner gambit",
+        moves: "1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e4"
+    },
+    {
+        code: "A46",
+        name: "Queen's pawn, Yusupov-Rubinstein system",
+        moves: "1. d4 Nf6 2. Nf3 e6 3. e3"
+    },
+    {
+        code: "A46",
+        name: "Doery defence",
+        moves: "1. d4 Nf6 2. Nf3 Ne4"
     }
 ];
