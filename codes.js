@@ -888,5 +888,85 @@ module.exports = [
         code: "A39",
         name: "English, symmetrical, main line with d4",
         moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. Nf3 Nf6 6. O-O O-O 7. d4"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn",
+        moves: "1. d4"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, Lundin (Kevitz-Mikenas) defence",
+        moves: "1. d4 Nc6"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, Charlick (Englund) gambit",
+        moves: "1. d4 e5"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, Englund gambit",
+        moves: "1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, English defence",
+        moves: "1. d4 b6"
+    },
+    {
+        code: "A40",
+        name: "Polish defence",
+        moves: "1. d4 b5"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn",
+        moves: "1. d4 e6"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, Keres defence",
+        moves: "1. d4 e6 2. c4 b6"
+    },
+    {
+        code: "A40",
+        name: "Queen's pawn, Franco-Indian (Keres) defence",
+        moves: "1. d4 e6 2. c4 Bb4+"
+    },
+    {
+        code: "A40",
+        name: "Modern defence",
+        moves: "1. d4 g6"
+    },
+    {
+        code: "A40",
+        name: "Beefeater defence",
+        moves: "1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 Bxc3+ 5. bxc3 f5"
+    },
+    {
+        code: "A41",
+        name: "Queen's Pawn",
+        moves: "1. d4 d6"
+    },
+    {
+        code: "A41",
+        name: "Old Indian, Tartakower (Wade) variation",
+        moves: "1. d4 d6 2. Nf3 Bg4"
+    },
+    {
+        code: "A41",
+        name: "Old Indian defence",
+        moves: "1. d4 d6 2. c4"
+    },
+    {
+        code: "A41",
+        name: "Modern defence",
+        moves: "1. d4 d6 2. c4 g6 3. Nc3 Bg7"
+    },
+    {
+        code: "A41",
+        name: "Robatsch defence, Rossolimo variation",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c4 Bg4"
     }
 ];
