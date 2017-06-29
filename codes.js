@@ -798,5 +798,65 @@ module.exports = [
         code: "A32",
         name: "English, symmetrical variation",
         moves: "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6"
+    },
+    {
+        code: "A33",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6"
+    },
+    {
+        code: "A33",
+        name: "English, symmetrical, Geller variation",
+        moves: "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Qb6"
+    },
+    {
+        code: "A34",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3"
+    },
+    {
+        code: "A34",
+        name: "English, symmetrical, three knights system",
+        moves: "1. c4 c5 2. Nc3 Nf6 3. Nf3 d5 4. cxd5 Nxd5"
+    },
+    {
+        code: "A34",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nf6 3. g3"
+    },
+    {
+        code: "A34",
+        name: "English, symmetrical, Rubinstein system",
+        moves: "1. c4 c5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7"
+    },
+    {
+        code: "A35",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nc6"
+    },
+    {
+        code: "A35",
+        name: "English, symmetrical, four knights system",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6"
+    },
+    {
+        code: "A36",
+        name: "English, symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3"
+    },
+    {
+        code: "A36",
+        name: "English, ultra-symmetrical variation",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7"
+    },
+    {
+        code: "A36",
+        name: "English, symmetrical, Botvinnik system reversed",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 e5"
+    },
+    {
+        code: "A36",
+        name: "English, symmetrical, Botvinnik system",
+        moves: "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4"
     }
 ];

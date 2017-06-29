@@ -958,5 +958,77 @@
     "name": "English, symmetrical variation",
     "moves": "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6",
     "fen": "rnbqkb1r/pp1p1ppp/4pn2/8/2PN4/8/PP2PPPP/RNBQKB1R w KQkq - 0 5"
+  },
+  "r1bqkb1r/pp1p1ppp/2n1pn2/8/2PN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 2 6": {
+    "code": "A33",
+    "name": "English, symmetrical variation",
+    "moves": "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6",
+    "fen": "r1bqkb1r/pp1p1ppp/2n1pn2/8/2PN4/2N5/PP2PPPP/R1BQKB1R w KQkq - 2 6"
+  },
+  "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7": {
+    "code": "A33",
+    "name": "English, symmetrical, Geller variation",
+    "moves": "1. c4 c5 2. Nf3 Nf6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 Nc6 6. g3 Qb6",
+    "fen": "r1b1kb1r/pp1p1ppp/1qn1pn2/8/2PN4/2N3P1/PP2PP1P/R1BQKB1R w KQkq - 1 7"
+  },
+  "rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2": {
+    "code": "A34",
+    "name": "English, symmetrical variation",
+    "moves": "1. c4 c5 2. Nc3",
+    "fen": "rnbqkbnr/pp1ppppp/8/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR b KQkq - 1 2"
+  },
+  "rnbqkb1r/pp2pppp/8/2pn4/8/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 5": {
+    "code": "A34",
+    "name": "English, symmetrical, three knights system",
+    "moves": "1. c4 c5 2. Nc3 Nf6 3. Nf3 d5 4. cxd5 Nxd5",
+    "fen": "rnbqkb1r/pp2pppp/8/2pn4/8/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 0 5"
+  },
+  "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3": {
+    "code": "A34",
+    "name": "English, symmetrical variation",
+    "moves": "1. c4 c5 2. Nc3 Nf6 3. g3",
+    "fen": "rnbqkb1r/pp1ppppp/5n2/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3"
+  },
+  "rnbqkb1r/ppn1pppp/8/2p5/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 6": {
+    "code": "A34",
+    "name": "English, symmetrical, Rubinstein system",
+    "moves": "1. c4 c5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nc7",
+    "fen": "rnbqkb1r/ppn1pppp/8/2p5/8/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 6"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3": {
+    "code": "A35",
+    "name": "English, symmetrical variation",
+    "moves": "1. c4 c5 2. Nc3 Nc6",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N5/PP1PPPPP/R1BQKBNR w KQkq - 2 3"
+  },
+  "r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4": {
+    "code": "A35",
+    "name": "English, symmetrical, four knights system",
+    "moves": "1. c4 c5 2. Nc3 Nc6 3. Nf3 Nf6",
+    "fen": "r1bqkb1r/pp1ppppp/2n2n2/2p5/2P5/2N2N2/PP1PPPPP/R1BQKB1R w KQkq - 4 4"
+  },
+  "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3": {
+    "code": "A36",
+    "name": "English, symmetrical variation",
+    "moves": "1. c4 c5 2. Nc3 Nc6 3. g3",
+    "fen": "r1bqkbnr/pp1ppppp/2n5/2p5/2P5/2N3P1/PP1PPP1P/R1BQKBNR b KQkq - 0 3"
+  },
+  "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 5": {
+    "code": "A36",
+    "name": "English, ultra-symmetrical variation",
+    "moves": "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7",
+    "fen": "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P5/2N3P1/PP1PPPBP/R1BQK1NR w KQkq - 2 5"
+  },
+  "r1bqk1nr/pp1p1pbp/2n3p1/2p1p3/2P5/2N1P1P1/PP1P1PBP/R1BQK1NR w KQkq e6 0 6": {
+    "code": "A36",
+    "name": "English, symmetrical, Botvinnik system reversed",
+    "moves": "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e3 e5",
+    "fen": "r1bqk1nr/pp1p1pbp/2n3p1/2p1p3/2P5/2N1P1P1/PP1P1PBP/R1BQK1NR w KQkq e6 0 6"
+  },
+  "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR b KQkq e3 0 5": {
+    "code": "A36",
+    "name": "English, symmetrical, Botvinnik system",
+    "moves": "1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. e4",
+    "fen": "r1bqk1nr/pp1pppbp/2n3p1/2p5/2P1P3/2N3P1/PP1P1PBP/R1BQK1NR b KQkq e3 0 5"
   }
 }
