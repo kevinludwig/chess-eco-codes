@@ -1138,5 +1138,20 @@ module.exports = [
         code: "A49",
         name: "King's Indian, fianchetto without c4",
         moves: "1. d4 Nf6 2. Nf3 g6 3. g3"
+    },
+    {
+        code: "A50",
+        name: "Queen's pawn game",
+        moves: "1. d4 Nf6 2. c4"
+    },
+    {
+        code: "A50",
+        name: "Kevitz-Trajkovich defence",
+        moves: "1. d4 Nf6 2. c4 Nc6"
+    },
+    {
+        code: "A50",
+        name: "Queen's Indian accelerated",
+        moves: "1. d4 Nf6 2. c4 b6"
     }
 ];
