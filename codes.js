@@ -1118,5 +1118,25 @@ module.exports = [
         code: "A47",
         name: "Queen's Indian, Marienbad system, Berg variation",
         moves: "1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c4 cxd4 6. Qxd4"
+    },
+    {
+        code: "A48",
+        name: "King's Indian, East Indian defence",
+        moves: "1. d4 Nf6 2. Nf3 g6"
+    },
+    {
+        code: "A48",
+        name: "King's Indian, Torre attack",
+        moves: "1. d4 Nf6 2. Nf3 g6 3. Bg5"
+    },
+    {
+        code: "A48",
+        name: "King's Indian, London system",
+        moves: "1. d4 Nf6 2. Nf3 g6 3. Bf4"
+    },
+    {
+        code: "A49",
+        name: "King's Indian, fianchetto without c4",
+        moves: "1. d4 Nf6 2. Nf3 g6 3. g3"
     }
 ];

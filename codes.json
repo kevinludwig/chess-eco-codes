@@ -1342,5 +1342,29 @@
     "name": "Queen's Indian, Marienbad system, Berg variation",
     "moves": "1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. c4 cxd4 6. Qxd4",
     "fen": "rn1qkb1r/pb1ppppp/1p3n2/8/2PQ4/5NP1/PP2PPBP/RNB1K2R b KQkq - 0 6"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3": {
+    "code": "A48",
+    "name": "King's Indian, East Indian defence",
+    "moves": "1. d4 Nf6 2. Nf3 g6",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/3P4/5N2/PPP1PPPP/RNBQKB1R w KQkq - 0 3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3": {
+    "code": "A48",
+    "name": "King's Indian, Torre attack",
+    "moves": "1. d4 Nf6 2. Nf3 g6 3. Bg5",
+    "fen": "rnbqkb1r/pppppp1p/5np1/6B1/3P4/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3": {
+    "code": "A48",
+    "name": "King's Indian, London system",
+    "moves": "1. d4 Nf6 2. Nf3 g6 3. Bf4",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 1 3"
+  },
+  "rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3": {
+    "code": "A49",
+    "name": "King's Indian, fianchetto without c4",
+    "moves": "1. d4 Nf6 2. Nf3 g6 3. g3",
+    "fen": "rnbqkb1r/pppppp1p/5np1/8/3P4/5NP1/PPP1PP1P/RNBQKB1R b KQkq - 0 3"
   }
 }
