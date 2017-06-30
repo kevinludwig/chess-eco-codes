@@ -1433,5 +1433,65 @@ module.exports = [
         code: "A79",
         name: "Benoni, classical, 11.f3",
         moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3"
+    },
+    {
+        code: "A80",
+        name: "Dutch",
+        moves: "1. d4 f5"
+    },
+    {
+        code: "A80",
+        name: "Dutch, Spielmann gambit",
+        moves: "1. d4 f5 2. Nc3 Nf6 3. g4"
+    },
+    {
+        code: "A80",
+        name: "Dutch, Manhattan (Alapin, Ulvestad) variation",
+        moves: "1. d4 f5 2. Qd3"
+    },
+    {
+        code: "A80",
+        name: "Dutch, Von Pretzel gambit",
+        moves: "1. d4 f5 2. Qd3 e6 3. g4"
+    },
+    {
+        code: "A80",
+        name: "Dutch, Korchnoi attack",
+        moves: "1. d4 f5 2. h3"
+    },
+    {
+        code: "A80",
+        name: "Dutch, Krejcik gambit",
+        moves: "1. d4 f5 2. g4"
+    },
+    {
+        code: "A80",
+        name: "Dutch, 2.Bg5 variation",
+        moves: "1. d4 f5 2. Bg5"
+    },
+    {
+        code: "A81",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. g3"
+    },
+    {
+        code: "A81",
+        name: "Dutch defence, Blackburne variation",
+        moves: "1. d4 f5 2. g3 Nf6 3. Bg2 e6 4. Nh3"
+    },
+    {
+        code: "A81",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. g3 Nf6 3. Bg2 g6"
+    },
+    {
+        code: "A81",
+        name: "Dutch, Leningrad, Basman system",
+        moves: "1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nf3 c6 5. O-O Nh6"
+    },
+    {
+        code: "A81",
+        name: "Dutch, Leningrad, Karlsbad variation",
+        moves: "1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nh3"
     }
 ];
