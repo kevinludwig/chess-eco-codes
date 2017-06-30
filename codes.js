@@ -1603,5 +1603,90 @@ module.exports = [
         code: "A89",
         name: "Dutch, Leningrad, main variation with Nc6",
         moves: "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6"
+    },
+    {
+        code: "A90",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2"
+    },
+    {
+        code: "A90",
+        name: "Dutch defence, Dutch-Indian (Nimzo-Dutch) variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+"
+    },
+    {
+        code: "A90",
+        name: "Dutch-Indian, Alekhine variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Bb4+ 5. Bd2 Be7"
+    },
+    {
+        code: "A91",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7"
+    },
+    {
+        code: "A92",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O"
+    },
+    {
+        code: "A92",
+        name: "Dutch defence, Alekhine variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O Ne4"
+    },
+    {
+        code: "A92",
+        name: "Dutch, stonewall variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5"
+    },
+    {
+        code: "A92",
+        name: "Dutch, stonewall with Nc3",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3"
+    },
+    {
+        code: "A93",
+        name: "Dutch, stonewall, Botwinnik variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3"
+    },
+    {
+        code: "A94",
+        name: "Dutch, stonewall with Ba3",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. b3 c6 8. Ba3"
+    },
+    {
+        code: "A95",
+        name: "Dutch, stonewall with Nc3",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3 c6"
+    },
+    {
+        code: "A95",
+        name: "Dutch, stonewall: Chekhover variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d5 7. Nc3 c6 8. Qc2 Qe8 9. Bg5"
+    },
+    {
+        code: "A96",
+        name: "Dutch, classical variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6"
+    },
+    {
+        code: "A97",
+        name: "Dutch, Ilyin-Genevsky variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8"
+    },
+    {
+        code: "A97",
+        name: "Dutch, Ilyin-Genevsky, Winter variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Re1"
+    },
+    {
+        code: "A98",
+        name: "Dutch, Ilyin-Genevsky variation with Qc2",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. Qc2"
+    },
+    {
+        code: "A99",
+        name: "Dutch, Ilyin-Genevsky variation with b3",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3"
     }
 ];
