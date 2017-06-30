@@ -1388,5 +1388,50 @@ module.exports = [
         code: "A70",
         name: "Benoni, classical without 9.O-O",
         moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2"
+    },
+    {   
+        code: "A71",
+        name: "Benoni, classical, 8.Bg5",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Bg5"
+    },
+    {
+        code: "A72",
+        name: "Benoni, classical without 9.O-O",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O"
+    },
+    {
+        code: "A73",
+        name: "Benoni, classical, 9.O-O",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O"
+    },
+    {
+        code: "A74",
+        name: "Benoni, classical, 9...a6, 10.a4",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O a6 10. a4"
+    },
+    {
+        code: "A75",
+        name: "Benoni, classical with ...a6 and 10...Bg4",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O a6 10. a4 Bg4"
+    },
+    {
+        code: "A76",
+        name: "Benoni, classical, 9...Re8",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8"
+    },
+    {
+        code: "A77",
+        name: "Benoni, classical, 9...Re8, 10.Nd2",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2"
+    },
+    {
+        code: "A78",
+        name: "Benoni, classical with ...Re8 and ...Na6",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2 Na6"
+    },
+    {
+        code: "A79",
+        name: "Benoni, classical, 11.f3",
+        moves: "1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. Nf3 Bg7 8. Be2 O-O 9. O-O Re8 10. Nd2 Na6 11. f3"
     }
 ];
