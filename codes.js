@@ -1568,5 +1568,40 @@ module.exports = [
         code: "A84",
         name: "Dutch defence",
         moves: "1. d4 f5 2. c4 Nf6"
+    },
+    {
+        code: "A85",
+        name: "Dutch with c4 & Nc3",
+        moves: "1. d4 f5 2. c4 Nf6 3. Nc3"
+    },
+    {
+        code: "A86",
+        name: "Dutch with c4 & g3",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3"
+    },
+    {
+        code: "A86",
+        name: "Dutch, Hort-Antoshin system",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 d6 4. Bg2 c6 5. Nc3 Qc7"
+    },
+    {
+        code: "A86",
+        name: "Dutch, Leningrad variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 g6"
+    },
+    {
+        code: "A87",
+        name: "Dutch, Leningrad, main variation",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3"
+    },
+    {
+        code: "A88",
+        name: "Dutch, Leningrad, main variation with c6",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 c6"
+    },
+    {
+        code: "A89",
+        name: "Dutch, Leningrad, main variation with Nc6",
+        moves: "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6"
     }
 ];

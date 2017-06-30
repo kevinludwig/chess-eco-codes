@@ -1882,5 +1882,47 @@
     "name": "Dutch defence",
     "moves": "1. d4 f5 2. c4 Nf6",
     "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3": {
+    "code": "A85",
+    "name": "Dutch with c4 & Nc3",
+    "moves": "1. d4 f5 2. c4 Nf6 3. Nc3",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/2N5/PP2PPPP/R1BQKBNR b KQkq - 2 3"
+  },
+  "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3": {
+    "code": "A86",
+    "name": "Dutch with c4 & g3",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3",
+    "fen": "rnbqkb1r/ppppp1pp/5n2/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR b KQkq - 0 3"
+  },
+  "rnb1kb1r/ppq1p1pp/2pp1n2/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 2 6": {
+    "code": "A86",
+    "name": "Dutch, Hort-Antoshin system",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3 d6 4. Bg2 c6 5. Nc3 Qc7",
+    "fen": "rnb1kb1r/ppq1p1pp/2pp1n2/5p2/2PP4/2N3P1/PP2PPBP/R1BQK1NR w KQkq - 2 6"
+  },
+  "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 0 4": {
+    "code": "A86",
+    "name": "Dutch, Leningrad variation",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3 g6",
+    "fen": "rnbqkb1r/ppppp2p/5np1/5p2/2PP4/6P1/PP2PP1P/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5": {
+    "code": "A87",
+    "name": "Dutch, Leningrad, main variation",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3",
+    "fen": "rnbqk2r/ppppp1bp/5np1/5p2/2PP4/5NP1/PP2PPBP/RNBQK2R b KQkq - 3 5"
+  },
+  "rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8": {
+    "code": "A88",
+    "name": "Dutch, Leningrad, main variation with c6",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 c6",
+    "fen": "rnbq1rk1/pp2p1bp/2pp1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 0 8"
+  },
+  "r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8": {
+    "code": "A89",
+    "name": "Dutch, Leningrad, main variation with Nc6",
+    "moves": "1. d4 f5 2. c4 Nf6 3. g3 g6 4. Bg2 Bg7 5. Nf3 O-O 6. O-O d6 7. Nc3 Nc6",
+    "fen": "r1bq1rk1/ppp1p1bp/2np1np1/5p2/2PP4/2N2NP1/PP2PPBP/R1BQ1RK1 w - - 2 8"
   }
 }
