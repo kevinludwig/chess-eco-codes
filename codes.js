@@ -1493,5 +1493,80 @@ module.exports = [
         code: "A81",
         name: "Dutch, Leningrad, Karlsbad variation",
         moves: "1. d4 f5 2. g3 g6 3. Bg2 Bg7 4. Nh3"
+    },
+    {
+        code: "A82",
+        name: "Dutch, Staunton gambit",
+        moves: "1. d4 f5 2. e4"
+    },
+    {
+        code: "A82",
+        name: "Dutch, Balogh defence",
+        moves: "1. d4 f5 2. e4 d6"
+    },
+    {
+        code: "A82",
+        name: "Dutch, Staunton gambit",
+        moves: "1. d4 f5 2. e4 fxe4"
+    },
+    {
+        code: "A82",
+        name: "Dutch, Staunton gambit, Tartakower variation",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. g4"
+    },
+    {
+        code: "A83",
+        name: "Dutch, Staunton gambit, Staunton's line",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5"
+    },
+    {
+        code: "A83",
+        name: "Dutch, Staunton gambit, Alekhine variation",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. h4"
+    },
+    {
+        code: "A83",
+        name: "Dutch, Staunton gambit, Lasker variation",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 g6 5. f3"
+    },
+    {
+        code: "A83",
+        name: "Dutch, Staunton gambit, Chigorin variation",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 c6"
+    },
+    {
+        code: "A83",
+        name: "Dutch, Staunton gambit, Nimzovich variation",
+        moves: "1. d4 f5 2. e4 fxe4 3. Nc3 Nf6 4. Bg5 b6"
+    },
+    {
+        code: "A84",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4"
+    },
+    {
+        code: "A84",
+        name: "Dutch defence, Bladel variation",
+        moves: "1. d4 f5 2. c4 g6 3. Nc3 Nh6"
+    },
+    {
+        code: "A84",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4 e6"
+    },
+    {
+        code: "A84",
+        name: "Dutch defence, Rubinstein variation",
+        moves: "1. d4 f5 2. c4 e6 3. Nc3"
+    },
+    {
+        code: "A84",
+        name: "Dutch, Staunton gambit deferred",
+        moves: "1. d4 f5 2. c4 e6 3. e4"
+    },
+    {
+        code: "A84",
+        name: "Dutch defence",
+        moves: "1. d4 f5 2. c4 Nf6"
     }
 ];
