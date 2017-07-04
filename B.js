@@ -1058,5 +1058,60 @@ module.exports = [
         code: "B36",
         name: "Sicilian, accelerated fianchetto, Gurgenidze variation",
         moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6"
+    },
+    {
+        code: "B37",
+        name: "Sicilian, accelerated fianchetto, Maroczy bind, 5...Bg7",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7"
+    },
+    {
+        code: "B37",
+        name: "Sicilian, accelerated fianchetto, Simagin variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Nc2 d6 7. Be2 Nh6"
+    },
+    {
+        code: "B38",
+        name: "Sicilian, accelerated fianchetto, Maroczy bind, 6.Be3",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3"
+    },
+    {
+        code: "B39",
+        name: "Sicilian, accelerated fianchetto, Breyer variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 Nf6 7. Nc3 Ng4"
+    },
+    {
+        code: "B40",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 e6"
+    },
+    {
+        code: "B40",
+        name: "Sicilian, Marshall variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 d5"
+    },
+    {
+        code: "B40",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4"
+    },
+    {
+        code: "B40",
+        name: "Sicilian, Anderssen variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6"
+    },
+    {
+        code: "B40",
+        name: "Sicilian, Pin variation (Sicilian counter-attack)",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4"
+    },
+    {
+        code: "B40",
+        name: "Sicilian, Pin, Jaffe variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 e5"
+    },
+    {
+        code: "B40",
+        name: "Sicilian, Pin, Koch variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5"
     }
 ];
