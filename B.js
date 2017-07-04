@@ -1113,5 +1113,45 @@ module.exports = [
         code: "B40",
         name: "Sicilian, Pin, Koch variation",
         moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5"
+    },
+    {
+        code: "B41",
+        name: "Sicilian, Kan variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6"
+    },
+    {
+        code: "B41",
+        name: "Sicilian, Kan, Maroczy bind (Reti variation)",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4"
+    },
+    {
+        code: "B41",
+        name: "Sicilian, Kan, Maroczy bind - Bronstein variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Bd3 Nc6 8. Bc2"
+    },
+    {
+        code: "B42",
+        name: "Sicilian, Kan, 5.Bd3",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3"
+    },
+    {
+        code: "B42",
+        name: "Sicilian, Kan, Gipslis variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Nf6 6. O-O d6 7. c4 g6"
+    },
+    {
+        code: "B42",
+        name: "Sicilian, Kan, Polugaievsky variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Bc5"
+    },
+    {
+        code: "B42",
+        name: "Sicilian, Kan, Swiss cheese variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 g6"
+    },
+    {
+        code: "B43",
+        name: "Sicilian, Kan, 5.Nc3",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3"
     }
 ];
