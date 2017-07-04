@@ -390,6 +390,391 @@ module.exports = [
         moves: "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4 Nb6 6. d5"
     },
     {
+        code: "B06",
+        name: "Modern defence",
+        moves: "1. e4 g6"
+    },
+    {
+        code: "B06",
+        name: "Norwegian defence",
+        moves: "1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. g4 Ng7"
+    },
+    {
+        code: "B06",
+        name: "Modern defense",
+        moves: "1. e4 g6 2. d4 Bg7"
+    },
+    {
+        code: "B06",
+        name: "Modern defence, three pawns attack",
+        moves: "1. e4 g6 2. d4 Bg7 3. f4"
+    },
+    {
+        code: "B06",
+        name: "Modern defense",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3"
+    },
+    {
+        code: "B06",
+        name: "Modern defence, Gurgenidze variation",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5"
+    },
+    {
+        code: "B06",
+        name: "Modern defense",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3 d6"
+    },
+    {
+        code: "B06",
+        name: "Modern defence, two knights variation",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3"
+    },
+    {
+        code: "B06",
+        name: "Modern defence, two knights, Suttles variation",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6"
+    },
+    {
+        code: "B06",
+        name: "Modern defence, Pseudo-Austrian attack",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4"
+    },
+    {
+        code: "B07",
+        name: "Pirc defence",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3"
+    },
+    {
+        code: "B07",
+        name: "Pirc, Ufimtsev-Pytel variation",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 c6"
+    },
+    {
+        code: "B07",
+        name: "Pirc defence",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6"
+    },
+    {
+        code: "B07",
+        name: "Pirc, 150 attack",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2"
+    },
+    {
+        code: "B07",
+        name: "Pirc, Sveshnikov system",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3"
+    },
+    {
+        code: "B07",
+        name: "Pirc, Holmov system",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4"
+    },
+    {
+        code: "B07",
+        name: "Pirc, Byrne variation",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5"
+    },
+    {
+        code: "B07",
+        name: "Pirc defence",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2"
+    },
+    {
+        code: "B07",
+        name: "Pirc, Chinese variation",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. g4"
+    },
+    {
+        code: "B07",
+        name: "Pirc, bayonet (Mariotti) attack",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4"
+    },
+    {
+        code: "B07",
+        name: "Modern defence, Geller's system",
+        moves: "1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c3"
+    },
+    {
+        code: "B08",
+        name: "Pirc, classical (two knights) system",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3"
+    },
+    {
+        code: "B08",
+        name: "Pirc, classical (two knights) system",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7"
+    },
+    {
+        code: "B08",
+        name: "Pirc, classical, h3 system",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3"
+    },
+    {
+        code: "B08",
+        name: "Pirc, classical system, 5.Be2",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack, 6.e5",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack, 6.Be3",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack, 6.Bd3",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack, dragon formation",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5"
+    },
+    {
+        code: "B09",
+        name: "Pirc, Austrian attack, Ljubojevic variation",
+        moves: "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bc4"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, Hillbilly attack",
+        moves: "1. e4 c6 2. Bc4"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, anti-Caro-Kann defence",
+        moves: "1. e4 c6 2. c4"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, anti-anti-Caro-Kann defence",
+        moves: "1. e4 c6 2. c4 d5"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, closed (Breyer) variation",
+        moves: "1. e4 c6 2. d3"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6 2. Nc3"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, Goldman (Spielmann) variation",
+        moves: "1. e4 c6 2. Nc3 d5 3. Qf3"
+    },
+    {
+        code: "B10",
+        name: "Caro-Kann, two knights variation",
+        moves: "1. e4 c6 2. Nc3 d5 3. Nf3"
+    },
+    {
+        code: "B11",
+        name: "Caro-Kann, two knights, 3...Bg4",
+        moves: "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6 2. d4"
+    },
+    {
+        code: "B12",
+        name: "de Bruycker defence",
+        moves: "1. e4 c6 2. d4 Na6 3. Nc3 Nc7"
+    },
+    {
+        code: "B12",
+        name: "Caro-Masi defence",
+        moves: "1. e4 c6 2. d4 Nf6"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6 2. d4 d5"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann, Tartakower (fantasy) variation",
+        moves: "1. e4 c6 2. d4 d5 3. f3"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann, 3.Nd2",
+        moves: "1. e4 c6 2. d4 d5 3. Nd2"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann, Edinburgh variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nd2 Qb6"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann, advance variation",
+        moves: "1. e4 c6 2. d4 d5 3. e5"
+    },
+    {
+        code: "B12",
+        name: "Caro-Kann, advance, Short variation",
+        moves: "1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be2"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, exchange variation",
+        moves: "1. e4 c6 2. d4 d5 3. exd5"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, exchange, Rubinstein variation",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik attack",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik, Gunderam attack",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik attack",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik, Herzog defence",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 Na5"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik, normal variation",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik, Czerniak variation",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5"
+    },
+    {
+        code: "B13",
+        name: "Caro-Kann, Panov-Botvinnik, Reifir (Spielmann) variation",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6"
+    },
+    {
+        code: "B14",
+        name: "Caro-Kann, Panov-Botvinnik attack, 5...e6",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6"
+    },
+    {
+        code: "B14",
+        name: "Caro-Kann, Panov-Botvinnik attack, 5...g6",
+        moves: "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Gurgenidze counter-attack",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 b5"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Gurgenidze system",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 g6"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Rasa-Studier gambit",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann defence",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Alekhine gambit",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Tartakower (Nimzovich) variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6"
+    },
+    {
+        code: "B15",
+        name: "Caro-Kann, Forgacs variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4"
+    },
+    {
+        code: "B16",
+        name: "Caro-Kann, Bronstein-Larsen variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6"
+    },
+    {
+        code: "B17",
+        name: "Caro-Kann, Steinitz variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7"
+    },
+    {
+        code: "B18",
+        name: "Caro-Kann, classical variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5"
+    },
+    {
+        code: "B18", 
+        name: "Caro-Kann, classical, Flohr variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3"
+    },
+    {
+        code: "B18",
+        name: "Caro-Kann, classical, Maroczy attack",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4"
+    },
+    {
+        code: "B18",
+        name: "Caro-Kann, classical, 6.h4",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4"
+    },
+    {
+        code: "B19",
+        name: "Caro-Kann, classical, 7...Nd7",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7"
+    },
+    {
+        code: "B19",
+        name: "Caro-Kann, classical, Spassky variation",
+        moves: "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5"
+    },
+    {
         code: "B20",
         name: "Sicilian defence",
         moves: "1. e4 c5"

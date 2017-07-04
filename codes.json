@@ -2495,6 +2495,468 @@
     "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4 Nb6 6. d5",
     "fen": "rn1qkb1r/ppp1pppp/1n1p4/3PP3/2P3b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6"
   },
+  "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B06",
+    "name": "Modern defence",
+    "moves": "1. e4 g6",
+    "fen": "rnbqkbnr/pppppp1p/6p1/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkb1r/ppppppnp/6p1/4P3/3P2P1/8/PPP2P1P/RNBQKBNR w KQkq - 1 5": {
+    "code": "B06",
+    "name": "Norwegian defence",
+    "moves": "1. e4 g6 2. d4 Nf6 3. e5 Nh5 4. g4 Ng7",
+    "fen": "rnbqkb1r/ppppppnp/6p1/4P3/3P2P1/8/PPP2P1P/RNBQKBNR w KQkq - 1 5"
+  },
+  "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B06",
+    "name": "Modern defense",
+    "moves": "1. e4 g6 2. d4 Bg7",
+    "fen": "rnbqk1nr/ppppppbp/6p1/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqk1nr/ppppppbp/6p1/8/3PPP2/8/PPP3PP/RNBQKBNR b KQkq f3 0 3": {
+    "code": "B06",
+    "name": "Modern defence, three pawns attack",
+    "moves": "1. e4 g6 2. d4 Bg7 3. f4",
+    "fen": "rnbqk1nr/ppppppbp/6p1/8/3PPP2/8/PPP3PP/RNBQKBNR b KQkq f3 0 3"
+  },
+  "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3": {
+    "code": "B06",
+    "name": "Modern defense",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3",
+    "fen": "rnbqk1nr/ppppppbp/6p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3"
+  },
+  "rnbqk1nr/pp2ppb1/2p3p1/3pP2p/3P1P2/2N5/PPP3PP/R1BQKBNR w KQkq h6 0 6": {
+    "code": "B06",
+    "name": "Modern defence, Gurgenidze variation",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 h5",
+    "fen": "rnbqk1nr/pp2ppb1/2p3p1/3pP2p/3P1P2/2N5/PPP3PP/R1BQKBNR w KQkq h6 0 6"
+  },
+  "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
+    "code": "B06",
+    "name": "Modern defense",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 d6",
+    "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4": {
+    "code": "B06",
+    "name": "Modern defence, two knights variation",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3",
+    "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4"
+  },
+  "rnbqk1nr/pp2ppbp/2pp2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5": {
+    "code": "B06",
+    "name": "Modern defence, two knights, Suttles variation",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Nf3 c6",
+    "fen": "rnbqk1nr/pp2ppbp/2pp2p1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 0 5"
+  },
+  "rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4": {
+    "code": "B06",
+    "name": "Modern defence, Pseudo-Austrian attack",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4",
+    "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3": {
+    "code": "B07",
+    "name": "Pirc defence",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3",
+    "fen": "rnbqkb1r/ppp1pppp/3p1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 2 3"
+  },
+  "rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
+    "code": "B07",
+    "name": "Pirc, Ufimtsev-Pytel variation",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 c6",
+    "fen": "rnbqkb1r/pp2pppp/2pp1n2/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
+    "code": "B07",
+    "name": "Pirc defence",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/pp2pp1p/2pp1np1/8/3PP3/2N1B3/PPPQ1PPP/R3KBNR b KQkq - 1 5": {
+    "code": "B07",
+    "name": "Pirc, 150 attack",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. Qd2",
+    "fen": "rnbqkb1r/pp2pp1p/2pp1np1/8/3PP3/2N1B3/PPPQ1PPP/R3KBNR b KQkq - 1 5"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N3P1/PPP2P1P/R1BQKBNR b KQkq - 0 4": {
+    "code": "B07",
+    "name": "Pirc, Sveshnikov system",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N3P1/PPP2P1P/R1BQKBNR b KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/2BPP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 4": {
+    "code": "B07",
+    "name": "Pirc, Holmov system",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/2BPP3/2N5/PPP2PPP/R1BQK1NR b KQkq - 1 4"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 1 4": {
+    "code": "B07",
+    "name": "Pirc, Byrne variation",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/6B1/3PP3/2N5/PPP2PPP/R2QKBNR b KQkq - 1 4"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR b KQkq - 1 4": {
+    "code": "B07",
+    "name": "Pirc defence",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N5/PPP1BPPP/R1BQK1NR b KQkq - 1 4"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/3PP1P1/2N5/PPP1BP1P/R1BQK1NR b KQkq g3 0 5": {
+    "code": "B07",
+    "name": "Pirc, Chinese variation",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. g4",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP1P1/2N5/PPP1BP1P/R1BQK1NR b KQkq g3 0 5"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/3PP2P/2N5/PPP1BPP1/R1BQK1NR b KQkq h3 0 5": {
+    "code": "B07",
+    "name": "Pirc, bayonet (Mariotti) attack",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. h4",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP2P/2N5/PPP1BPP1/R1BQK1NR b KQkq h3 0 5"
+  },
+  "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
+    "code": "B07",
+    "name": "Modern defence, Geller's system",
+    "moves": "1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. c3",
+    "fen": "rnbqk1nr/ppp1ppbp/3p2p1/8/3PP3/2P2N2/PP3PPP/RNBQKB1R b KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4": {
+    "code": "B08",
+    "name": "Pirc, classical (two knights) system",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 4"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5": {
+    "code": "B08",
+    "name": "Pirc, classical (two knights) system",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 5"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 5": {
+    "code": "B08",
+    "name": "Pirc, classical, h3 system",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 5"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 5": {
+    "code": "B08",
+    "name": "Pirc, classical system, 5.Be2",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/3PP3/2N2N2/PPP1BPPP/R1BQK2R b KQkq - 3 5"
+  },
+  "rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4",
+    "fen": "rnbqkb1r/ppp1pp1p/3p1np1/8/3PPP2/2N5/PPP3PP/R1BQKBNR b KQkq f3 0 4"
+  },
+  "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQ - 3 6": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O",
+    "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQ - 3 6"
+  },
+  "rnbq1rk1/ppp1ppbp/3p1np1/4P3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQ - 0 6": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack, 6.e5",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. e5",
+    "fen": "rnbq1rk1/ppp1ppbp/3p1np1/4P3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQ - 0 6"
+  },
+  "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N1BN2/PPP3PP/R2QKB1R b KQ - 4 6": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack, 6.Be3",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Be3",
+    "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2N1BN2/PPP3PP/R2QKB1R b KQ - 4 6"
+  },
+  "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack, 6.Bd3",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3",
+    "fen": "rnbq1rk1/ppp1ppbp/3p1np1/8/3PPP2/2NB1N2/PPP3PP/R1BQK2R b KQ - 4 6"
+  },
+  "rnbqk2r/pp2ppbp/3p1np1/2p5/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq c6 0 6": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack, dragon formation",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Nf3 c5",
+    "fen": "rnbqk2r/pp2ppbp/3p1np1/2p5/3PPP2/2N2N2/PPP3PP/R1BQKB1R w KQkq c6 0 6"
+  },
+  "rnbqk2r/ppp1ppbp/3p1np1/8/2BPPP2/2N5/PPP3PP/R1BQK1NR b KQkq - 2 5": {
+    "code": "B09",
+    "name": "Pirc, Austrian attack, Ljubojevic variation",
+    "moves": "1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f4 Bg7 5. Bc4",
+    "fen": "rnbqk2r/ppp1ppbp/3p1np1/8/2BPPP2/2N5/PPP3PP/R1BQK1NR b KQkq - 2 5"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B10",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2": {
+    "code": "B10",
+    "name": "Caro-Kann, Hillbilly attack",
+    "moves": "1. e4 c6 2. Bc4",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 1 2"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 2": {
+    "code": "B10",
+    "name": "Caro-Kann, anti-Caro-Kann defence",
+    "moves": "1. e4 c6 2. c4",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 2"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq d6 0 3": {
+    "code": "B10",
+    "name": "Caro-Kann, anti-anti-Caro-Kann defence",
+    "moves": "1. e4 c6 2. c4 d5",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/2P1P3/8/PP1P1PPP/RNBQKBNR w KQkq d6 0 3"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
+    "code": "B10",
+    "name": "Caro-Kann, closed (Breyer) variation",
+    "moves": "1. e4 c6 2. d3",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2": {
+    "code": "B10",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6 2. Nc3",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 3": {
+    "code": "B10",
+    "name": "Caro-Kann, Goldman (Spielmann) variation",
+    "moves": "1. e4 c6 2. Nc3 d5 3. Qf3",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2Q2/PPPP1PPP/R1B1KBNR b KQkq - 1 3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3": {
+    "code": "B10",
+    "name": "Caro-Kann, two knights variation",
+    "moves": "1. e4 c6 2. Nc3 d5 3. Nf3",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3"
+  },
+  "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4": {
+    "code": "B11",
+    "name": "Caro-Kann, two knights, 3...Bg4",
+    "moves": "1. e4 c6 2. Nc3 d5 3. Nf3 Bg4",
+    "fen": "rn1qkbnr/pp2pppp/2p5/3p4/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4"
+  },
+  "rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2": {
+    "code": "B12",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6 2. d4",
+    "fen": "rnbqkbnr/pp1ppppp/2p5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2"
+  },
+  "r1bqkbnr/ppnppppp/2p5/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4": {
+    "code": "B12",
+    "name": "de Bruycker defence",
+    "moves": "1. e4 c6 2. d4 Na6 3. Nc3 Nc7",
+    "fen": "r1bqkbnr/ppnppppp/2p5/8/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 3 4"
+  },
+  "rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B12",
+    "name": "Caro-Masi defence",
+    "moves": "1. e4 c6 2. d4 Nf6",
+    "fen": "rnbqkb1r/pp1ppppp/2p2n2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3": {
+    "code": "B12",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6 2. d4 d5",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3": {
+    "code": "B12",
+    "name": "Caro-Kann, Tartakower (fantasy) variation",
+    "moves": "1. e4 c6 2. d4 d5 3. f3",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/5P2/PPP3PP/RNBQKBNR b KQkq - 0 3"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3": {
+    "code": "B12",
+    "name": "Caro-Kann, 3.Nd2",
+    "moves": "1. e4 c6 2. d4 d5 3. Nd2",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3"
+  },
+  "rnb1kbnr/pp2pppp/1qp5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "B12",
+    "name": "Caro-Kann, Edinburgh variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nd2 Qb6",
+    "fen": "rnb1kbnr/pp2pppp/1qp5/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+    "code": "B12",
+    "name": "Caro-Kann, advance variation",
+    "moves": "1. e4 c6 2. d4 d5 3. e5",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3"
+  },
+  "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2P5/PP2BPPP/RNBQK1NR b KQkq - 1 5": {
+    "code": "B12",
+    "name": "Caro-Kann, advance, Short variation",
+    "moves": "1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be2",
+    "fen": "rn1qkbnr/pp3ppp/2p1p3/3pPb2/3P4/2P5/PP2BPPP/RNBQK1NR b KQkq - 1 5"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+    "code": "B13",
+    "name": "Caro-Kann, exchange variation",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3"
+  },
+  "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6": {
+    "code": "B13",
+    "name": "Caro-Kann, exchange, Rubinstein variation",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4",
+    "fen": "r1bqkb1r/pp2pppp/2n2n2/3p4/3P1B2/2PB4/PP3PPP/RN1QK1NR b KQkq - 2 6"
+  },
+  "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik attack",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4",
+    "fen": "rnbqkbnr/pp2pppp/8/3p4/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4"
+  },
+  "rnbqkb1r/pp2pppp/5n2/2Pp4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik, Gunderam attack",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. c5",
+    "fen": "rnbqkb1r/pp2pppp/5n2/2Pp4/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5"
+  },
+  "rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik attack",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3",
+    "fen": "rnbqkb1r/pp2pppp/5n2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5"
+  },
+  "r1bqkb1r/pp2pppp/5n2/n2P2B1/2p5/2N5/PP3PPP/R2QKBNR w KQkq - 1 8": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik, Herzog defence",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 dxc4 7. d5 Na5",
+    "fen": "r1bqkb1r/pp2pppp/5n2/n2P2B1/2p5/2N5/PP3PPP/R2QKBNR w KQkq - 1 8"
+  },
+  "r1bqkb1r/pp3ppp/2n1pn2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 0 7": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik, normal variation",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 e6",
+    "fen": "r1bqkb1r/pp3ppp/2n1pn2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 0 7"
+  },
+  "r1b1kb1r/pp2pppp/2n2n2/q2p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik, Czerniak variation",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qa5",
+    "fen": "r1b1kb1r/pp2pppp/2n2n2/q2p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7"
+  },
+  "r1b1kb1r/pp2pppp/1qn2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7": {
+    "code": "B13",
+    "name": "Caro-Kann, Panov-Botvinnik, Reifir (Spielmann) variation",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Bg5 Qb6",
+    "fen": "r1b1kb1r/pp2pppp/1qn2n2/3p2B1/2PP4/2N5/PP3PPP/R2QKBNR w KQkq - 5 7"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6": {
+    "code": "B14",
+    "name": "Caro-Kann, Panov-Botvinnik attack, 5...e6",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6",
+    "fen": "rnbqkb1r/pp3ppp/4pn2/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6"
+  },
+  "rnbqkb1r/pp2pp1p/5np1/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6": {
+    "code": "B14",
+    "name": "Caro-Kann, Panov-Botvinnik attack, 5...g6",
+    "moves": "1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6",
+    "fen": "rnbqkb1r/pp2pp1p/5np1/3p4/2PP4/2N5/PP3PPP/R1BQKBNR w KQkq - 0 6"
+  },
+  "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3": {
+    "code": "B15",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3",
+    "fen": "rnbqkbnr/pp2pppp/2p5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3"
+  },
+  "rnbqkbnr/p3pppp/2p5/1p1p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq b6 0 4": {
+    "code": "B15",
+    "name": "Caro-Kann, Gurgenidze counter-attack",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 b5",
+    "fen": "rnbqkbnr/p3pppp/2p5/1p1p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq b6 0 4"
+  },
+  "rnbqkbnr/pp2pp1p/2p3p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
+    "code": "B15",
+    "name": "Caro-Kann, Gurgenidze system",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 g6",
+    "fen": "rnbqkbnr/pp2pp1p/2p3p1/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4": {
+    "code": "B15",
+    "name": "Caro-Kann, Rasa-Studier gambit",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. f3",
+    "fen": "rnbqkbnr/pp2pppp/2p5/8/3Pp3/2N2P2/PPP3PP/R1BQKBNR b KQkq - 0 4"
+  },
+  "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4": {
+    "code": "B15",
+    "name": "Caro-Kann defence",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4",
+    "fen": "rnbqkbnr/pp2pppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR b KQkq - 0 4"
+  },
+  "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/3B4/PPP2PPP/R1BQK1NR b KQkq - 2 5": {
+    "code": "B15",
+    "name": "Caro-Kann, Alekhine gambit",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Bd3",
+    "fen": "rnbqkb1r/pp2pppp/2p2n2/8/3PN3/3B4/PPP2PPP/R1BQK1NR b KQkq - 2 5"
+  },
+  "rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6": {
+    "code": "B15",
+    "name": "Caro-Kann, Tartakower (Nimzovich) variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6",
+    "fen": "rnbqkb1r/pp3ppp/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6"
+  },
+  "rnbqkb1r/pp3ppp/2p2p2/8/2BP4/8/PPP2PPP/R1BQK1NR b KQkq - 1 6": {
+    "code": "B15",
+    "name": "Caro-Kann, Forgacs variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4",
+    "fen": "rnbqkb1r/pp3ppp/2p2p2/8/2BP4/8/PPP2PPP/R1BQK1NR b KQkq - 1 6"
+  },
+  "rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6": {
+    "code": "B16",
+    "name": "Caro-Kann, Bronstein-Larsen variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6",
+    "fen": "rnbqkb1r/pp2pp1p/2p2p2/8/3P4/8/PPP2PPP/R1BQKBNR w KQkq - 0 6"
+  },
+  "r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
+    "code": "B17",
+    "name": "Caro-Kann, Steinitz variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7",
+    "fen": "r1bqkbnr/pp1npppp/2p5/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5"
+  },
+  "rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
+    "code": "B18",
+    "name": "Caro-Kann, classical variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5",
+    "fen": "rn1qkbnr/pp2pppp/2p5/5b2/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5"
+  },
+  "rn1qkbnr/pp2pppp/2p3b1/8/3P4/6NN/PPP2PPP/R1BQKB1R b KQkq - 4 6": {
+    "code": "B18",
+    "name": "Caro-Kann, classical, Flohr variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nh3",
+    "fen": "rn1qkbnr/pp2pppp/2p3b1/8/3P4/6NN/PPP2PPP/R1BQKB1R b KQkq - 4 6"
+  },
+  "rn1qkbnr/pp2pppp/2p3b1/8/3P1P2/6N1/PPP3PP/R1BQKBNR b KQkq f3 0 6": {
+    "code": "B18",
+    "name": "Caro-Kann, classical, Maroczy attack",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. f4",
+    "fen": "rn1qkbnr/pp2pppp/2p3b1/8/3P1P2/6N1/PPP3PP/R1BQKBNR b KQkq f3 0 6"
+  },
+  "rn1qkbnr/pp2pppp/2p3b1/8/3P3P/6N1/PPP2PP1/R1BQKBNR b KQkq h3 0 6": {
+    "code": "B18",
+    "name": "Caro-Kann, classical, 6.h4",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4",
+    "fen": "rn1qkbnr/pp2pppp/2p3b1/8/3P3P/6N1/PPP2PP1/R1BQKBNR b KQkq h3 0 6"
+  },
+  "r2qkbnr/pp1nppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R w KQkq - 2 8": {
+    "code": "B19",
+    "name": "Caro-Kann, classical, 7...Nd7",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7",
+    "fen": "r2qkbnr/pp1nppp1/2p3bp/8/3P3P/5NN1/PPP2PP1/R1BQKB1R w KQkq - 2 8"
+  },
+  "r2qkbnr/pp1nppp1/2p3bp/7P/3P4/5NN1/PPP2PP1/R1BQKB1R b KQkq - 0 8": {
+    "code": "B19",
+    "name": "Caro-Kann, classical, Spassky variation",
+    "moves": "1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5",
+    "fen": "r2qkbnr/pp1nppp1/2p3bp/7P/3P4/5NN1/PPP2PP1/R1BQKB1R b KQkq - 0 8"
+  },
   "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2": {
     "code": "B20",
     "name": "Sicilian defence",
