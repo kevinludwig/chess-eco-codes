@@ -2027,6 +2027,474 @@
     "moves": "1. d4 f5 2. c4 Nf6 3. g3 e6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. Nc3 Qe8 8. b3",
     "fen": "rnb1qrk1/ppp1b1pp/3ppn2/5p2/2PP4/1PN2NP1/P3PPBP/R1BQ1RK1 b - - 0 8"
   },
+  "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1": {
+    "code": "B00",
+    "name": "King's pawn opening",
+    "moves": "1. e4",
+    "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq e3 0 1"
+  },
+  "rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B00",
+    "name": "Hippopotamus defence",
+    "moves": "1. e4 Nh6 2. d4 g6 3. c4 f6",
+    "fen": "rnbqkb1r/ppppp2p/5ppn/8/2PPP3/8/PP3PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq a6 0 2": {
+    "code": "B00",
+    "name": "Corn stalk defence",
+    "moves": "1. e4 a5",
+    "fen": "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq a6 0 2"
+  },
+  "r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2": {
+    "code": "B00",
+    "name": "Lemming defence",
+    "moves": "1. e4 Na6",
+    "fen": "r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2"
+  },
+  "rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq f6 0 2": {
+    "code": "B00",
+    "name": "Fred",
+    "moves": "1. e4 f5",
+    "fen": "rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq f6 0 2"
+  },
+  "rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B00",
+    "name": "Barnes defence",
+    "moves": "1. e4 f6",
+    "fen": "rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbq1bnr/pppppkpp/5p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQ - 1 3": {
+    "code": "B00",
+    "name": "Fried fox defence",
+    "moves": "1. e4 f6 2. d4 Kf7",
+    "fen": "rnbq1bnr/pppppkpp/5p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQ - 1 3"
+  },
+  "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B00",
+    "name": "Carr's defence",
+    "moves": "1. e4 h6",
+    "fen": "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq g6 0 2": {
+    "code": "B00",
+    "name": "Reversed Grob (Borg/Basman defence/macho Grob)",
+    "moves": "1. e4 g5",
+    "fen": "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq g6 0 2"
+  },
+  "rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B00",
+    "name": "St. George (Baker) defence",
+    "moves": "1. e4 a6",
+    "fen": "rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "B00",
+    "name": "Owen defence",
+    "moves": "1. e4 b6",
+    "fen": "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rn1qkbnr/p1pppppp/bp6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B00",
+    "name": "Guatemala defence",
+    "moves": "1. e4 b6 2. d4 Ba6",
+    "fen": "rn1qkbnr/p1pppppp/bp6/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence",
+    "moves": "1. e4 Nc6",
+    "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2"
+  },
+  "r1bqkbnr/pppppppp/2n5/8/3PP3/2P5/P4PPP/RNBQKBNR b KQkq d3 0 4": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence, Wheeler gambit",
+    "moves": "1. e4 Nc6 2. b4 Nxb4 3. c3 Nc6 4. d4",
+    "fen": "r1bqkbnr/pppppppp/2n5/8/3PP3/2P5/P4PPP/RNBQKBNR b KQkq d3 0 4"
+  },
+  "r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence",
+    "moves": "1. e4 Nc6 2. Nf3",
+    "fen": "r1bqkbnr/pppppppp/2n5/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2"
+  },
+  "r1bqkbnr/ppppp1pp/2n5/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq f6 0 3": {
+    "code": "B00",
+    "name": "KP, Colorado counter",
+    "moves": "1. e4 Nc6 2. Nf3 f5",
+    "fen": "r1bqkbnr/ppppp1pp/2n5/5p2/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq f6 0 3"
+  },
+  "r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence",
+    "moves": "1. e4 Nc6 2. d4",
+    "fen": "r1bqkbnr/pppppppp/2n5/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2"
+  },
+  "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence, Marshall gambit",
+    "moves": "1. e4 Nc6 2. d4 d5 3. exd5 Qxd5 4. Nc3",
+    "fen": "r1b1kbnr/ppp1pppp/2n5/3q4/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4"
+  },
+  "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3": {
+    "code": "B00",
+    "name": "KP, Nimzovich defence, Bogolyubov variation",
+    "moves": "1. e4 Nc6 2. d4 d5 3. Nc3",
+    "fen": "r1bqkbnr/ppp1pppp/2n5/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3"
+  },
+  "r1bqkbnr/ppppp1pp/2n2p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
+    "code": "B00",
+    "name": "KP, Neo-Mongoloid defence",
+    "moves": "1. e4 Nc6 2. d4 f6",
+    "fen": "r1bqkbnr/ppppp1pp/2n2p2/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2": {
+    "code": "B01",
+    "name": "Scandinavian (centre counter) defence",
+    "moves": "1. e4 d5",
+    "fen": "rnbqkbnr/ppp1pppp/8/3p4/4P3/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 2"
+  },
+  "rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6": {
+    "code": "B01",
+    "name": "Scandinavian defence, Lasker variation",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3",
+    "fen": "rn2kb1r/ppp1pppp/5n2/q7/3P2b1/2N2N1P/PPP2PP1/R1BQKB1R b KQkq - 0 6"
+  },
+  "rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
+    "code": "B01",
+    "name": "Scandinavian defence",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5",
+    "fen": "rn2kb1r/ppp1pppp/5n2/q4b2/3P4/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 3 6"
+  },
+  "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq g3 0 7": {
+    "code": "B01",
+    "name": "Scandinavian defence, Gruenfeld variation",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 c6 7. g4",
+    "fen": "rn2kb1r/pp2pppp/2p2n2/q3Nb2/3P2P1/2N5/PPP2P1P/R1BQKB1R b KQkq g3 0 7"
+  },
+  "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq e6 0 5": {
+    "code": "B01",
+    "name": "Scandinavian, Anderssen counter-attack",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5",
+    "fen": "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N5/PPP2PPP/R1BQKBNR w KQkq e6 0 5"
+  },
+  "r1b1k1nr/ppp2ppp/2n5/q3P3/1b6/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 4 7": {
+    "code": "B01",
+    "name": "Scandinavian, Anderssen counter-attack orthodox attack",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Bb4 6. Bd2 Nc6 7. Nf3",
+    "fen": "r1b1k1nr/ppp2ppp/2n5/q3P3/1b6/2N2N2/PPPB1PPP/R2QKB1R b KQkq - 4 7"
+  },
+  "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5": {
+    "code": "B01",
+    "name": "Scandinavian, Anderssen counter-attack, Goteborg system",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3",
+    "fen": "rnb1kbnr/ppp2ppp/8/q3p3/3P4/2N2N2/PPP2PPP/R1BQKB1R b KQkq - 1 5"
+  },
+  "rn2kbnr/ppp2ppp/8/q3p3/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6": {
+    "code": "B01",
+    "name": "Scandinavian, Anderssen counter-attack, Collijn variation",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. Nf3 Bg4",
+    "fen": "rn2kbnr/ppp2ppp/8/q3p3/3P2b1/2N2N2/PPP2PPP/R1BQKB1R w KQkq - 2 6"
+  },
+  "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4": {
+    "code": "B01",
+    "name": "Scandinavian, Mieses-Kotrvc gambit",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. b4",
+    "fen": "rnb1kbnr/ppp1pppp/8/q7/1P6/2N5/P1PP1PPP/R1BQKBNR b KQkq b3 0 4"
+  },
+  "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "B01",
+    "name": "Scandinavian, Pytel-Wade variation",
+    "moves": "1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6",
+    "fen": "rnb1kbnr/ppp1pppp/3q4/8/8/2N5/PPPP1PPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B01",
+    "name": "Scandinavian defence",
+    "moves": "1. e4 d5 2. exd5 Nf6",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3P4/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B01",
+    "name": "Scandinavian, Icelandic gambit",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. c4 e6",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B01",
+    "name": "Scandinavian gambit",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. c4 c6",
+    "fen": "rnbqkb1r/pp2pppp/2p2n2/3P4/2P5/8/PP1P1PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3": {
+    "code": "B01",
+    "name": "Scandinavian defence",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. d4",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3"
+  },
+  "rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B01",
+    "name": "Scandinavian, Marshall variation",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. d4 Nxd5",
+    "fen": "rnbqkb1r/ppp1pppp/8/3n4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/8/8/1nPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5": {
+    "code": "B01",
+    "name": "Scandinavian, Kiel variation",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb4",
+    "fen": "rnbqkb1r/ppp1pppp/8/8/1nPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5"
+  },
+  "rnbqkb1r/ppp1pp1p/5np1/3P4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B01",
+    "name": "Scandinavian, Richter variation",
+    "moves": "1. e4 d5 2. exd5 Nf6 3. d4 g6",
+    "fen": "rnbqkb1r/ppp1pp1p/5np1/3P4/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1": {
+    "code": "B02",
+    "name": "Alekhine's defence",
+    "moves": "1 e4 Nf6",
+    "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq d6 0 3": {
+    "code": "B02",
+    "name": "Alekhine's defence, Scandinavian variation",
+    "moves": "1. e4 Nf6 2. Nc3 d5",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/3p4/4P3/2N5/PPPP1PPP/R1BQKBNR w KQkq d6 0 3"
+  },
+  "rnbqkb1r/pppnpppp/4P3/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 4": {
+    "code": "B02",
+    "name": "Alekhine's defence, Spielmann variation",
+    "moves": "1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. e6",
+    "fen": "rnbqkb1r/pppnpppp/4P3/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 0 4"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
+    "code": "B02",
+    "name": "Alekhine's defence, Maroczy variation",
+    "moves": "1. e4 Nf6 2. d3",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2": {
+    "code": "B02",
+    "name": "Alekhine's defence, Krejcik variation",
+    "moves": "1. e4 Nf6 2. Bc4",
+    "fen": "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2"
+  },
+  "rnbqkb1r/pppppppp/8/4P3/4n3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B02",
+    "name": "Alekhine's defence, Mokele Mbembe (Buecker) variation",
+    "moves": "1. e4 Nf6 2. e5 Ne4",
+    "fen": "rnbqkb1r/pppppppp/8/4P3/4n3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkbnr/pppppppp/8/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B02",
+    "name": "Alekhine's defence, Brooklyn defence",
+    "moves": "1. e4 Nf6 2. e5 Ng8",
+    "fen": "rnbqkbnr/pppppppp/8/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3": {
+    "code": "B02",
+    "name": "Alekhine's defence",
+    "moves": "1. e4 Nf6 2. e5 Nd5",
+    "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3"
+  },
+  "rnbqkb1r/pp1ppppp/1n6/2p1P3/8/1B1P4/PPP2PPP/RNBQK1NR b KQkq - 0 5": {
+    "code": "B02",
+    "name": "Alekhine's defence, Kmoch variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. Bc4 Nb6 4. Bb3 c5 5. d3",
+    "fen": "rnbqkb1r/pp1ppppp/1n6/2p1P3/8/1B1P4/PPP2PPP/RNBQK1NR b KQkq - 0 5"
+  },
+  "rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 3": {
+    "code": "B02",
+    "name": "Alekhine's defence, Saemisch attack",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. Nc3",
+    "fen": "rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 3"
+  },
+  "rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 3": {
+    "code": "B02",
+    "name": "Alekhine's defence, Welling variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. b3",
+    "fen": "rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 3"
+  },
+  "rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 3": {
+    "code": "B02",
+    "name": "Alekhine's defence",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4",
+    "fen": "rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 3"
+  },
+  "rnbqkb1r/pppppppp/1n6/4P3/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq - 0 4": {
+    "code": "B02",
+    "name": "Alekhine's defence, Steiner variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. b3",
+    "fen": "rnbqkb1r/pppppppp/1n6/4P3/2P5/1P6/P2P1PPP/RNBQKBNR b KQkq - 0 4"
+  },
+  "rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq - 0 4": {
+    "code": "B02",
+    "name": "Alekhine's defence, chase variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5",
+    "fen": "rnbqkb1r/pppppppp/1n6/2P1P3/8/8/PP1P1PPP/RNBQKBNR b KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq - 0 7": {
+    "code": "B02",
+    "name": "Alekhine's defence, chase, Mikenas variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Bc4 e6 6. Nc3 d6",
+    "fen": "rnbqkb1r/ppp2ppp/3pp3/2PnP3/2B5/2N5/PP1P1PPP/R1BQK1NR w KQkq - 0 7"
+  },
+  "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3": {
+    "code": "B03",
+    "name": "Alekhine's defence",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4",
+    "fen": "rnbqkb1r/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq d3 0 3"
+  },
+  "rnbqkb1r/p1pppppp/8/1p1nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq b6 0 4": {
+    "code": "B03",
+    "name": "Alekhine's defence, O'Sullivan gambit",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 b5",
+    "fen": "rnbqkb1r/p1pppppp/8/1p1nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq b6 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4": {
+    "code": "B03",
+    "name": "Alekhine's defence",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6",
+    "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/3p4/3nP3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4": {
+    "code": "B03",
+    "name": "Alekhine's defence, Balogh variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4",
+    "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4"
+  },
+  "rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4": {
+    "code": "B03",
+    "name": "Alekhine's defence",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4",
+    "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR b KQkq c3 0 4"
+  },
+  "rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5": {
+    "code": "B03",
+    "name": "Alekhine's defence, exchange variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6",
+    "fen": "rnbqkb1r/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5"
+  },
+  "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 4 11": {
+    "code": "B03",
+    "name": "Alekhine's defence, exchange, Karpov variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nf3 g6 7. Be2 Bg7 8. O-O O-O 9. h3 Nc6 10. Nc3 Bf5 11. Bf4",
+    "fen": "r2q1rk1/pp2ppbp/1nnp2p1/5b2/2PP1B2/2N2N1P/PP2BPP1/R2Q1RK1 b - - 4 11"
+  },
+  "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq f3 0 5": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4",
+    "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq f3 0 5"
+  },
+  "rn1q1rk1/ppp1b1pp/1n2pp2/4Pb2/2PP4/2N2N2/PP2B1PP/R1BQ1RK1 w - - 0 11": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, Korchnoi variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Nf3 Be7 9. Be2 O-O 10. O-O f6",
+    "fen": "rn1q1rk1/ppp1b1pp/1n2pp2/4Pb2/2PP4/2N2N2/PP2B1PP/R1BQ1RK1 w - - 0 11"
+  },
+  "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 1 7": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, 6...Nc6",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6",
+    "fen": "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/8/PP4PP/RNBQKBNR w KQkq - 1 7"
+  },
+  "r2qkb1r/ppp1p1pp/1nn1p3/2P5/3P2b1/5N2/PP4PP/RNBQKB1R b KQkq - 0 9": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, Ilyin-Genevsky var.",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Nf3 Bg4 8. e6 fxe6 9. c5",
+    "fen": "r2qkb1r/ppp1p1pp/1nn1p3/2P5/3P2b1/5N2/PP4PP/RNBQKB1R b KQkq - 0 9"
+  },
+  "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR b KQkq - 2 7": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, 7.Be3",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3",
+    "fen": "r1bqkb1r/ppp1pppp/1nn5/4P3/2PP4/4B3/PP4PP/RN1QKBNR b KQkq - 2 7"
+  },
+  "2kr3r/pppqbppp/1nn1p3/4Pb2/2PP4/2N1BN2/PP2B1PP/R2Q1RK1 w - - 6 12": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, Tartakower variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3 e6 9. Nf3 Qd7 10. Be2 O-O-O 11. O-O Be7",
+    "fen": "2kr3r/pppqbppp/1nn1p3/4Pb2/2PP4/2N1BN2/PP2B1PP/R2Q1RK1 w - - 6 12"
+  },
+  "rnbqkb1r/ppp1pp1p/1n1p4/4P1p1/2PP1P2/8/PP4PP/RNBQKBNR w KQkq g6 0 6": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, Planinc variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g5",
+    "fen": "rnbqkb1r/ppp1pp1p/1n1p4/4P1p1/2PP1P2/8/PP4PP/RNBQKBNR w KQkq g6 0 6"
+  },
+  "rnbqkb1r/ppp1pp1p/1n1p2p1/4P3/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, fianchetto variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 g6",
+    "fen": "rnbqkb1r/ppp1pp1p/1n1p2p1/4P3/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 0 6"
+  },
+  "rn1qkb1r/ppp1pppp/1n1p4/4Pb2/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 1 6": {
+    "code": "B03",
+    "name": "Alekhine's defence, four pawns attack, Trifunovic variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 Bf5",
+    "fen": "rn1qkb1r/ppp1pppp/1n1p4/4Pb2/2PP1P2/8/PP4PP/RNBQKBNR w KQkq - 1 6"
+  },
+  "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4": {
+    "code": "B04",
+    "name": "Alekhine's defence, modern variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3",
+    "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4"
+  },
+  "rnbqkb1r/ppp1pppp/8/3np3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
+    "code": "B04",
+    "name": "Alekhine's defence, modern, Larsen variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5",
+    "fen": "rnbqkb1r/ppp1pppp/8/3np3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5"
+  },
+  "rnbqkb1r/ppp1pppp/1n1p4/4P3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
+    "code": "B04",
+    "name": "Alekhine's defence, modern, Schmid variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Nb6",
+    "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5"
+  },
+  "rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5": {
+    "code": "B04",
+    "name": "Alekhine's defence, modern, fianchetto variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6",
+    "fen": "rnbqkb1r/ppp1pp1p/3p2p1/3nP3/3P4/5N2/PPP2PPP/RNBQKB1R w KQkq - 0 5"
+  },
+  "rnbqk2r/ppp1ppbp/1n1p2p1/4P3/P2P4/1B3N2/1PP2PPP/RNBQK2R b KQkq a3 0 7": {
+    "code": "B04",
+    "name": "Alekhine's defence, modern, Keres variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. Bc4 Nb6 6. Bb3 Bg7 7. a4",
+    "fen": "rnbqk2r/ppp1ppbp/1n1p2p1/4P3/P2P4/1B3N2/1PP2PPP/RNBQK2R b KQkq a3 0 7"
+  },
+  "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5": {
+    "code": "B05",
+    "name": "Alekhine's defence, modern variation, 4...Bg4",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4",
+    "fen": "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N2/PPP2PPP/RNBQKB1R w KQkq - 2 5"
+  },
+  "rn1qkb1r/pp2pppp/2pp4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6": {
+    "code": "B05",
+    "name": "Alekhine's defence, modern, Flohr variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. Be2 c6",
+    "fen": "rn1qkb1r/pp2pppp/2pp4/3nP3/3P2b1/5N2/PPP1BPPP/RNBQK2R w KQkq - 0 6"
+  },
+  "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 5": {
+    "code": "B05",
+    "name": "Alekhine's defence, modern, Panov variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. h3",
+    "fen": "rn1qkb1r/ppp1pppp/3p4/3nP3/3P2b1/5N1P/PPP2PP1/RNBQKB1R b KQkq - 0 5"
+  },
+  "rn1qkb1r/ppp1pppp/3p4/3nP3/2PP2b1/5N2/PP3PPP/RNBQKB1R b KQkq c3 0 5": {
+    "code": "B05",
+    "name": "Alekhine's defence, modern, Alekhine variation",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4",
+    "fen": "rn1qkb1r/ppp1pppp/3p4/3nP3/2PP2b1/5N2/PP3PPP/RNBQKB1R b KQkq c3 0 5"
+  },
+  "rn1qkb1r/ppp1pppp/1n1p4/3PP3/2P3b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6": {
+    "code": "B05",
+    "name": "Alekhine's defence, modern, Vitolins attack",
+    "moves": "1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 Bg4 5. c4 Nb6 6. d5",
+    "fen": "rn1qkb1r/ppp1pppp/1n1p4/3PP3/2P3b1/5N2/PP3PPP/RNBQKB1R b KQkq - 0 6"
+  },
   "rnbqkbnr/pp1ppppp/8/2p5/4P3/8/PPPP1PPP/RNBQKBNR w KQkq c6 0 2": {
     "code": "B20",
     "name": "Sicilian defence",
