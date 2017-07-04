@@ -843,5 +843,220 @@ module.exports = [
         code: "B21",
         name: "Sicilian, Smith-Morra gambit, Chicago defence",
         moves: "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O a6 8. Qe2 b5 9. Bb3 Ra7"
+    },
+    {
+        code: "B22",
+        name: "Sicilian, Alapin's variation (2.c3)",
+        moves: "1. e4 c5 2. c3"
+    },
+    {
+        code: "B22",
+        name: "Sicilian, 2.c3, Heidenfeld variation",
+        moves: "1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Na3"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, closed",
+        moves: "1. e4 c5 2. Nc3"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, closed, Korchnoi variation",
+        moves: "1. e4 c5 2. Nc3 e6 3. g3 d5"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, closed, 2...Nc6",
+        moves: "1. e4 c5 2. Nc3 Nc6"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, chameleon variation",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. Nge2"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, Grand Prix attack",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. f4"
+    },
+    {
+        code: "B23",
+        name: "Sicilian, Grand Prix attack, Schofman variation",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. f4 g6 4. Nf3 Bg7 5. Bc4 e6 6. f5"
+    },
+    {
+        code: "B24",
+        name: "Sicilian, closed",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3"
+    },
+    {
+        code: "B24",
+        name: "Sicilian, closed, Smyslov variation",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e6 6. Be3 Nd4 7. Nce2"
+    },
+    {
+        code: "B25",
+        name: "Sicilian, closed",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6"
+    },
+    {
+        code: "B25",
+        name: "Sicilian, closed, 6.Ne2 e5 (Botvinnik)",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 e5"
+    },
+    {
+        code: "B25",
+        name: "Sicilian, closed, 6.f4",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4"
+    },
+    {
+        code: "B25",
+        name: "Sicilian, closed, 6.f4 e5 (Botvinnik)",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. f4 e5"
+    },
+    {
+        code: "B26",
+        name: "Sicilian, closed, 6.Be3",
+        moves: "1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Be3"
+    },
+    {
+        code: "B27",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3"
+    },
+    {
+        code: "B27",
+        name: "Sicilian, Stiletto (Althouse) variation",
+        moves: "1. e4 c5 2. Nf3 Qa5"
+    },
+    {
+        code: "B27",
+        name: "Sicilian, Quinteros variation",
+        moves: "1. e4 c5 2. Nf3 Qc7"
+    },
+    {
+        code: "B27",
+        name: "Sicilian, Katalimov variation",
+        moves: "1. e4 c5 2. Nf3 b6"
+    },
+    {
+        code: "B27",
+        name: "Sicilian, Hungarian variation",
+        moves: "1. e4 c5 2. Nf3 g6"
+    },
+    {
+        code: "B27",
+        name: "Sicilian, Acton extension",
+        moves: "1. e4 c5 2. Nf3 g6 3. c4 Bh6"
+    },
+    {
+        code: "B28",
+        name: "Sicilian, O'Kelly variation",
+        moves: "1. e4 c5 2. Nf3 a6"
+    },
+    {
+        code: "B29",
+        name: "Sicilian, Nimzovich-Rubinstein variation",
+        moves: "1. e4 c5 2. Nf3 Nf6"
+    },
+    {
+        code: "B29",
+        name: "Sicilian, Nimzovich-Rubinstein; Rubinstein counter-gambit",
+        moves: "1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6"
+    },
+    {
+        code: "B30",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 Nc6"
+    },
+    {
+        code: "B30",
+        name: "Sicilian, Nimzovich-Rossolimo attack (without ...d6)",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. Bb5"
+    },
+    {
+        code: "B31",
+        name: "Sicilian, Nimzovich-Rossolimo attack (with ...g6, without ...d6)",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6"
+    },
+    {
+        code: "B31",
+        name: "Sicilian, Nimzovich-Rossolimo attack, Gurgenidze variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. b4"
+    },
+    {
+        code: "B32",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4"
+    },
+    {
+        code: "B32",
+        name: "Sicilian, Flohr variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Qc7"
+    },
+    {
+        code: "B32",
+        name: "Sicilian, Nimzovich variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 d5"
+    },
+    {
+        code: "B32",
+        name: "Sicilian, Labourdonnais-Loewenthal variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5"
+    },
+    {
+        code: "B32",
+        name: "Sicilian, Labourdonnais-Loewenthal (Kalashnikov) variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6"
+    },
+    {
+        code: "B33",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6"
+    },
+    {
+        code: "B33",
+        name: "Sicilian, Pelikan (Lasker/Sveshnikov) variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5"
+    },
+    {
+        code: "B33",
+        name: "Sicilian, Pelikan, Bird variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 Be6"
+    },
+    {
+        code: "B33",
+        name: "Sicilian, Pelikan, Chelyabinsk variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5"
+    },
+    {
+        code: "B33",
+        name: "Sicilian, Sveshnikov variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8. Na3 b5 9. Bxf6 gxf6 10. Nd5 f5"
+    },
+    {
+        code: "B34",
+        name: "Sicilian, accelerated fianchetto, exchange variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6"
+    },
+    {
+        code: "B34",
+        name: "Sicilian, accelerated fianchetto, modern variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3"
+    },
+    {
+        code: "B35",
+        name: "Sicilian, accelerated fianchetto, modern variation with Bc4",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nc3 Bg7 6. Be3 Nf6 7. Bc4"
+    },
+    {
+        code: "B36",
+        name: "Sicilian, accelerated fianchetto, Maroczy bind",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4"
+    },
+    {
+        code: "B36",
+        name: "Sicilian, accelerated fianchetto, Gurgenidze variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 Nxd4 7. Qxd4 d6"
     }
 ];
