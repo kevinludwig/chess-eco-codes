@@ -778,5 +778,70 @@ module.exports = [
         code: "B20",
         name: "Sicilian defence",
         moves: "1. e4 c5"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, Gloria variation",
+        moves: "1. e4 c5 2. c4 d6 3. Nc3 Nc6 4. g3 h5"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, Steinitz variation",
+        moves: "1. e4 c5 2. g3"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, wing gambit",
+        moves: "1. e4 c5 2. b4"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, wing gambit, Santasiere variation",
+        moves: "1. e4 c5 2. b4 cxb4 3. c4"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, wing gambit, Marshall variation",
+        moves: "1. e4 c5 2. b4 cxb4 3. a3"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, wing gambit, Marienbad variation",
+        moves: "1. e4 c5 2. b4 cxb4 3. a3 d5 4. exd5 Qxd5 5. Bb2"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, wing gambit, Carlsbad variation",
+        moves: "1. e4 c5 2. b4 cxb4 3. a3 bxa3"
+    },
+    {
+        code: "B20",
+        name: "Sicilian, Keres variation (2.Ne2)",
+        moves: "1. e4 c5 2. Ne2"
+    },
+    {
+        code: "B21",
+        name: "Sicilian, Grand Prix attack",
+        moves: "1. e4 c5 2. f4"
+    },
+    {
+        code: "B21",
+        name: "Sicilian, Smith-Morra gambit",
+        moves: "1. e4 c5 2. d4"
+    },
+    {
+        code: "B21",
+        name: "Sicilian, Andreaschek gambit",
+        moves: "1. e4 c5 2. d4 cxd4 3. Nf3 e5 4. c3"
+    },
+    {
+        code: "B21",
+        name: "Sicilian, Smith-Morra gambit",
+        moves: "1. e4 c5 2. d4 cxd4 3. c3"
+    },
+    {
+        code: "B21",
+        name: "Sicilian, Smith-Morra gambit, Chicago defence",
+        moves: "1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 Nc6 5. Nf3 d6 6. Bc4 e6 7. O-O a6 8. Qe2 b5 9. Bb3 Ra7"
     }
 ];
