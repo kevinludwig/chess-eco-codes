@@ -1668,5 +1668,85 @@ module.exports = [
         code: "B90",
         name: "Sicilian, Najdorf, Byrne (English) attack",
         moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3"
+    },
+    {
+        code: "B91",
+        name: "Sicilian, Najdorf, Zagreb (fianchetto) variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3"
+    },
+    {
+        code: "B92",
+        name: "Sicilian, Najdorf, Opovcensky variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2"
+    },
+    {
+        code: "B93",
+        name: "Sicilian, Najdorf, 6.f4",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4"
+    },
+    {
+        code: "B94",
+        name: "Sicilian, Najdorf, 6.Bg5",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5"
+    },
+    {
+        code: "B94",
+        name: "Sicilian, Najdorf, Ivkov variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 Nbd7 7. Bc4 Qa5 8. Qd2 e6 9. O-O-O b5 10. Bb3 Bb7 11. Rhe1 Nc5 12. e5"
+    },
+    {
+        code: "B95",
+        name: "Sicilian, Najdorf, 6...e6",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6"
+    },
+    {
+        code: "B96",
+        name: "Sicilian, Najdorf, 7.f4",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4"
+    },
+    {
+        code: "B96",
+        name: "Sicilian, Najdorf, Polugayevsky variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5"
+    },
+    {
+        code: "B96",
+        name: "Sicilian, Najdorf, Polugayevsky, Simagin variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 b5 8. e5 dxe5 9. fxe5 Qc7 10. Qe2"
+    },
+    {
+        code: "B97",
+        name: "Sicilian, Najdorf, 7...Qb6",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6"
+    },
+    {
+        code: "B97",
+        name: "Sicilian, Najdorf, Poisoned pawn variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Qb6 8. Qd2 Qxb2 9. Rb1 Qa3"
+    },
+    {
+        code: "B98",
+        name: "Sicilian, Najdorf, 7...Be7",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7"
+    },
+    {
+        code: "B98",
+        name: "Sicilian, Najdorf, Browne variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 h6 9. Bh4 Qc7"
+    },
+    {
+        code: "B98",
+        name: "Sicilian, Najdorf, Goteborg (Argentine) variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 h6 9. Bh4 g5"
+    },
+    {
+        code: "B98",
+        name: "Sicilian, Najdorf variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7"
+    },
+    {
+        code: "B99",
+        name: "Sicilian, Najdorf, 7...Be7 main line",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7"
     }
 ];
