@@ -1153,5 +1153,255 @@ module.exports = [
         code: "B43",
         name: "Sicilian, Kan, 5.Nc3",
         moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3"
+    },
+    {
+        code: "B44",
+        name: "Sicilian defence",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6"
+    },
+    {
+        code: "B44",
+        name: "Sicilian, Szen (`anti-Taimanov') variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5"
+    },
+    {
+        code: "B44",
+        name: "Sicilian, Szen, hedgehog variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. Nb1-c3 a6 8. Na3 Be7 9. Be2 O-O 10. O-O b6"
+    },
+    {
+        code: "B44", 
+        name: "Sicilian, Szen variation, Dely-Kasparov gambit",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nb5 d6 6. c4 Nf6 7. Nb1-c3 a6 8. Na3 d5"
+    },
+    {
+        code: "B45",
+        name: "Sicilian, Taimanov variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3"
+    },
+    {
+        code: "B45",
+        name: "Sicilian, Taimanov, American attack",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Nf6 6. Ndb5 Bb4 7. Nd6+"
+    },
+    {
+        code: "B46",
+        name: "Sicilian, Taimanov variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6"
+    },
+    {
+        code: "B47",
+        name: "Sicilian, Taimanov (Bastrikov) variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7"
+    },
+    {
+        code: "B48",
+        name: "Sicilian, Taimanov variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3"
+    },
+    {
+        code: "B49",
+        name: "Sicilian, Taimanov variation",
+        moves: "1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 a6 7. Be2"
+    },
+    {
+        code: "B50",
+        name: "Sicilian",
+        moves: "1. e4 c5 2. Nf3 d6"
+    },
+    {
+        code: "B50",
+        name: "Sicilian, wing gambit deferred",
+        moves: "1. e4 c5 2. Nf3 d6 3. b4"
+    },
+    {   
+        code: "B51",
+        name: "Sicilian, Canal-Sokolsky (Nimzovich-Rossolimo, Moscow) attack",
+        moves: "1. e4 c5 2. Nf3 d6 3. Bb5+"
+    },
+    {
+        code: "B52",
+        name: "Sicilian, Canal-Sokolsky attack, 3...Bd7",
+        moves: "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7"
+    },
+    {
+        code: "B52",
+        name: "Sicilian, Canal-Sokolsky attack, Bronstein gambit",
+        moves: "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 Nf6 7. d4"
+    },
+    {
+        code: "B52",
+        name: "Sicilian, Canal-Sokolsky attack, Sokolsky variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4"
+    },
+    {
+        code: "B53",
+        name: "Sicilian, Chekhover variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4"
+    },
+    {
+        code: "B53",
+        name: "Sicilian, Chekhover, Zaitsev variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Bb5 Qd7"
+    },
+    {
+        code: "B54",
+        name: "Sicilian",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4"
+    },
+    {
+        code: "B54",
+        name: "Sicilian, Prins (Moscow) variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3"
+    },
+    {
+        code: "B55",
+        name: "Sicilian, Prins variation, Venice attack",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Bb5+"
+    },
+    {
+        code: "B56",
+        name: "Sicilian",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3"
+    },
+    {
+        code: "B56",
+        name: "Sicilian, Venice attack",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Bb5+"
+    },
+    {
+        code: "B56",
+        name: "Sicilian",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6"
+    },
+    {
+        code: "B57",
+        name: "Sicilian, Sozin, not Scheveningen",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4"
+    },
+    {
+        code: "B57",
+        name: "Sicilian, Magnus Smith trap",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 g6 7. Nxc6 bxc6 8. e5"
+    },
+    {
+        code: "B57",
+        name: "Sicilian, Sozin, Benko variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Qb6"
+    },
+    {
+        code: "B58",
+        name: "Sicilian, classical",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2"
+    },
+    {
+        code: "B58",
+        name: "Sicilian, Boleslavsky variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5"
+    },
+    {
+        code: "B58",
+        name: "Sicilian, Boleslavsky, Louma variation",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nxc6"
+    },
+    {
+        code: "B59",
+        name: "Sicilian, Boleslavsky variation, 7.Nb3",
+        moves: "1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 e5 7. Nb3"
+    },
+    {
+        code: "B60",
+        name: "Sicilian, Richter-Rauzer",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5"
+    },
+    {
+        code: "B60",
+        name: "Sicilian, Richter-Rauzer, Bondarevsky variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 g6"
+    },
+    {
+        code: "B60",
+        name: "Sicilian, Richter-Rauzer, Larsen variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7"
+    },
+    {
+        code: "B61",
+        name: "Sicilian, Richter-Rauzer, Larsen variation, 7.Qd2",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 Bd7 7. Qd2"
+    },
+    {
+        code: "B62",
+        name: "Sicilian, Richter-Rauzer, 6...e6",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6"
+    },
+    {
+        code: "B62",
+        name: "Sicilian, Richter-Rauzer, Podvebrady variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Nb3"
+    },
+    {
+        code: "B62",
+        name: "Sicilian, Richter-Rauzer, Margate (Alekhine) variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Bb5"
+    },
+    {
+        code: "B62",
+        name: "Sicilian, Richter-Rauzer, Richter attack",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Nxc6"
+    },
+    {
+        code: "B62",
+        name: "Sicilian, Richter-Rauzer, Keres variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd3"
+    },
+    {
+        code: "B63",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2"
+    },
+    {
+        code: "B63",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7"
+    },
+    {
+        code: "B64",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9.f4",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. f4"
+    },
+    {
+        code: "B64",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, Geller variation",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. f4 e5"
+    },
+    {
+        code: "B65",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. f4 Nxd4"
+    },
+    {
+        code: "B65",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...Be7 defence, 9...Nxd4",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 Be7 8. O-O-O O-O 9. f4 Nxd4 10. Qxd4"
+    },
+    {
+        code: "B66",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...a6",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6"
+    },
+    {
+        code: "B67",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence, 8...Bd7",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7"
+    },
+    {
+        code: "B68",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence, 9...Be7",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 Be7"
+    },
+    {
+        code: "B69",
+        name: "Sicilian, Richter-Rauzer, Rauzer attack, 7...a6 defence, 11.Bxf6",
+        moves: "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8. O-O-O Bd7 9. f4 Be7 10. Nf3 b5 11. Bxf6"
     }
 ];
