@@ -263,5 +263,10 @@ module.exports = [
         code: "E20",
         name: "Nimzo-Indian defence",
         moves: "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4"
+    },
+    {
+        code: "E62",
+        name: "King's Indian, fianchetto variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3"
     }
 ];
