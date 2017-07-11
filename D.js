@@ -270,8 +270,63 @@ module.exports = [
         moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Qb3 Bb4"
     },
     {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, 4.Nc3",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, Suechting variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 Qb6"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, Schlechter variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 g6"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav accepted",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, 5.e3 (Alekhine variation)",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, Slav gambit",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4"
+    },
+    {
+        code: "D15",
+        name: "Queen's Gambit Declined Slav, Tolush-Geller gambit",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5"
+    },
+    {
         code: "D20",
         name: "Queen's gambit accepted",
         moves: "1. d4 d5 2. c4 dxc4"
+    },
+    {
+        code: "D80",
+        name: "Gruenfeld defence",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5"
+    },
+    {
+        code: "D80",
+        name: "Gruenfeld, Spike gambit",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. g4"
+    },
+    {
+        code: "D80",
+        name: "Gruenfeld, Stockholm variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5"
+    },
+    {
+        code: "D80",
+        name: "Gruenfeld, Lundin variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 c5"
     }
 ];
