@@ -305,9 +305,279 @@ module.exports = [
         moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5"
     },
     {
+        code: "D16",
+        name: "Queen's Gambit Declined Slav accepted, Alapin variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4"
+    },
+    {
+        code: "D16",
+        name: "Queen's Gambit Declined Slav, Smyslov variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e4 Bg4"
+    },
+    {
+        code: "D16",
+        name: "Queen's Gambit Declined Slav, Soultanbeieff variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6"
+    },
+    {
+        code: "D16",
+        name: "Queen's Gambit Declined Slav, Steiner variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4"
+    },
+    {
+        code: "D17",
+        name: "D17 Queen's Gambit Declined Slav, Czech defence",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5"
+    },
+    {
+        code: "D17",
+        name: "D17 Queen's Gambit Declined Slav, Krause attack",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5"
+    },
+    {
+        code: "D17",
+        name: "D17 Queen's Gambit Declined Slav, Carlsbad variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8. g3 e5"
+    },
+    {
+        code: "D17",
+        name: "D17 Queen's Gambit Declined Slav, Wiesbaden variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6"
+    },
+    {
+        code: "D18",
+        name: "D18 Queen's Gambit Declined Slav, Dutch variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3"
+    },
+    {
+        code: "D18",
+        name: "D18 Queen's Gambit Declined Slav, Dutch, Lasker variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 Na6"
+    },
+    {
+        code: "D19",
+        name: "D19 Queen's Gambit Declined Slav, Dutch variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O"
+    },
+    {
+        code: "D19",
+        name: "D19 Queen's Gambit Declined Slav, Dutch variation, main line",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2"
+    },
+    {
+        code: "D19",
+        name: "D19 Queen's Gambit Declined Slav, Dutch, Saemisch variation",
+        moves: "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Ne4 10. g4"
+    },
+    {
         code: "D20",
         name: "Queen's gambit accepted",
         moves: "1. d4 d5 2. c4 dxc4"
+    },
+    {
+        code: "D20",
+        name: "D20 Queen's Gambit Accepted, 3.e4",
+        moves: "1. d4 d5 2. c4 dxc4 3. e4"
+    },
+    {
+        code: "D20",
+        name: "D20 Queen's Gambit Accepted, Linares variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 Nf6 5. Nc3 b5"
+    },
+    {
+        code: "D20",
+        name: "D20 Queen's Gambit Accepted, Schwartz defence",
+        moves: "1. d4 d5 2. c4 dxc4 3. e4 f5"
+    },
+    {
+        code: "D21",
+        name: "D21 Queen's Gambit Accepted, 3.Nf3",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3"
+    },
+    {
+        code: "D21",
+        name: "D21 Queen's Gambit Accepted, Ericson variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 b5"
+    },
+    {
+        code: "D21",
+        name: "D21 Queen's Gambit Accepted, Alekhine defense, Borisenko-Furman variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4"
+    },
+    {
+        code: "D22",
+        name: "D22 Queen's Gambit Accepted, Alekhine defence",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 a6"
+    },
+    {
+        code: "D22",
+        name: "D22 Queen's Gambit Accepted, Alekhine defence, Alatortsev variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. d5"
+    },
+    {
+        code: "D22",
+        name: "D22 Queen's Gambit Accepted, Haberditz variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5"
+    },
+    {
+        code: "D23",
+        name: "D23 Queen's gambit accepted",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6"
+    },
+    {
+        code: "D23",
+        name: "D23 Queen's Gambit Accepted, Mannheim variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+"
+    },
+    {
+        code: "D24",
+        name: "D24 Queen's Gambit Accepted, 4.Nc3",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3"
+    },
+    {
+        code: "D24",
+        name: "D24 Queen's Gambit Accepted, Bogolyubov variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4"
+    },
+    {
+        code: "D25",
+        name: "D25 Queen's Gambit Accepted, 4.e3",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3"
+    },
+    {
+        code: "D25",
+        name: "D25 Queen's Gambit Accepted, Smyslov variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6"
+    },
+    {
+        code: "D25",
+        name: "D25 Queen's Gambit Accepted, Janowsky-Larsen variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4"
+    },
+    {
+        code: "D25",
+        name: "D25 Queen's Gambit Accepted, Flohr variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Be6"
+    },
+    {
+        code: "D26",
+        name: "D26 Queen's Gambit Accepted, 4...e6",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6"
+    },
+    {
+        code: "D26",
+        name: "D26 Queen's Gambit Accepted, classical variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5"
+    },
+    {
+        code: "D26",
+        name: "D26 Queen's Gambit Accepted, classical, Furman variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qe2 a6 7. dxc5 Bxc5 8. O-O Nc6 9. e4 b5 10. e5"
+    },
+    {
+        code: "D26",
+        name: "D26 Queen's Gambit Accepted, classical variation, 6.O-O",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O"
+    },
+    {
+        code: "D26",
+        name: "D26 Queen's Gambit Accepted, classical, Steinitz variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O cxd4"
+    },
+    {
+        code: "D27",
+        name: "D27 Queen's Gambit Accepted, classical, 6...a6",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6"
+    },
+    {
+        code: "D27",
+        name: "D27 Queen's Gambit Accepted, classical, Rubinstein variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4"
+    },
+    {
+        code: "D27",
+        name: "D27 Queen's Gambit Accepted, classical, Geller variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. e4"
+    },
+    {
+        code: "D28",
+        name: "D28 Queen's Gambit Accepted, classical, 7.Qe2",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2"
+    },
+    {
+        code: "D28",
+        name: "D28 Queen's Gambit Accepted, classical, 7...b5",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5"
+    },
+    {
+        code: "D28",
+        name: "D28 Queen's Gambit Accepted, classical, Flohr variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Nc6 9. Rd1 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 Bb7 13. d5 Qc7"
+    },
+    {
+        code: "D29",
+        name: "D29 Queen's Gambit Accepted, classical, 8...Bb7",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7"
+    },
+    {
+        code: "D29",
+        name: "D29 Queen's Gambit Accepted, classical, Smyslov variation",
+        moves: "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. Nc3 Bd6"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's gambit declined",
+        moves: "1. d4 d5 2. c4 e6"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined Slav",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Stonewall variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Ne4 6. Bd3 f5"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined Slav",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Nbd7"
+    },
+    {  
+        code: "D30",
+        name: "D30 Queen's Gambit Declined Slav, Semmering variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Nbd7 6. Bd3 c5"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Spielmann variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 g6"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Capablanca variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nbd2"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Vienna variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Capablanca-Duras variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6"
+    },
+    {
+        code: "D30",
+        name: "D30 Queen's Gambit Declined, Hastings variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Qb3"
     },
     {
         code: "D80",

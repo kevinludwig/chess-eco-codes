@@ -4487,11 +4487,335 @@
     "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. e4 b5 6. e5",
     "fen": "rnbqkb1r/p3pppp/2p2n2/1p2P3/2pP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 0 6"
   },
+  "rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq a3 0 5": {
+    "code": "D16",
+    "name": "Queen's Gambit Declined Slav accepted, Alapin variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4",
+    "fen": "rnbqkb1r/pp2pppp/2p2n2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R b KQkq a3 0 5"
+  },
+  "r2qkb1r/pp2pppp/n1p2n2/8/P1pPP1b1/2N2N2/1P3PPP/R1BQKB1R w KQkq - 1 7": {
+    "code": "D16",
+    "name": "Queen's Gambit Declined Slav, Smyslov variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Na6 6. e4 Bg4",
+    "fen": "r2qkb1r/pp2pppp/n1p2n2/8/P1pPP1b1/2N2N2/1P3PPP/R1BQKB1R w KQkq - 1 7"
+  },
+  "rnbqkb1r/pp3ppp/2p1pn2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 0 6": {
+    "code": "D16",
+    "name": "Queen's Gambit Declined Slav, Soultanbeieff variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 e6",
+    "fen": "rnbqkb1r/pp3ppp/2p1pn2/8/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 0 6"
+  },
+  "rn1qkb1r/pp2pppp/2p2n2/8/P1pP2b1/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6": {
+    "code": "D16",
+    "name": "Queen's Gambit Declined Slav, Steiner variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bg4",
+    "fen": "rn1qkb1r/pp2pppp/2p2n2/8/P1pP2b1/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6"
+  },
+  "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6": {
+    "code": "D17",
+    "name": "D17 Queen's Gambit Declined Slav, Czech defence",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5",
+    "fen": "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N2N2/1P2PPPP/R1BQKB1R w KQkq - 1 6"
+  },
+  "rn1qkb1r/pp2pppp/2p2n2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R b KQkq - 2 6": {
+    "code": "D17",
+    "name": "D17 Queen's Gambit Declined Slav, Krause attack",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5",
+    "fen": "rn1qkb1r/pp2pppp/2p2n2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R b KQkq - 2 6"
+  },
+  "r3kb1r/ppqn1ppp/2p2n2/4pb2/P1NP4/2N3P1/1P2PP1P/R1BQKB1R w KQkq e6 0 9": {
+    "code": "D17",
+    "name": "D17 Queen's Gambit Declined Slav, Carlsbad variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 Nbd7 7. Nxc4 Qc7 8. g3 e5",
+    "fen": "r3kb1r/ppqn1ppp/2p2n2/4pb2/P1NP4/2N3P1/1P2PP1P/R1BQKB1R w KQkq e6 0 9"
+  },
+  "rn1qkb1r/pp3ppp/2p1pn2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R w KQkq - 0 7": {
+    "code": "D17",
+    "name": "D17 Queen's Gambit Declined Slav, Wiesbaden variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. Ne5 e6",
+    "fen": "rn1qkb1r/pp3ppp/2p1pn2/4Nb2/P1pP4/2N5/1P2PPPP/R1BQKB1R w KQkq - 0 7"
+  },
+  "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 6": {
+    "code": "D18",
+    "name": "D18 Queen's Gambit Declined Slav, Dutch variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3",
+    "fen": "rn1qkb1r/pp2pppp/2p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R b KQkq - 0 6"
+  },
+  "r2qkb1r/pp2pppp/n1p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R w KQkq - 1 7": {
+    "code": "D18",
+    "name": "D18 Queen's Gambit Declined Slav, Dutch, Lasker variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 Na6",
+    "fen": "r2qkb1r/pp2pppp/n1p2n2/5b2/P1pP4/2N1PN2/1P3PPP/R1BQKB1R w KQkq - 1 7"
+  },
+  "rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8": {
+    "code": "D19",
+    "name": "D19 Queen's Gambit Declined Slav, Dutch variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O",
+    "fen": "rn1qk2r/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P3PPP/R1BQ1RK1 b kq - 2 8"
+  },
+  "rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1 b - - 4 9": {
+    "code": "D19",
+    "name": "D19 Queen's Gambit Declined Slav, Dutch variation, main line",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2",
+    "fen": "rn1q1rk1/pp3ppp/2p1pn2/5b2/PbBP4/2N1PN2/1P2QPPP/R1B2RK1 b - - 4 9"
+  },
+  "rn1q1rk1/pp3ppp/2p1p3/5b2/PbBPn1P1/2N1PN2/1P2QP1P/R1B2RK1 b - g3 0 10": {
+    "code": "D19",
+    "name": "D19 Queen's Gambit Declined Slav, Dutch, Saemisch variation",
+    "moves": "1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O O-O 9. Qe2 Ne4 10. g4",
+    "fen": "rn1q1rk1/pp3ppp/2p1p3/5b2/PbBPn1P1/2N1PN2/1P2QP1P/R1B2RK1 b - g3 0 10"
+  },
   "rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
     "code": "D20",
     "name": "Queen's gambit accepted",
     "moves": "1. d4 d5 2. c4 dxc4",
     "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3": {
+    "code": "D20",
+    "name": "D20 Queen's Gambit Accepted, 3.e4",
+    "moves": "1. d4 d5 2. c4 dxc4 3. e4",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/2pPP3/8/PP3PPP/RNBQKBNR b KQkq e3 0 3"
+  },
+  "rnbqkb1r/p3pppp/5n2/1ppP4/2p1P3/2N5/PP3PPP/R1BQKBNR w KQkq b6 0 6": {
+    "code": "D20",
+    "name": "D20 Queen's Gambit Accepted, Linares variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 Nf6 5. Nc3 b5",
+    "fen": "rnbqkb1r/p3pppp/5n2/1ppP4/2p1P3/2N5/PP3PPP/R1BQKBNR w KQkq b6 0 6"
+  },
+  "rnbqkbnr/ppp1p1pp/8/5p2/2pPP3/8/PP3PPP/RNBQKBNR w KQkq f6 0 4": {
+    "code": "D20",
+    "name": "D20 Queen's Gambit Accepted, Schwartz defence",
+    "moves": "1. d4 d5 2. c4 dxc4 3. e4 f5",
+    "fen": "rnbqkbnr/ppp1p1pp/8/5p2/2pPP3/8/PP3PPP/RNBQKBNR w KQkq f6 0 4"
+  },
+  "rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3": {
+    "code": "D21",
+    "name": "D21 Queen's Gambit Accepted, 3.Nf3",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3",
+    "fen": "rnbqkbnr/ppp1pppp/8/8/2pP4/5N2/PP2PPPP/RNBQKB1R b KQkq - 1 3"
+  },
+  "rnbqkbnr/p1p1pppp/8/1p6/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq b6 0 4": {
+    "code": "D21",
+    "name": "D21 Queen's Gambit Accepted, Ericson variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 b5",
+    "fen": "rnbqkbnr/p1p1pppp/8/1p6/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq b6 0 4"
+  },
+  "rnbqkbnr/1pp1pppp/p7/8/2pPP3/5N2/PP3PPP/RNBQKB1R b KQkq e3 0 4": {
+    "code": "D21",
+    "name": "D21 Queen's Gambit Accepted, Alekhine defense, Borisenko-Furman variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e4",
+    "fen": "rnbqkbnr/1pp1pppp/p7/8/2pPP3/5N2/PP3PPP/RNBQKB1R b KQkq e3 0 4"
+  },
+  "rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4": {
+    "code": "D22",
+    "name": "D22 Queen's Gambit Accepted, Alekhine defence",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 a6",
+    "fen": "rnbqkbnr/1pp1pppp/p7/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 0 4"
+  },
+  "rn1qkbnr/1pp2ppp/p3p3/3P4/2B3b1/4PN2/PP3PPP/RNBQK2R b KQkq - 0 6": {
+    "code": "D22",
+    "name": "D22 Queen's Gambit Accepted, Alekhine defence, Alatortsev variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 Bg4 5. Bxc4 e6 6. d5",
+    "fen": "rn1qkbnr/1pp2ppp/p3p3/3P4/2B3b1/4PN2/PP3PPP/RNBQK2R b KQkq - 0 6"
+  },
+  "rnbqkbnr/2p1pppp/p7/1p6/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq b6 0 5": {
+    "code": "D22",
+    "name": "D22 Queen's Gambit Accepted, Haberditz variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. e3 b5",
+    "fen": "rnbqkbnr/2p1pppp/p7/1p6/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq b6 0 5"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4": {
+    "code": "D23",
+    "name": "D23 Queen's gambit accepted",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/5N2/PP2PPPP/RNBQKB1R w KQkq - 2 4"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R b KQkq - 3 4": {
+    "code": "D23",
+    "name": "D23 Queen's Gambit Accepted, Mannheim variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Qa4+",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/Q1pP4/5N2/PP2PPPP/RNB1KB1R b KQkq - 3 4"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4": {
+    "code": "D24",
+    "name": "D24 Queen's Gambit Accepted, 4.Nc3",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/2N2N2/PP2PPPP/R1BQKB1R b KQkq - 3 4"
+  },
+  "rnbqkb1r/1pp1pppp/p4n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq e3 0 5": {
+    "code": "D24",
+    "name": "D24 Queen's Gambit Accepted, Bogolyubov variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. Nc3 a6 5. e4",
+    "fen": "rnbqkb1r/1pp1pppp/p4n2/8/2pPP3/2N2N2/PP3PPP/R1BQKB1R b KQkq e3 0 5"
+  },
+  "rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4": {
+    "code": "D25",
+    "name": "D25 Queen's Gambit Accepted, 4.e3",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3",
+    "fen": "rnbqkb1r/ppp1pppp/5n2/8/2pP4/4PN2/PP3PPP/RNBQKB1R b KQkq - 0 4"
+  },
+  "rnbqkb1r/ppp1pp1p/5np1/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5": {
+    "code": "D25",
+    "name": "D25 Queen's Gambit Accepted, Smyslov variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 g6",
+    "fen": "rnbqkb1r/ppp1pp1p/5np1/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5"
+  },
+  "rn1qkb1r/ppp1pppp/5n2/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5": {
+    "code": "D25",
+    "name": "D25 Queen's Gambit Accepted, Janowsky-Larsen variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Bg4",
+    "fen": "rn1qkb1r/ppp1pppp/5n2/8/2pP2b1/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5"
+  },
+  "rn1qkb1r/ppp1pppp/4bn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5": {
+    "code": "D25",
+    "name": "D25 Queen's Gambit Accepted, Flohr variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 Be6",
+    "fen": "rn1qkb1r/ppp1pppp/4bn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 1 5"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5": {
+    "code": "D26",
+    "name": "D26 Queen's Gambit Accepted, 4...e6",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/8/2pP4/4PN2/PP3PPP/RNBQKB1R w KQkq - 0 5"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R w KQkq c6 0 6": {
+    "code": "D26",
+    "name": "D26 Queen's Gambit Accepted, classical variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5",
+    "fen": "rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQK2R w KQkq c6 0 6"
+  },
+  "r1bqk2r/5ppp/p1n1pn2/1pb1P3/2B5/5N2/PP2QPPP/RNB2RK1 b kq - 0 10": {
+    "code": "D26",
+    "name": "D26 Queen's Gambit Accepted, classical, Furman variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. Qe2 a6 7. dxc5 Bxc5 8. O-O Nc6 9. e4 b5 10. e5",
+    "fen": "r1bqk2r/5ppp/p1n1pn2/1pb1P3/2B5/5N2/PP2QPPP/RNB2RK1 b kq - 0 10"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 b kq - 1 6": {
+    "code": "D26",
+    "name": "D26 Queen's Gambit Accepted, classical variation, 6.O-O",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O",
+    "fen": "rnbqkb1r/pp3ppp/4pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 b kq - 1 6"
+  },
+  "rnbqkb1r/pp3ppp/4pn2/8/2Bp4/4PN2/PP3PPP/RNBQ1RK1 w kq - 0 7": {
+    "code": "D26",
+    "name": "D26 Queen's Gambit Accepted, classical, Steinitz variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O cxd4",
+    "fen": "rnbqkb1r/pp3ppp/4pn2/8/2Bp4/4PN2/PP3PPP/RNBQ1RK1 w kq - 0 7"
+  },
+  "rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 w kq - 0 7": {
+    "code": "D27",
+    "name": "D27 Queen's Gambit Accepted, classical, 6...a6",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6",
+    "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP3PPP/RNBQ1RK1 w kq - 0 7"
+  },
+  "rnbqkb1r/1p3ppp/p3pn2/2p5/P1BP4/4PN2/1P3PPP/RNBQ1RK1 b kq a3 0 7": {
+    "code": "D27",
+    "name": "D27 Queen's Gambit Accepted, classical, Rubinstein variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4",
+    "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/P1BP4/4PN2/1P3PPP/RNBQ1RK1 b kq a3 0 7"
+  },
+  "rnbqkb1r/1p3ppp/p3pn2/2p5/2BPP3/5N2/PP3PPP/RNBQ1RK1 b kq - 0 7": {
+    "code": "D27",
+    "name": "D27 Queen's Gambit Accepted, classical, Geller variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. e4",
+    "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/2BPP3/5N2/PP3PPP/RNBQ1RK1 b kq - 0 7"
+  },
+  "rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1 b kq - 1 7": {
+    "code": "D28",
+    "name": "D28 Queen's Gambit Accepted, classical, 7.Qe2",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2",
+    "fen": "rnbqkb1r/1p3ppp/p3pn2/2p5/2BP4/4PN2/PP2QPPP/RNB2RK1 b kq - 1 7"
+  },
+  "rnbqkb1r/5ppp/p3pn2/1pp5/2BP4/4PN2/PP2QPPP/RNB2RK1 w kq b6 0 8": {
+    "code": "D28",
+    "name": "D28 Queen's Gambit Accepted, classical, 7...b5",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5",
+    "fen": "rnbqkb1r/5ppp/p3pn2/1pp5/2BP4/4PN2/PP2QPPP/RNB2RK1 w kq b6 0 8"
+  },
+  "r3kb1r/1bq2ppp/p3pn2/1p1P4/2p5/2N1PN2/PPQ2PPP/R1BR2K1 w kq - 1 14": {
+    "code": "D28",
+    "name": "D28 Queen's Gambit Accepted, classical, Flohr variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Nc6 9. Rd1 c4 10. Bc2 Nb4 11. Nc3 Nxc2 12. Qxc2 Bb7 13. d5 Qc7",
+    "fen": "r3kb1r/1bq2ppp/p3pn2/1p1P4/2p5/2N1PN2/PPQ2PPP/R1BR2K1 w kq - 1 14"
+  },
+  "rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1 w kq - 2 9": {
+    "code": "D29",
+    "name": "D29 Queen's Gambit Accepted, classical, 8...Bb7",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7",
+    "fen": "rn1qkb1r/1b3ppp/p3pn2/1pp5/3P4/1B2PN2/PP2QPPP/RNB2RK1 w kq - 2 9"
+  },
+  "r2qk2r/1b1n1ppp/p2bpn2/1pp5/3P4/1BN1PN2/PP2QPPP/R1BR2K1 w kq - 6 11": {
+    "code": "D29",
+    "name": "D29 Queen's Gambit Accepted, classical, Smyslov variation",
+    "moves": "1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. Qe2 b5 8. Bb3 Bb7 9. Rd1 Nbd7 10. Nc3 Bd6",
+    "fen": "r2qk2r/1b1n1ppp/p2bpn2/1pp5/3P4/1BN1PN2/PP2QPPP/R1BR2K1 w kq - 6 11"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3": {
+    "code": "D30",
+    "name": "D30 Queen's gambit declined",
+    "moves": "1. d4 d5 2. c4 e6",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R b KQkq - 1 5": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined Slav",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2",
+    "fen": "rnbqkb1r/pp3ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R b KQkq - 1 5"
+  },
+  "rnbqkb1r/pp4pp/2p1p3/3p1p2/2PPn3/3BPN2/PP1N1PPP/R1BQK2R w KQkq f6 0 7": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Stonewall variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Ne4 6. Bd3 f5",
+    "fen": "rnbqkb1r/pp4pp/2p1p3/3p1p2/2PPn3/3BPN2/PP1N1PPP/R1BQK2R w KQkq f6 0 7"
+  },
+  "r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R w KQkq - 2 6": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined Slav",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Nbd7",
+    "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R w KQkq - 2 6"
+  },
+  "r1bqkb1r/pp1n1ppp/4pn2/2pp4/2PP4/3BPN2/PP1N1PPP/R1BQK2R w KQkq - 0 7": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined Slav, Semmering variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 Nbd7 6. Bd3 c5",
+    "fen": "r1bqkb1r/pp1n1ppp/4pn2/2pp4/2PP4/3BPN2/PP1N1PPP/R1BQK2R w KQkq - 0 7"
+  },
+  "rnbqkb1r/pp3p1p/2p1pnp1/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R w KQkq - 0 6": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Spielmann variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. e3 c6 5. Nbd2 g6",
+    "fen": "rnbqkb1r/pp3p1p/2p1pnp1/3p4/2PP4/4PN2/PP1N1PPP/R1BQKB1R w KQkq - 0 6"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 3 4": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R b KQkq - 3 4"
+  },
+  "r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/4PN2/PP1N1PPP/R2QKB1R b KQkq - 1 6": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Capablanca variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Nbd7 5. e3 c6 6. Nbd2",
+    "fen": "r1bqkb1r/pp1n1ppp/2p1pn2/3p2B1/2PP4/4PN2/PP1N1PPP/R2QKB1R b KQkq - 1 6"
+  },
+  "rnbqk2r/ppp2ppp/4pn2/3p2B1/1bPP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 4 5": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Vienna variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+",
+    "fen": "rnbqk2r/ppp2ppp/4pn2/3p2B1/1bPP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 4 5"
+  },
+  "rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 5": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Capablanca-Duras variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6",
+    "fen": "rnbqkb1r/ppp2pp1/4pn1p/3p2B1/2PP4/5N2/PP2PPPP/RN1QKB1R w KQkq - 0 5"
+  },
+  "rnb1kb1r/pp3pp1/2p1pq1p/3p4/2PP4/1QN2N2/PP2PPPP/R3KB1R b KQkq - 1 7": {
+    "code": "D30",
+    "name": "D30 Queen's Gambit Declined, Hastings variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Qb3",
+    "fen": "rnb1kb1r/pp3pp1/2p1pq1p/3p4/2PP4/1QN2N2/PP2PPPP/R3KB1R b KQkq - 1 7"
   },
   "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq d6 0 4": {
     "code": "D80",
