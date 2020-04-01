@@ -598,5 +598,225 @@ module.exports = [
         code: "D80",
         name: "Gruenfeld, Lundin variation",
         moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Nxe4 dxe4 6. Qd2 c5"
+    },
+    {
+        code: "D81",
+        name: "D81 Gruenfeld, Russian variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Qb3"
+    },
+    {
+        code: "D82",
+        name: "D82 Gruenfeld, 4.Bf4",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4"
+    },
+    {
+        code: "D83",
+        name: "D83 Gruenfeld, Gruenfeld gambit",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O"
+    },
+    {
+        code: "D83",
+        name: "D83 Gruenfeld, Gruenfeld gambit, Capablanca variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1"
+    },
+    {  
+        code: "D83",
+        name: "D83 Gruenfeld, Gruenfeld gambit, Botvinnik variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Be6"
+    },
+    {
+        code: "D84",
+        name: "D84 Gruenfeld, Gruenfeld gambit accepted",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. cxd5 Nxd5 7. Nxd5 Qxd5 8. Bxc7"
+    },
+    {
+        code: "D85", 
+        name: "D85 Gruenfeld, exchange variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5"
+    },
+    {
+        code: "D85",
+        name: "D85 Gruenfeld, modern exchange variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3"
+    },
+    {
+        code: "D86",
+        name: "D86 Gruenfeld, exchange, classical variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4"
+    },
+    {
+        code: "D86",
+        name: "D86 Gruenfeld, exchange, Larsen variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 Qd7 9. O-O b6"
+    },
+    {
+        code: "D86",
+        name: "D86 Gruenfeld, exchange, Simagin's lesser variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 b6"
+    },
+    {
+        code: "D86",
+        name: "D86 Gruenfeld, exchange, Simagin's improved variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 Nc6"
+    },
+    {
+        code: "D87",
+        name: "D87 Gruenfeld, exchange, Spassky variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5"
+    },
+    {
+        code: "D87",
+        name: "D87 Gruenfeld, exchange, Seville variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Na5 12. Bxf7+"
+    },
+    {
+        code: "D88",
+        name: "D88 Gruenfeld, Spassky variation, main line, 10...cd, 11.cd",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4"
+    },
+    {
+        code: "D89",
+        name: "D89 Gruenfeld, Spassky variation, main line, 13.Bd3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bd3 Be6"
+    },
+    {
+        code: "D89",
+        name: "D89 Gruenfeld, exchange, Sokolsky variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8. Ne2 c5 9. O-O Nc6 10. Be3 cxd4 11. cxd4 Bg4 12. f3 Na5 13. Bd3 Be6 14. d5"
+    },
+    {
+        code: "D90",
+        name: "D90 Gruenfeld, Three knights variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3"
+    },
+    {
+        code: "D90",
+        name: "D90 Gruenfeld, Schlechter variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 c6"
+    },
+    {
+        code: "D90",
+        name: "D90 Gruenfeld, Three knights variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7"
+    },
+    {
+        code: "D90",
+        name: "D90 Gruenfeld, Flohr variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qa4+"
+    },
+    {
+        code: "D91",
+        name: "D91 Gruenfeld, 5.Bg5",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5"
+    },
+    {
+        code: "D92",
+        name: "D92 Gruenfeld, 5.Bf4",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4"
+    },
+    {
+        code: "D93",
+        name: "D93 Gruenfeld with Bf4 e3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld, 5.e3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld, Makogonov variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. b4"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld, Opovcensky variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd2"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld with e3 Bd3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld, Smyslov defence",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c6 7. O-O Bg4"
+    },
+    {
+        code: "D94",
+        name: "D94 Gruenfeld, Flohr defence",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Bd3 c6 7. O-O Bf5"
+    },
+    {
+        code: "D95",
+        name: "D95 Gruenfeld with e3 & Qb3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3"
+    },
+    {
+        code: "D95",
+        name: "D95 Gruenfeld, Botvinnik variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 e6"
+    },
+    {
+        code: "D95",
+        name: "D95 Gruenfeld, Pachman variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. e3 O-O 6. Qb3 dxc4 7. Bxc4 Nbd7 8. Ng5"
+    },
+    {
+        code: "D96",
+        name: "D96 Gruenfeld, Russian variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian variation with e4",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian, Alekhine (Hungarian) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 a6"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian, Szabo (Boleslavsky) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 c6"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian, Levenfish variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 b6"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian, Byrne (Simagin) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Nc6"
+    },
+    {
+        code: "D97",
+        name: "D97 Gruenfeld, Russian, Prins variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Na6"
+    },
+    {
+        code: "D98",
+        name: "D98 Gruenfeld, Russian, Smyslov variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4"
+    },
+    {
+        code: "D98",
+        name: "D98 Gruenfeld, Russian, Keres variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3 Nfd7 9. Be2 Nb6 10. Qd3 Nc6 11. O-O-O"
+    },
+    {
+        code: "D99",
+        name: "D99 Gruenfeld defence, Smyslov, main line",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3 Nfd7 9. Qb3"
+    },
+    {
+        code: "D99",
+        name: "D99 Gruenfeld defence, Smyslov, Yugoslav variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 dxc4 6. Qxc4 O-O 7. e4 Bg4 8. Be3 Nfd7 9. Qb3 c5"
     }
 ];
