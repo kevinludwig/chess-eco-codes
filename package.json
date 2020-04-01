@@ -20,8 +20,8 @@
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
-    "chai": "^4.0.2",
-    "chess.js": "^0.10.2",
-    "mocha": "^3.4.2"
+    "chai": "^4.2.0",
+    "chess.js": "^0.10.3",
+    "mocha": "^7.1.1"
   }
 }
