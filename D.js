@@ -580,6 +580,66 @@ module.exports = [
         moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Qb3"
     },
     {
+        code: "D70",
+        name: "D70 Neo-Gruenfeld defence",
+        moves: "1. d4 Nf6 2. c4 g6 3. f3 d5"
+    },
+    {
+        code: "D70",
+        name: "D70 Neo-Gruenfeld (Kemeri) defence",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5"
+    },
+    {
+        code: "D71",
+        name: "D71 Neo-Gruenfeld, 5.cd",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. cxd5 Nxd5"
+    },
+    {  
+        code: "D72",
+        name: "D72 Neo-Gruenfeld, 5.cd, main line",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2"
+    },
+    {
+        code: "D73",
+        name: "D73 Neo-Gruenfeld, 5.Nf3",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3"
+    },
+    {
+        code: "D74",
+        name: "D74 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. cxd5 Nxd5 7. O-O"
+    },
+    {
+        code: "D75",
+        name: "D75 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.Nc3",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. cxd5 Nxd5 7. O-O c5 8. Nc3"
+    },
+    {
+        code: "D75",
+        name: "D75 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O c5, 8.dc",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. cxd5 Nxd5 7. O-O c5 8. dxc5"
+    },
+    {
+        code: "D76",
+        name: "D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. cxd5 Nxd5 7. O-O Nb6"
+    },
+    {
+        code: "D77",
+        name: "D77 Neo-Gruenfeld 6. O-O",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. O-O"
+    },
+    {
+        code: "D78",
+        name: "D78 Neo-Gruenfeld, 6.O-O c6",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. O-O c6"
+    },
+    {
+        code: "D79",
+        name: "D79 Neo-Gruenfeld, 6.O-O, main line",
+        moves: "1. d4 Nf6 2. c4 g6 3. g3 d5 4. Bg2 Bg7 5. Nf3 O-O 6. O-O c6 7. cxd5 cxd5"
+    },
+    {
         code: "D80",
         name: "Gruenfeld defence",
         moves: "1. d4 Nf6 2. c4 g6 3. Nc3 d5"
