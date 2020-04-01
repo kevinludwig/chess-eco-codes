@@ -187,7 +187,7 @@ module.exports = [
     {
         code: "B02",
         name: "Alekhine's defence",
-        moves: "1 e4 Nf6"
+        moves: "1. e4 Nf6"
     },
     {
         code: "B02",
