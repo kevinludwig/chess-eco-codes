@@ -755,6 +755,116 @@ module.exports = [
         moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2"
     },
     {
+        code: "D37",
+        name: "D37 Queen's Gambit Declined, 4.Nf3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3"
+    },
+    {
+        code: "D37",
+        name: "D37 Queen's Gambit Declined, classical variation (5.Bf4)",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4"
+    },
+    {
+        code: "D38",
+        name: "D38 Queen's Gambit Declined, Ragozin variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4"
+    },
+    {
+        code: "D39",
+        name: "D39 Queen's Gambit Declined, Ragozin, Vienna variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Bb4 5. Bg5 dxc4"
+    },
+    {
+        code: "D40",
+        name: "D40 Queen's Gambit Declined, Semi-Tarrasch defence",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5"
+    },
+    {
+        code: "D40",
+        name: "D40 Queen's Gambit Declined, Semi-Tarrasch, symmetrical variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. e3 Nc6 6. Bd3 Bd6 7. O-O O-O"
+    },
+    {
+        code: "D40",
+        name: "D40 Queen's Gambit Declined, Semi-Tarrasch, Levenfish variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. e3 Nc6 6. Bd3 Bd6 7. O-O O-O 8. Qe2 Qe7 9. dxc5 Bxc5 10. e4"
+    },
+    {
+        code: "D40",
+        name: "D40 Queen's Gambit Declined, Semi-Tarrasch defence, Pillsbury variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. Bg5"
+    },
+    {
+        code: "D41",
+        name: "D41 Queen's Gambit Declined, Semi-Tarrasch, 5.cd",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5"
+    },
+    {
+        code: "D41",
+        name: "D41 Queen's Gambit Declined, Semi-Tarrasch, Kmoch variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bb5"
+    },
+    {
+        code: "D41",
+        name: "D41 Queen's Gambit Declined, Semi-Tarrasch, San Sebastian variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8. cxd4 Bb4+ 9. Bd2 Qa5"
+    },
+    {
+        code: "D41",
+        name: "D41 Queen's Gambit Declined, Semi-Tarrasch with e3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e3"
+    },
+    {
+        code: "D42",
+        name: "D42 Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c5 5. cxd5 Nxd5 6. e3 Nc6 7. Bd3"
+    },
+    {
+        code: "D43",
+        name: "D43 Queen's Gambit Declined semi-Slav",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6"
+    },
+    {
+        code: "D43",
+        name: "D43 Queen's Gambit Declined semi-Slav, Hastings variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, 5.Bg5 dc",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, Botvinnik system (anti-Meran)",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, Ekstrom variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. exf6 gxh4 10. Ne5"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, anti-Meran gambit",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, anti-Meran, Lilienthal variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, anti-Meran, Szabo variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 hxg5 10. Bxg5 Nbd7 11. Qf3"
+    },
+    {
+        code: "D44",
+        name: "D44 Queen's Gambit Declined semi-Slav, anti-Meran, Alatortsev system",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 Nd5"
+    },
+    {
         code: "D70",
         name: "D70 Neo-Gruenfeld defence",
         moves: "1. d4 Nf6 2. c4 g6 3. f3 d5"
