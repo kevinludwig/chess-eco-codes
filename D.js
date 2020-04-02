@@ -715,6 +715,46 @@ module.exports = [
         moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5 Be6 10. Rc1 b6"
     },
     {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, 3...Nf6",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, Harrwitz attack",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, exchange variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, exchange, Saemisch variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Nf3 Nbd7 6. Bf4"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, exchange, positional line",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, exchange, chameleon variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O-O"
+    },
+    {
+        code: "D35",
+        name: "D35 Queen's Gambit Declined, exchange, positional line, 5...c6",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6"
+    },
+    {
+        code: "D36",
+        name: "D36 Queen's Gambit Declined, exchange, positional line, 6.Qc2",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2"
+    },
+    {
         code: "D70",
         name: "D70 Neo-Gruenfeld defence",
         moves: "1. d4 Nf6 2. c4 g6 3. f3 d5"

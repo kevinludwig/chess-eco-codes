@@ -4979,6 +4979,54 @@
     "moves": "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5 Be6 10. Rc1 b6",
     "fen": "r2q1rk1/p3bppp/1pn1bn2/2pp2B1/3P4/2N2NP1/PP2PPBP/2RQ1RK1 w - - 0 11"
   },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, 3...Nf6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP4/2N5/PP2PPPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, Harrwitz attack",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/2PP1B2/2N5/PP2PPPP/R2QKBNR b KQkq - 3 4"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, exchange variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3P4/3P4/2N5/PP2PPPP/R1BQKBNR b KQkq - 0 4"
+  },
+  "r1bqkb1r/pppn1ppp/5n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 6": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, exchange, Saemisch variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Nf3 Nbd7 6. Bf4",
+    "fen": "r1bqkb1r/pppn1ppp/5n2/3p4/3P1B2/2N2N2/PP2PPPP/R2QKB1R b KQkq - 3 6"
+  },
+  "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 5": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, exchange, positional line",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5",
+    "fen": "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR b KQkq - 1 5"
+  },
+  "r1bqrnk1/ppp1bppp/5n2/3p2B1/3P4/2NBP3/PPQ1NPPP/2KR3R b - - 8 10": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, exchange, chameleon variation",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 Nbd7 8. Qc2 Re8 9. Nge2 Nf8 10. O-O-O",
+    "fen": "r1bqrnk1/ppp1bppp/5n2/3p2B1/3P4/2NBP3/PPQ1NPPP/2KR3R b - - 8 10"
+  },
+  "rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6": {
+    "code": "D35",
+    "name": "D35 Queen's Gambit Declined, exchange, positional line, 5...c6",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6",
+    "fen": "rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PP2PPPP/R2QKBNR w KQkq - 0 6"
+  },
+  "rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR b KQkq - 1 6": {
+    "code": "D36",
+    "name": "D36 Queen's Gambit Declined, exchange, positional line, 6.Qc2",
+    "moves": "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. Qc2",
+    "fen": "rnbqkb1r/pp3ppp/2p2n2/3p2B1/3P4/2N5/PPQ1PPPP/R3KBNR b KQkq - 1 6"
+  },
   "rnbqkb1r/ppp1pp1p/5np1/3p4/2PP4/5P2/PP2P1PP/RNBQKBNR w KQkq d6 0 4": {
     "code": "D70",
     "name": "D70 Neo-Gruenfeld defence",
