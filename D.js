@@ -989,6 +989,7 @@ module.exports = [
         name: "D49 Queen's Gambit Declined semi-Slav, Meran, Rellstab attack",
         moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O Qd5 14. Qe2 Ba6 15. Bg5"
     },
+    /* missing D50-D69, QGD */
     {
         code: "D70",
         name: "D70 Neo-Gruenfeld defence",

@@ -264,9 +264,146 @@ module.exports = [
         name: "Nimzo-Indian defence",
         moves: "1. d4 Nf6 2. c4 e6 3. Nc3 Bb4"
     },
+    /* Missing E20-E61 */
     {
         code: "E62",
         name: "King's Indian, fianchetto variation",
         moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto, Larsen system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Bf5"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto, Kavalek (Bronstein) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c6 7. O-O Qa5"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto with ...Nc6",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto, Uhlmann (Szabo) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O e5"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto, lesser Simagin (Spassky) variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O Bf5"
+    },
+    {
+        code: "E62",
+        name: "E62 King's Indian, fianchetto, Simagin variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O Bg4"
+    },
+    {
+        code: "E63",
+        name: "E63 King's Indian, fianchetto, Panno variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nc6 7. O-O a6"
+    },
+    {
+        code: "E64",
+        name: "E64 King's Indian, fianchetto, Yugoslav system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5"
+    },
+    {
+        code: "E65",
+        name: "E65 King's Indian, fianchetto, Yugoslav, 7.O-O",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 7. O-O"
+    },
+    {
+        code: "E66",
+        name: "E66 King's Indian, fianchetto, Yugoslav Panno",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 c5 7. O-O Nc6 8. d5"
+    },
+    {
+        code: "E67",
+        name: "E67 King's Indian, fianchetto with ...Nd7",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7"
+    },
+    {
+        code: "E67",
+        name: "E67 King's Indian, fianchetto, classical variation",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5"
+    },
+    {
+        code: "E68",
+        name: "E68 King's Indian, fianchetto, classical variation, 8.e4",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8. e4"
+    },
+    {
+        code: "E69",
+        name: "E69 King's Indian, fianchetto, classical main line",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d6 5. g3 O-O 6. Bg2 Nbd7 7. O-O e5 8. e4 c6 9. h3"
+    },
+    {
+        code: "E70",
+        name: "E70 King's Indian, 4.e4",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4"
+    },
+    {
+        code: "E70",
+        name: "E70 King's Indian, Kramer system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2"
+    },
+    {
+        code: "E70",
+        name: "E70 King's Indian, accelerated Averbakh system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Bg5"
+    },
+    {
+        code: "E71",
+        name: "E71 King's Indian, Makagonov system (5.h3)",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3"
+    },
+    {
+        code: "E72",
+        name: "E72 King's Indian with e4 & g3",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3"
+    },
+    {
+        code: "E72",
+        name: "E72 King's Indian, Pomar system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. g3 O-O 6. Bg2 e5 7. Nge2"
+    },
+    {
+        code: "E73",
+        name: "E73 King's Indian, 5.Be2",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2"
+    },
+    {
+        code: "E73",
+        name: "E73 King's Indian, Semi-Averbakh system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3"
+    },
+    {
+        code: "E73",
+        name: "E73 King's Indian, Averbakh system",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5"
+    },
+    {
+        code: "E74",
+        name: "E74 King's Indian, Averbakh, 6...c5",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5"
+    },
+    {
+        code: "E75",
+        name: "E75 King's Indian, Averbakh, main line",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6"
+    },
+    {
+        code: "E76",
+        name: "E76 King's Indian, Four pawns attack",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4"
+    },
+    {
+        code: "E76",
+        name: "E76 King's Indian, Four pawns attack, dynamic line",
+        moves: "1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f4 O-O 6. Nf3 c5 7. d5"
     }
+    /* missing E77-E99 */
 ];
