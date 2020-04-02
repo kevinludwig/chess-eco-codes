@@ -580,6 +580,141 @@ module.exports = [
         moves: "1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. Nc3 c6 7. Qb3"
     },
     {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, 3.Nc3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, Janowski variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 a6"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, Alapin variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 b6"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, Charousek (Petrosian) variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Be7"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav, Noteboom variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav, Koomen variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 Qe7"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav, Junge variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 Qb6"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav, Abrahams variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6 4. Nf3 dxc4 5. a4 Bb4 6. e3 b5 7. Bd2 a5"
+    },
+    {
+        code: "D31",
+        name: "D31 Queen's Gambit Declined, semi-Slav, Marshall gambit",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c6 4. e4"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch defence",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch, von Hennig-Schara gambit",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch defence, 4.cd ed",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch defence, Tarrasch gambit",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. dxc5 d4 6. Na4 b5"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch defence, Marshall gambit",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. e4"
+    },
+    {
+        code: "D32",
+        name: "D32 Queen's Gambit Declined, Tarrasch defence",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3"
+    },
+    {
+        code: "D33",
+        name: "D33 Queen's Gambit Declined, Tarrasch, Schlechter-Rubinstein system",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3"
+    },
+    {
+        code: "D33",
+        name: "D33 Queen's Gambit Declined, Tarrasch, Folkestone (Swedish) variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4"
+    },
+    {
+        code: "D33",
+        name: "D33 Queen's Gambit Declined, Tarrasch, Schlechter-Rubinstein system, Rey Ardid variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 c4 7. e4"
+    },
+    {
+        code: "D33",
+        name: "D33 Queen's Gambit Declined, Tarrasch, Prague variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6"
+    },
+    {
+        code: "D33",
+        name: "D33 Queen's Gambit Declined, Tarrasch, Wagner variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Bg4"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Prague variation, 7...Be7",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Prague variation, Normal position",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Reti variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. dxc5 Bxc5 10. Na4"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Prague variation, 9.Bg5",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Bogolyubov variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5 Be6 10. Rc1 c4"
+    },
+    {
+        code: "D34",
+        name: "D34 Queen's Gambit Declined, Tarrasch, Stoltz variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 exd5 5. Nf3 Nc6 6. g3 Nf6 7. Bg2 Be7 8. O-O O-O 9. Bg5 Be6 10. Rc1 b6"
+    },
+    {
         code: "D70",
         name: "D70 Neo-Gruenfeld defence",
         moves: "1. d4 Nf6 2. c4 g6 3. f3 d5"
