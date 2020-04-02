@@ -865,6 +865,131 @@ module.exports = [
         moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5 9. Nxg5 Nd5"
     },
     {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, 5.e3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3"
+    },
+    {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, stonewall defence",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Ne4 6. Bd3 f5"
+    },
+    {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, accelerated Meran (Alekhine variation)",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 a6"
+    },
+    {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, 5...Nd7",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7"
+    },
+    {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, Stoltz variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Qc2"
+    },
+    {
+        code: "D45",
+        name: "D45 Queen's Gambit Declined semi-Slav, Rubinstein (anti-Meran) system",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Ne5"
+    },
+    {
+        code: "D46",
+        name: "D46 Queen's Gambit Declined semi-Slav, 6.Bd3",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3"
+    },
+    {
+        code: "D46",
+        name: "D46 Queen's Gambit Declined semi-Slav, Bogolyubov variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 Be7"
+    },
+    {
+        code: "D46",
+        name: "D46 Queen's Gambit Declined semi-Slav, Romih variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 Bb4"
+    },
+    {
+        code: "D46",
+        name: "D46 Queen's Gambit Declined semi-Slav, Chigorin defence",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 Bd6"
+    },
+    {
+        code: "D47",
+        name: "D47 Queen's Gambit Declined semi-Slav, 7.Bc4",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4"
+    },
+    {
+        code: "D47",
+        name: "D47 Queen's Gambit Declined semi-Slav, Meran variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5"
+    },
+    {
+        code: "D47",
+        name: "D47 Queen's Gambit Declined semi-Slav, neo-Meran (Lundin variation)",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 b4"
+    },
+    {
+        code: "D47",
+        name: "D47 Queen's Gambit Declined semi-Slav, Meran, Wade variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 Bb7"
+    },
+    {
+        code: "D48",
+        name: "D48 Queen's Gambit Declined semi-Slav, Meran, 8...a6",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6"
+    },
+    {
+        code: "D48",
+        name: "D48 Queen's Gambit Declined semi-Slav, Meran, Pirc variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 b4"
+    },
+    {
+        code: "D48",
+        name: "D48 Queen's Gambit Declined semi-Slav, Meran",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5"
+    },
+    {
+        code: "D48",
+        name: "D48 Queen's Gambit Declined semi-Slav, Meran, Reynolds' variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. d5"
+    },
+    {
+        code: "D48",
+        name: "D48 Queen's Gambit Declined semi-Slav, Meran, old main line",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Blumenfeld variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Rabinovich variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Ng4"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Sozin variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Stahlberg variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. Qf3"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Sozin variation",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O"
+    },
+    {
+        code: "D49",
+        name: "D49 Queen's Gambit Declined semi-Slav, Meran, Rellstab attack",
+        moves: "1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 c6 5. e3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3 a6 9. e4 c5 10. e5 cxd4 11. Nxb5 Nxe5 12. Nxe5 axb5 13. O-O Qd5 14. Qe2 Ba6 15. Bg5"
+    },
+    {
         code: "D70",
         name: "D70 Neo-Gruenfeld defence",
         moves: "1. d4 Nf6 2. c4 g6 3. f3 d5"
