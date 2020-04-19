@@ -4121,6 +4121,120 @@
     "moves": "1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3 Qc7 9. O-O-O Nbd7",
     "fen": "r1b1k2r/1pqnbppp/p2ppn2/6B1/3NPP2/2N2Q2/PPP3PP/2KR1B1R w kq - 5 10"
   },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2": {
+    "code": "C00",
+    "name": "French defense",
+    "moves": "1. e4 e6",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 2": {
+    "code": "C00",
+    "name": "French defense, Steiner variation",
+    "moves": "1. e4 e6 2. c4",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq c3 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2": {
+    "code": "C00",
+    "name": "French defense, Reti (Spielmann) variation",
+    "moves": "1. e4 e6 2. b3",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2": {
+    "code": "C00",
+    "name": "French defense, Steinitz attack",
+    "moves": "1. e4 e6 2. e5",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/4P3/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2": {
+    "code": "C00",
+    "name": "French defense, Labourdonnais variation",
+    "moves": "1. e4 e6 2. f4",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq f3 0 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2": {
+    "code": "C00",
+    "name": "French defense",
+    "moves": "1. e4 e6 2. Nf3",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 4": {
+    "code": "C00",
+    "name": "French defense, Wing gambit",
+    "moves": "1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/1P6/5N2/P1PP1PPP/RNBQKB1R b KQkq b3 0 4"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2": {
+    "code": "C00",
+    "name": "French defense",
+    "moves": "1. e4 e6 2. Nc3",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/2N5/PPPP1PPP/R1BQKBNR b KQkq - 1 2"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3": {
+    "code": "C00",
+    "name": "French, Pelican variation",
+    "moves": "1. e4 e6 2. Nc3 d5 3. f4",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/4PP2/2N5/PPPP2PP/R1BQKBNR b KQkq f3 0 3"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3": {
+    "code": "C00",
+    "name": "French, Two knights variation",
+    "moves": "1. e4 e6 2. Nc3 d5 3. Nf3",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq - 1 2": {
+    "code": "C00",
+    "name": "French, Chigorin variation",
+    "moves": "1. e4 e6 2. Qe2",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq - 1 2"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2": {
+    "code": "C00",
+    "name": "French, King's Indian attack",
+    "moves": "1. e4 e6 2. d3",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2"
+  },
+  "r1bqkb1r/ppp2ppp/2n1pn2/3p4/4P3/3P1N2/PPPNBPPP/R1BQK2R b KQkq - 5 5": {
+    "code": "C00",
+    "name": "French, Reversed Philidor formation",
+    "moves": "1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Nc6 5. Be2",
+    "fen": "r1bqkb1r/ppp2ppp/2n1pn2/3p4/4P3/3P1N2/PPPNBPPP/R1BQK2R b KQkq - 5 5"
+  },
+  "rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2": {
+    "code": "C00",
+    "name": "C00 French defence",
+    "moves": "1. e4 e6 2. d4",
+    "fen": "rnbqkbnr/pppp1ppp/4p3/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq d3 0 2"
+  },
+  "rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
+    "code": "C00",
+    "name": "Lengfellner system",
+    "moves": "1. e4 e6 2. d4 d6",
+    "fen": "rnbqkbnr/ppp2ppp/3pp3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3": {
+    "code": "C00",
+    "name": "St. George defense",
+    "moves": "1. e4 e6 2. d4 a6",
+    "fen": "rnbqkbnr/1ppp1ppp/p3p3/8/3PP3/8/PPP2PPP/RNBQKBNR w KQkq - 0 3"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3": {
+    "code": "C00",
+    "name": "French defence",
+    "moves": "1. e4 e6 2. d4 d5",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPP2PPP/RNBQKBNR w KQkq d6 0 3"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 3": {
+    "code": "C00",
+    "name": "French, Schlechter variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Bd3",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 3"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 3": {
+    "code": "C00",
+    "name": "French, Alapin variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Be3",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 3"
+  },
   "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2": {
     "code": "D00",
     "name": "Queen's pawn game",
