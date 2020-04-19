@@ -4235,6 +4235,270 @@
     "moves": "1. e4 e6 2. d4 d5 3. Be3",
     "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 3"
   },
+  "rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+    "code": "C01",
+    "name": "French, exchange variation",
+    "moves": "1. e4 e6 2. d4 d5 3. exd5",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3P4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3"
+  },
+  "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR b KQkq - 3 5": {
+    "code": "C01",
+    "name": "French exchange, Svenonius variation",
+    "moves": "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5",
+    "fen": "rnbqkb1r/ppp2ppp/5n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR b KQkq - 3 5"
+  },
+  "r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 4 6": {
+    "code": "C01",
+    "name": "French, exchange, Bogolyubov variation",
+    "moves": "1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nc3 Nf6 5. Bg5 Nc6",
+    "fen": "r1bqkb1r/ppp2ppp/2n2n2/3p2B1/3P4/2N5/PPP2PPP/R2QKBNR w KQkq - 4 6"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3": {
+    "code": "C02",
+    "name": "French, advance variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3pP3/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 3"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2PpP3/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4": {
+    "code": "C02",
+    "name": "French, advance, Steinitz variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. dxc5",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2PpP3/8/8/PPP2PPP/RNBQKBNR b KQkq - 0 4"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2ppP3/3P2Q1/8/PPP2PPP/RNB1KBNR b KQkq - 1 4": {
+    "code": "C02",
+    "name": "French, advance, Nimzovich variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. Qg4",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P2Q1/8/PPP2PPP/RNB1KBNR b KQkq - 1 4"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4": {
+    "code": "C02",
+    "name": "French, advance, Nimzovich system",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. Nf3",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/5N2/PPP2PPP/RNBQKB1R b KQkq - 1 4"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4": {
+    "code": "C02",
+    "name": "French, advance variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4"
+  },
+  "rn2kbnr/pp1b1ppp/1q2p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6": {
+    "code": "C02",
+    "name": "French, advance, Wade variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7",
+    "fen": "rn2kbnr/pp1b1ppp/1q2p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6"
+  },
+  "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 1 5": {
+    "code": "C02",
+    "name": "C02 French, advance variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6",
+    "fen": "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P5/PP3PPP/RNBQKBNR w KQkq - 1 5"
+  },
+  "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5": {
+    "code": "C02",
+    "name": "French, advance, Paulsen attack",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3",
+    "fen": "r1bqkbnr/pp3ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R b KQkq - 2 5"
+  },
+  "r1b1kbnr/pp3ppp/1qn1p3/2ppP3/3P4/2PB1N2/PP3PPP/RNBQK2R b KQkq - 4 6": {
+    "code": "C02",
+    "name": "French, advance, Milner-Barry gambit",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3",
+    "fen": "r1b1kbnr/pp3ppp/1qn1p3/2ppP3/3P4/2PB1N2/PP3PPP/RNBQK2R b KQkq - 4 6"
+  },
+  "r2qkbnr/pp1b1ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6": {
+    "code": "C02",
+    "name": "French, advance, Euwe variation",
+    "moves": "1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7",
+    "fen": "r2qkbnr/pp1b1ppp/2n1p3/2ppP3/3P4/2P2N2/PP3PPP/RNBQKB1R w KQkq - 3 6"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3": {
+    "code": "C03",
+    "name": "French, Tarrasch",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR b KQkq - 1 3"
+  },
+  "rnbqkbnr/ppp3pp/4p3/3p1p2/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq f6 0 4": {
+    "code": "C03",
+    "name": "French, Tarrasch, Haberditz variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 f5",
+    "fen": "rnbqkbnr/ppp3pp/4p3/3p1p2/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq f6 0 4"
+  },
+  "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "C03",
+    "name": "French, Tarrasch, Guimard variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nc6",
+    "fen": "r1bqkbnr/ppp2ppp/2n1p3/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/5N2/PPPN1PPP/R1BQKB1R w KQkq - 4 5": {
+    "code": "C04",
+    "name": "French, Tarrasch, Guimard main line",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6",
+    "fen": "r1bqkb1r/ppp2ppp/2n1pn2/3p4/3PP3/5N2/PPPN1PPP/R1BQKB1R w KQkq - 4 5"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "C05",
+    "name": "French, Tarrasch, closed variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nf6",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkb1r/p2n1ppp/1p2p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 0 7": {
+    "code": "C05",
+    "name": "French, Tarrasch, Botvinnik variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 b6",
+    "fen": "rnbqkb1r/p2n1ppp/1p2p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 0 7"
+  },
+  "r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 1 7": {
+    "code": "C05",
+    "name": "French, Tarrasch, closed variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6",
+    "fen": "r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P4/2PB4/PP1N1PPP/R1BQK1NR w KQkq - 1 7"
+  },
+  "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R b KQkq - 0 8": {
+    "code": "C06",
+    "name": "French, Tarrasch, closed variation, main line",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4",
+    "fen": "r1bqkb1r/pp1n1ppp/2n1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R b KQkq - 0 8"
+  },
+  "r1bqkb1r/pp3ppp/1nn1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R w KQkq - 1 9": {
+    "code": "C06",
+    "name": "French, Tarrasch, Leningrad variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4 Nb6",
+    "fen": "r1bqkb1r/pp3ppp/1nn1p3/3pP3/3P4/3B4/PP1NNPPP/R1BQK2R w KQkq - 1 9"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq c6 0 4": {
+    "code": "C07",
+    "name": "French, Tarrasch, open variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 c5",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/8/PPPN1PPP/R1BQKBNR w KQkq c6 0 4"
+  },
+  "rnbqkbnr/pp3ppp/4p3/8/2Bp4/5N2/PPPN1PPP/R1BQK2R w KQkq - 2 7": {
+    "code": "C07",
+    "name": "French, Tarrasch, Eliskases variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd8",
+    "fen": "rnbqkbnr/pp3ppp/4p3/8/2Bp4/5N2/PPPN1PPP/R1BQK2R w KQkq - 2 7"
+  },
+  "rnbqkbnr/pp3ppp/8/2pp4/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 0 5": {
+    "code": "C08",
+    "name": "French, Tarrasch, open, 4.ed ed",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5",
+    "fen": "rnbqkbnr/pp3ppp/8/2pp4/3P4/8/PPPN1PPP/R1BQKBNR w KQkq - 0 5"
+  },
+  "r1bqkbnr/pp3ppp/2n5/2pp4/3P4/5N2/PPPN1PPP/R1BQKB1R w KQkq - 2 6": {
+    "code": "C09",
+    "name": "French, Tarrasch, open variation, main line",
+    "moves": "1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6",
+    "fen": "r1bqkbnr/pp3ppp/2n5/2pp4/3P4/5N2/PPPN1PPP/R1BQKB1R w KQkq - 2 6"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3": {
+    "code": "C10",
+    "name": "French, Paulsen variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 3"
+  },
+  "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 4": {
+    "code": "C10",
+    "name": "French, Marshall variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 c5",
+    "fen": "rnbqkbnr/pp3ppp/4p3/2pp4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq c6 0 4"
+  },
+  "rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4": {
+    "code": "C10",
+    "name": "French, Rubinstein variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 dxe4",
+    "fen": "rnbqkbnr/ppp2ppp/4p3/8/3Pp3/2N5/PPP2PPP/R1BQKBNR w KQkq - 0 4"
+  },
+  "rn1qkbnr/ppp2ppp/2b1p3/8/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 6": {
+    "code": "C10",
+    "name": "French, Fort Knox variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6",
+    "fen": "rn1qkbnr/ppp2ppp/2b1p3/8/3PN3/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 6"
+  },
+  "r1bqkbnr/pppn1ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
+    "code": "C10",
+    "name": "French, Rubinstein variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7",
+    "fen": "r1bqkbnr/pppn1ppp/4p3/8/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5"
+  },
+  "r1bqkb1r/ppp2ppp/4pn2/4N3/3P4/8/PPP2PPP/R1BQKB1R b KQkq - 1 7": {
+    "code": "C10",
+    "name": "French, Rubinstein, Capablanca line",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Ne5",
+    "fen": "r1bqkb1r/ppp2ppp/4pn2/4N3/3P4/8/PPP2PPP/R1BQKB1R b KQkq - 1 7"
+  },
+  "rnb1kbnr/ppp2ppp/4p3/3q4/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5": {
+    "code": "C10",
+    "name": "French, Frere (Becker) variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Qd5",
+    "fen": "rnb1kbnr/ppp2ppp/4p3/3q4/3PN3/8/PPP2PPP/R1BQKBNR w KQkq - 1 5"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4": {
+    "code": "C11",
+    "name": "French defence",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N5/PPP2PPP/R1BQKBNR w KQkq - 2 4"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 3 4": {
+    "code": "C11",
+    "name": "French, Swiss variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bd3",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2NB4/PPP2PPP/R1BQK1NR b KQkq - 3 4"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 3 4": {
+    "code": "C11",
+    "name": "French, Henneberger variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Be3",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3p4/3PP3/2N1B3/PPP2PPP/R2QKBNR b KQkq - 3 4"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4": {
+    "code": "C11",
+    "name": "French, Steinitz variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/3pP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 0 4"
+  },
+  "rnbqk2r/pp1n1ppp/4p3/2bpP3/5PQ1/2N5/PPP3PP/R1B1KBNR b KQkq - 1 7": {
+    "code": "C11",
+    "name": "French, Steinitz, Bradford attack",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Bxc5 7. Qg4",
+    "fen": "rnbqk2r/pp1n1ppp/4p3/2bpP3/5PQ1/2N5/PPP3PP/R1B1KBNR b KQkq - 1 7"
+  },
+  "r1bqkb1r/pp1n1ppp/2n1p3/2PpP3/5P2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 7": {
+    "code": "C11",
+    "name": "French, Steinitz variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Nc6",
+    "fen": "r1bqkb1r/pp1n1ppp/2n1p3/2PpP3/5P2/2N5/PPP3PP/R1BQKBNR w KQkq - 1 7"
+  },
+  "r1bq1rk1/pp1n2pp/2n1pp2/2bpP3/5PQ1/P1N2N2/1PP3PP/R1B1KB1R w KQ - 0 10": {
+    "code": "C11",
+    "name": "French, Steinitz, Brodsky-Jones variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. dxc5 Nc6 7. a3 Bxc5 8. Qg4 O-O 9. Nf3 f6",
+    "fen": "r1bq1rk1/pp1n2pp/2n1pp2/2bpP3/5PQ1/P1N2N2/1PP3PP/R1B1KB1R w KQ - 0 10"
+  },
+  "rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 6": {
+    "code": "C11",
+    "name": "French, Steinitz variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3",
+    "fen": "rnbqkb1r/pp1n1ppp/4p3/2ppP3/3P1P2/2N2N2/PPP3PP/R1BQKB1R b KQkq - 1 6"
+  },
+  "r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2N1BN2/PPP3PP/R2QKB1R b KQkq - 3 7": {
+    "code": "C11",
+    "name": "French, Steinitz, Boleslavsky variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3",
+    "fen": "r1bqkb1r/pp1n1ppp/2n1p3/2ppP3/3P1P2/2N1BN2/PPP3PP/R2QKB1R b KQkq - 3 7"
+  },
+  "rnbqkb1r/pppn1ppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R1B1KBNR b KQkq - 2 5": {
+    "code": "C11",
+    "name": "French, Steinitz, Gledhill attack",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Qg4",
+    "fen": "rnbqkb1r/pppn1ppp/4p3/3pP3/3P2Q1/2N5/PPP2PPP/R1B1KBNR b KQkq - 2 5"
+  },
+  "rnbqkb1r/ppp2ppp/4pn2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5": {
+    "code": "C11",
+    "name": "French, Burn variation",
+    "moves": "1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4",
+    "fen": "rnbqkb1r/ppp2ppp/4pn2/6B1/3Pp3/2N5/PPP2PPP/R2QKBNR w KQkq - 0 5"
+  },
   "rnbqkbnr/ppp1pppp/8/3p4/3P4/8/PPP1PPPP/RNBQKBNR w KQkq d6 0 2": {
     "code": "D00",
     "name": "Queen's pawn game",
