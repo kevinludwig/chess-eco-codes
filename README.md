@@ -2,7 +2,8 @@
 
 [![Build Status](https://travis-ci.org/kevinludwig/chess-eco-codes.svg?branch=master)](https://travis-ci.org/kevinludwig/chess-eco-codes)
 
-Lookup ECO codes from FEN. This is a work in progress.
+I grabbed the eco.pgn for [pgn-extract](https://www.cs.kent.ac.uk/people/staff/djb/pgn-extract/) and ran it through [pgn-parser]() to generate
+a lookup table of fen string => opening name, for fast lookup in PGN viewer programs.
 
 ### Usage
 

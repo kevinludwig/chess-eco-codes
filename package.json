@@ -22,6 +22,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "chess.js": "^0.10.3",
-    "mocha": "^7.1.1"
+    "mocha": "^7.1.1",
+    "pgn-parser": "^1.0.2"
   }
 }

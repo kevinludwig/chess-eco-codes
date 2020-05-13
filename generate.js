@@ -1,21 +1,28 @@
 #!/usr/local/bin/node
 const fs = require('fs'),
       path = require('path'),
+      pgnParser = require('pgn-parser'),
       Chess = require('chess.js').Chess,
-      A = require('./A'),
-      B = require('./B'),
-      C = require('./C'),
-      D = require('./D'),
-      E = require('./E'),
-      chess = new Chess()
-      codes = A.concat(B, C, D, E);
+      chess = new Chess();
 
-const withFen = codes.map(code => {
-    chess.load_pgn(code.moves);
-    return Object.assign({}, code, {fen: chess.fen()});
-}).reduce((acc, code) => {
-    acc[code.fen] = code;
-    return acc;
-}, {});
+
+const data = fs.readFileSync('./eco.pgn', 'utf-8');
+const ecos = pgnParser.parse(data);
+
+const withFen = {};
+for (const eco of ecos) {
+    chess.reset();
+    for (const {move} of eco.moves) {
+        chess.move(move);
+    }
+    const code = eco.headers.ECO;
+    const opening = eco.headers.Opening;
+    const variation = eco.headers.Variation;
+    withFen[chess.fen()] = {
+        eco: code,
+        name: opening + (variation ? ': ' + variation : ''),
+        moves: chess.pgn()
+    };
+};
 
 fs.writeFileSync(path.join(__dirname, 'codes.json'), JSON.stringify(withFen, null, 2));
